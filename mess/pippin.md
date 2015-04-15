@@ -8,6 +8,8 @@
 |**Year:**|1996
 |**Manufacturer:**|Apple / Bandai
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=macpci.c)
+|**Source file:**|[macpci.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/macpci.c)
 
 ##Emulation info
 || Status |

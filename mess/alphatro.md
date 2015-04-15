@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Triumph-Adler
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=alphatro.c)
+|**Source file:**|[alphatro.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/alphatro.c)
 
 ##Emulation info
 || Status |

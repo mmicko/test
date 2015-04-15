@@ -8,6 +8,8 @@
 |**Year:**|2002
 |**Manufacturer:**|Wichit Sirichote
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=68ksbc.c)
+|**Source file:**|[68ksbc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/68ksbc.c)
 
 ##Emulation info
 || Status |

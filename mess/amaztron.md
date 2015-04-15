@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Coleco
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=hh_tms1k.c)
+|**Source file:**|[hh_tms1k.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/hh_tms1k.c)
 
 ##Emulation info
 || Status |

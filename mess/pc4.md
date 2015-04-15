@@ -8,6 +8,8 @@
 |**Year:**|1990
 |**Manufacturer:**|Laser Computer
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pc4.c)
+|**Source file:**|[pc4.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pc4.c)
 
 ##Emulation info
 || Status |

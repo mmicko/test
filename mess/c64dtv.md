@@ -8,6 +8,8 @@
 |**Year:**|2005
 |**Manufacturer:**|The Toy:Lobster Company
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=c64dtv.c)
+|**Source file:**|[c64dtv.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/c64dtv.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Osborne
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=osbexec.c)
+|**Source file:**|[osbexec.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/osbexec.c)
 
 ##Emulation info
 || Status |

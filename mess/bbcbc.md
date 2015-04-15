@@ -8,6 +8,8 @@
 |**Year:**|1985
 |**Manufacturer:**|BBC
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=bbcbc.c)
+|**Source file:**|[bbcbc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/bbcbc.c)
 
 ##Emulation info
 || Status |

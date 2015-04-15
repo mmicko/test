@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|General Processor
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=modellot.c)
+|**Source file:**|[modellot.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/modellot.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|2004
 |**Manufacturer:**|Mattel
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=juicebox.c)
+|**Source file:**|[juicebox.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/juicebox.c)
 
 ##Emulation info
 || Status |

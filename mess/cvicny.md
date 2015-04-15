@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|<unknown>
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=cvicny.c)
+|**Source file:**|[cvicny.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/cvicny.c)
 
 ##Emulation info
 || Status |

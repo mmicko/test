@@ -8,6 +8,8 @@
 |**Year:**|1985
 |**Manufacturer:**|Digelec, Inc
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=digel804.c)
+|**Source file:**|[digel804.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/digel804.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Jonos
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=jonos.c)
+|**Source file:**|[jonos.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/jonos.c)
 
 ##Emulation info
 || Status |

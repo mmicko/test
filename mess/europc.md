@@ -8,6 +8,8 @@
 |**Year:**|1988
 |**Manufacturer:**|Schneider Rdf. AG
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=europc.c)
+|**Source file:**|[europc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/europc.c)
 
 ##Emulation info
 || Status |

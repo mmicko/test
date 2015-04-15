@@ -8,6 +8,8 @@
 |**Year:**|1989
 |**Manufacturer:**|ViLi
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=ondra.c)
+|**Source file:**|[ondra.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/ondra.c)
 
 ##Emulation info
 || Status |

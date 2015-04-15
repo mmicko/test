@@ -8,6 +8,8 @@
 |**Year:**|2001
 |**Manufacturer:**|Nintendo
 |**Status:**|imperfect
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=gba.c)
+|**Source file:**|[gba.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/gba.c)
 
 ##Emulation info
 || Status |

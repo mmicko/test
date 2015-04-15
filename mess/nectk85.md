@@ -8,6 +8,8 @@
 |**Year:**|1980
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=tk80.c)
+|**Source file:**|[tk80.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/tk80.c)
 
 ##Emulation info
 || Status |

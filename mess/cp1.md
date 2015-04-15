@@ -8,6 +8,8 @@
 |**Year:**|1980
 |**Manufacturer:**|Kosmos
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=cp1.c)
+|**Source file:**|[cp1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/cp1.c)
 
 ##Emulation info
 || Status |

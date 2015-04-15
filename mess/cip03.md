@@ -8,6 +8,8 @@
 |**Year:**|1988
 |**Manufacturer:**|Electronica
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=spectrum.c)
+|**Source file:**|[spectrum.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/spectrum.c)
 
 ##Emulation info
 || Status |

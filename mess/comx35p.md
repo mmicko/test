@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Comx World Operations Ltd
 |**Status:**|imperfect
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=comx35.c)
+|**Source file:**|[comx35.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/comx35.c)
 
 ##Emulation info
 || Status |

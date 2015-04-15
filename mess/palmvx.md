@@ -8,6 +8,8 @@
 |**Year:**|1999
 |**Manufacturer:**|Palm Inc
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=palm.c)
+|**Source file:**|[palm.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/palm.c)
 
 ##Emulation info
 || Status |

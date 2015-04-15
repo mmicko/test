@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Davidge
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=dsb46.c)
+|**Source file:**|[dsb46.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/dsb46.c)
 
 ##Emulation info
 || Status |

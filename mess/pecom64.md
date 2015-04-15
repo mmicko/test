@@ -8,6 +8,8 @@
 |**Year:**|1987
 |**Manufacturer:**|Ei Nis
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pecom.c)
+|**Source file:**|[pecom.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pecom.c)
 
 ##Emulation info
 || Status |

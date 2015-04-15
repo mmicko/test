@@ -8,6 +8,8 @@
 |**Year:**|197?
 |**Manufacturer:**|Luxor
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=channelf.c)
+|**Source file:**|[channelf.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/channelf.c)
 
 ##Emulation info
 || Status |

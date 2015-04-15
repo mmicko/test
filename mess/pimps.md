@@ -8,6 +8,8 @@
 |**Year:**|197?
 |**Manufacturer:**|Henry Colford
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pimps.c)
+|**Source file:**|[pimps.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pimps.c)
 
 ##Emulation info
 || Status |

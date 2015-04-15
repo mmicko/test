@@ -8,6 +8,8 @@
 |**Year:**|????
 |**Manufacturer:**|Next Software Inc
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=next.c)
+|**Source file:**|[next.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/next.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Netronics
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=exp85.c)
+|**Source file:**|[exp85.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/exp85.c)
 
 ##Emulation info
 || Status |

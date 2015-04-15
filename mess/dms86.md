@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Digital Microsystems
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=dms86.c)
+|**Source file:**|[dms86.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/dms86.c)
 
 ##Emulation info
 || Status |

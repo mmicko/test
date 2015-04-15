@@ -8,6 +8,8 @@
 |**Year:**|1961
 |**Manufacturer:**|Digital Equipment Corporation
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pdp1.c)
+|**Source file:**|[pdp1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pdp1.c)
 
 ##Emulation info
 || Status |

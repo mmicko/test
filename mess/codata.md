@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Contel Codata Corporation
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=codata.c)
+|**Source file:**|[codata.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/codata.c)
 
 ##Emulation info
 || Status |

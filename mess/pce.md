@@ -8,6 +8,8 @@
 |**Year:**|1987
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|imperfect
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pce.c)
+|**Source file:**|[pce.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pce.c)
 
 ##Emulation info
 || Status |

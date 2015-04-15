@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Bambino
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=hh_hmcs40.c)
+|**Source file:**|[hh_hmcs40.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/hh_hmcs40.c)
 
 ##Emulation info
 || Status |

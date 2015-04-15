@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Intel
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=imds2.c)
+|**Source file:**|[imds2.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/imds2.c)
 
 ##Emulation info
 || Status |

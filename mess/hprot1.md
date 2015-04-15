@@ -8,6 +8,8 @@
 |**Year:**|2002
 |**Manufacturer:**|HENRY
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=hprot1.c)
+|**Source file:**|[hprot1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/hprot1.c)
 
 ##Emulation info
 || Status |

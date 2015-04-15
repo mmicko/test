@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Electronics Australia
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=eacc.c)
+|**Source file:**|[eacc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/eacc.c)
 
 ##Emulation info
 || Status |

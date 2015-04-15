@@ -8,6 +8,8 @@
 |**Year:**|1985
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=clcd.c)
+|**Source file:**|[clcd.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/clcd.c)
 
 ##Emulation info
 || Status |

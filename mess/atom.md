@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Acorn
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=atom.c)
+|**Source file:**|[atom.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/atom.c)
 
 ##Emulation info
 || Status |

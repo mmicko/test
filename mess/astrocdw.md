@@ -8,6 +8,8 @@
 |**Year:**|1977
 |**Manufacturer:**|Bally Manufacturing
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=astrocde.c)
+|**Source file:**|[astrocde.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/astrocde.c)
 
 ##Emulation info
 || Status |

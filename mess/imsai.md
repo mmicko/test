@@ -8,6 +8,8 @@
 |**Year:**|1978
 |**Manufacturer:**|Imsai
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=imsai.c)
+|**Source file:**|[imsai.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/imsai.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|2001
 |**Manufacturer:**|Sharp
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pce220.c)
+|**Source file:**|[pce220.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pce220.c)
 
 ##Emulation info
 || Status |

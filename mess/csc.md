@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Fidelity Electronics
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=csc.c)
+|**Source file:**|[csc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/csc.c)
 
 ##Emulation info
 || Status |

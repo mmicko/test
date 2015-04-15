@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Applied Concepts
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=chesstrv.c)
+|**Source file:**|[chesstrv.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/chesstrv.c)
 
 ##Emulation info
 || Status |

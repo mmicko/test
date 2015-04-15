@@ -8,6 +8,8 @@
 |**Year:**|1999
 |**Manufacturer:**|Sony Computer Entertainment Inc
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pockstat.c)
+|**Source file:**|[pockstat.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pockstat.c)
 
 ##Emulation info
 || Status |

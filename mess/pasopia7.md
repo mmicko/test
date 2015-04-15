@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Toshiba
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pasopia7.c)
+|**Source file:**|[pasopia7.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pasopia7.c)
 
 ##Emulation info
 || Status |

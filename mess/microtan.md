@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Tangerine
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=microtan.c)
+|**Source file:**|[microtan.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/microtan.c)
 
 ##Emulation info
 || Status |

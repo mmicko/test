@@ -8,6 +8,8 @@
 |**Year:**|1991
 |**Manufacturer:**|MicroART
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=atm.c)
+|**Source file:**|[atm.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/atm.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|1997
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=avigo.c)
+|**Source file:**|[avigo.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/avigo.c)
 
 ##Emulation info
 || Status |

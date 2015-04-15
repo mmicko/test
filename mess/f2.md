@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|ACT
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=apricotf.c)
+|**Source file:**|[apricotf.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/apricotf.c)
 
 ##Emulation info
 || Status |

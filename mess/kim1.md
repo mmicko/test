@@ -8,6 +8,8 @@
 |**Year:**|1975
 |**Manufacturer:**|MOS Technologies
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=kim1.c)
+|**Source file:**|[kim1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/kim1.c)
 
 ##Emulation info
 || Status |

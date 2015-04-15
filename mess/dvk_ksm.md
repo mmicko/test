@@ -8,6 +8,8 @@
 |**Year:**|1986
 |**Manufacturer:**|USSR
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=dvk_ksm.c)
+|**Source file:**|[dvk_ksm.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/dvk_ksm.c)
 
 ##Emulation info
 || Status |

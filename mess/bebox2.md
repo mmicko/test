@@ -8,6 +8,8 @@
 |**Year:**|1996
 |**Manufacturer:**|Be Inc
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=bebox.c)
+|**Source file:**|[bebox.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/bebox.c)
 
 ##Emulation info
 || Status |

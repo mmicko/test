@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|MGU
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=irisha.c)
+|**Source file:**|[irisha.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/irisha.c)
 
 ##Emulation info
 || Status |

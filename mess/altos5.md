@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Altos
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=altos5.c)
+|**Source file:**|[altos5.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/altos5.c)
 
 ##Emulation info
 || Status |

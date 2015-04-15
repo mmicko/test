@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Mera-Elzab
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=konin.c)
+|**Source file:**|[konin.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/konin.c)
 
 ##Emulation info
 || Status |

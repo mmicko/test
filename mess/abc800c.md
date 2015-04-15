@@ -8,6 +8,8 @@
 |**Year:**|1981
 |**Manufacturer:**|Luxor Datorer AB
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=abc80x.c)
+|**Source file:**|[abc80x.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/abc80x.c)
 
 ##Emulation info
 || Status |

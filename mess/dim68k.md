@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|Micro Craft
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=dim68k.c)
+|**Source file:**|[dim68k.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/dim68k.c)
 
 ##Emulation info
 || Status |

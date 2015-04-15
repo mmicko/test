@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=cbm2.c)
+|**Source file:**|[cbm2.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/cbm2.c)
 
 ##Emulation info
 || Status |

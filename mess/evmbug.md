@@ -8,6 +8,8 @@
 |**Year:**|19??
 |**Manufacturer:**|Texas Instruments
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=evmbug.c)
+|**Source file:**|[evmbug.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/evmbug.c)
 
 ##Emulation info
 || Status |

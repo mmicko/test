@@ -8,6 +8,8 @@
 |**Year:**|1995
 |**Manufacturer:**|Casio
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=casloopy.c)
+|**Source file:**|[casloopy.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/casloopy.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|1986
 |**Manufacturer:**|Institut Ivo Lola Ribar
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=lola8a.c)
+|**Source file:**|[lola8a.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/lola8a.c)
 
 ##Emulation info
 || Status |

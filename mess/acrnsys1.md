@@ -8,6 +8,8 @@
 |**Year:**|1978
 |**Manufacturer:**|Acorn
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=acrnsys1.c)
+|**Source file:**|[acrnsys1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/acrnsys1.c)
 
 ##Emulation info
 || Status |

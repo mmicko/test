@@ -8,6 +8,8 @@
 |**Year:**|1981
 |**Manufacturer:**|Sharp
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=mz80.c)
+|**Source file:**|[mz80.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/mz80.c)
 
 ##Emulation info
 || Status |

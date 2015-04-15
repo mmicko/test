@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=plus4.c)
+|**Source file:**|[plus4.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/plus4.c)
 
 ##Emulation info
 || Status |

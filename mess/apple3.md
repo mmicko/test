@@ -8,6 +8,8 @@
 |**Year:**|1980
 |**Manufacturer:**|Apple Computer
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=apple3.c)
+|**Source file:**|[apple3.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/apple3.c)
 
 ##Emulation info
 || Status |

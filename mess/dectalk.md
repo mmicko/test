@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|Digital Equipment Corporation
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=dectalk.c)
+|**Source file:**|[dectalk.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/dectalk.c)
 
 ##Emulation info
 || Status |

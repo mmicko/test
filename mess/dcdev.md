@@ -8,6 +8,8 @@
 |**Year:**|1998
 |**Manufacturer:**|Sega
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=dccons.c)
+|**Source file:**|[dccons.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/dccons.c)
 
 ##Emulation info
 || Status |

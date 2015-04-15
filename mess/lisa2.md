@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=lisa.c)
+|**Source file:**|[lisa.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/lisa.c)
 
 ##Emulation info
 || Status |

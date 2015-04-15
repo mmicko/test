@@ -8,6 +8,8 @@
 |**Year:**|1997
 |**Manufacturer:**|Intelligent Peripheral Devices
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=alphasma.c)
+|**Source file:**|[alphasma.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/alphasma.c)
 
 ##Emulation info
 || Status |

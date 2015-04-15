@@ -8,6 +8,8 @@
 |**Year:**|1997
 |**Manufacturer:**|Ensoniq
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=esqasr.c)
+|**Source file:**|[esqasr.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/esqasr.c)
 
 ##Emulation info
 || Status |

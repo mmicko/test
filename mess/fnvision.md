@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Video Technology
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=crvision.c)
+|**Source file:**|[crvision.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/crvision.c)
 
 ##Emulation info
 || Status |

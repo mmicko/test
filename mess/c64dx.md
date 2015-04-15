@@ -8,6 +8,8 @@
 |**Year:**|1991
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=c65.c)
+|**Source file:**|[c65.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/c65.c)
 
 ##Emulation info
 || Status |

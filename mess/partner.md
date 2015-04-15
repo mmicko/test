@@ -8,6 +8,8 @@
 |**Year:**|1987
 |**Manufacturer:**|SAM SKB VM
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=partner.c)
+|**Source file:**|[partner.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/partner.c)
 
 ##Emulation info
 || Status |

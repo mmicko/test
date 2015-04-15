@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Panasonic
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=myb3k.c)
+|**Source file:**|[myb3k.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/myb3k.c)
 
 ##Emulation info
 || Status |

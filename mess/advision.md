@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Entex Industries Inc
 |**Status:**|imperfect
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=advision.c)
+|**Source file:**|[advision.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/advision.c)
 
 ##Emulation info
 || Status |

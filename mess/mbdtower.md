@@ -8,6 +8,8 @@
 |**Year:**|1981
 |**Manufacturer:**|Milton Bradley
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=mbdtower.c)
+|**Source file:**|[mbdtower.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/mbdtower.c)
 
 ##Emulation info
 || Status |

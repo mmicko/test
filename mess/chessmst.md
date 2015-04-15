@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|VEB Mikroelektronik Erfurt
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=chessmst.c)
+|**Source file:**|[chessmst.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/chessmst.c)
 
 ##Emulation info
 || Status |

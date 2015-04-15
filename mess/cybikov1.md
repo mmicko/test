@@ -8,6 +8,8 @@
 |**Year:**|2000
 |**Manufacturer:**|Cybiko Inc
 |**Status:**|imperfect
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=cybiko.c)
+|**Source file:**|[cybiko.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/cybiko.c)
 
 ##Emulation info
 || Status |

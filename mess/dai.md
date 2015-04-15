@@ -8,6 +8,8 @@
 |**Year:**|1978
 |**Manufacturer:**|Data Applications International
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=dai.c)
+|**Source file:**|[dai.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/dai.c)
 
 ##Emulation info
 || Status |

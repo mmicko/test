@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Ideal
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=hh_pic16.c)
+|**Source file:**|[hh_pic16.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/hh_pic16.c)
 
 ##Emulation info
 || Status |

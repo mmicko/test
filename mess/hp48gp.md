@@ -8,6 +8,8 @@
 |**Year:**|1998
 |**Manufacturer:**|Hewlett Packard
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=hp48.c)
+|**Source file:**|[hp48.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/hp48.c)
 
 ##Emulation info
 || Status |

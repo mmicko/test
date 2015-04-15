@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Hitachi
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=bml3.c)
+|**Source file:**|[bml3.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/bml3.c)
 
 ##Emulation info
 || Status |

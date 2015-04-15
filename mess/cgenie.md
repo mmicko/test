@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|EACA Computers Ltd
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=cgenie.c)
+|**Source file:**|[cgenie.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/cgenie.c)
 
 ##Emulation info
 || Status |

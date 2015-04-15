@@ -8,6 +8,8 @@
 |**Year:**|1991
 |**Manufacturer:**|Philips
 |**Status:**|imperfect
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=cdi.c)
+|**Source file:**|[cdi.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/cdi.c)
 
 ##Emulation info
 || Status |

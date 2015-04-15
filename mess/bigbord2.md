@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Digital Research Computers
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=bigbord2.c)
+|**Source file:**|[bigbord2.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/bigbord2.c)
 
 ##Emulation info
 || Status |

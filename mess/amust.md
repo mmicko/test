@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Amust
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=amust.c)
+|**Source file:**|[amust.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/amust.c)
 
 ##Emulation info
 || Status |

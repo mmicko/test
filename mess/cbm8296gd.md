@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pet.c)
+|**Source file:**|[pet.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pet.c)
 
 ##Emulation info
 || Status |

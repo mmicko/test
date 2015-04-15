@@ -8,6 +8,8 @@
 |**Year:**|1989
 |**Manufacturer:**|Atari
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=lynx.c)
+|**Source file:**|[lynx.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/lynx.c)
 
 ##Emulation info
 || Status |

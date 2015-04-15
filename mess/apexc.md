@@ -8,6 +8,8 @@
 |**Year:**|1955
 |**Manufacturer:**|Andrew Donald Booth
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=apexc.c)
+|**Source file:**|[apexc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/apexc.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|LCD EPFL Stoppani
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=dolphunk.c)
+|**Source file:**|[dolphunk.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/dolphunk.c)
 
 ##Emulation info
 || Status |

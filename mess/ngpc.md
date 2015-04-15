@@ -8,6 +8,8 @@
 |**Year:**|1999
 |**Manufacturer:**|SNK
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=ngp.c)
+|**Source file:**|[ngp.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/ngp.c)
 
 ##Emulation info
 || Status |

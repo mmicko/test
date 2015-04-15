@@ -8,6 +8,8 @@
 |**Year:**|1981
 |**Manufacturer:**|Osborne
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=osborne1.c)
+|**Source file:**|[osborne1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/osborne1.c)
 
 ##Emulation info
 || Status |

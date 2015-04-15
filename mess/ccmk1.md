@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Computer Electronic
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=mk1.c)
+|**Source file:**|[mk1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/mk1.c)
 
 ##Emulation info
 || Status |

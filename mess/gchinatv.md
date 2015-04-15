@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Golden China
 |**Status:**|imperfect
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=nes.c)
+|**Source file:**|[nes.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/nes.c)
 
 ##Emulation info
 || Status |

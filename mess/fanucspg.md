@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Fanuc
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=fanucspmg.c)
+|**Source file:**|[fanucspmg.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/fanucspmg.c)
 
 ##Emulation info
 || Status |

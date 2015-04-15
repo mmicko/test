@@ -8,6 +8,8 @@
 |**Year:**|1994
 |**Manufacturer:**|SNK
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=ng_aes.c)
+|**Source file:**|[ng_aes.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/ng_aes.c)
 
 ##Emulation info
 || Status |

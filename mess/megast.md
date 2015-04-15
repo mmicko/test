@@ -8,6 +8,8 @@
 |**Year:**|1987
 |**Manufacturer:**|Atari
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=atarist.c)
+|**Source file:**|[atarist.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/atarist.c)
 
 ##Emulation info
 || Status |

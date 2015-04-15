@@ -8,6 +8,8 @@
 |**Year:**|1980
 |**Manufacturer:**|J.F.P. Philipse
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=phunsy.c)
+|**Source file:**|[phunsy.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/phunsy.c)
 
 ##Emulation info
 || Status |

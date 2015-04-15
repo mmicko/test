@@ -8,6 +8,8 @@
 |**Year:**|1989
 |**Manufacturer:**|Jugend+Technik
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=jtc.c)
+|**Source file:**|[jtc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/jtc.c)
 
 ##Emulation info
 || Status |

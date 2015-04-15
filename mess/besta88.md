@@ -8,6 +8,8 @@
 |**Year:**|1988
 |**Manufacturer:**|Sapsan
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=besta.c)
+|**Source file:**|[besta.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/besta.c)
 
 ##Emulation info
 || Status |

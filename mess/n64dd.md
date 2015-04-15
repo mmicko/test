@@ -8,6 +8,8 @@
 |**Year:**|1996
 |**Manufacturer:**|Nintendo
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=n64.c)
+|**Source file:**|[n64.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/n64.c)
 
 ##Emulation info
 || Status |

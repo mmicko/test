@@ -8,6 +8,8 @@
 |**Year:**|1988
 |**Manufacturer:**|Mugler/Mathes
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pcm.c)
+|**Source file:**|[pcm.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pcm.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Hitachi
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=bmjr.c)
+|**Source file:**|[bmjr.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/bmjr.c)
 
 ##Emulation info
 || Status |

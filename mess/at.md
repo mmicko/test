@@ -8,6 +8,8 @@
 |**Year:**|1987
 |**Manufacturer:**|<generic>
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=at.c)
+|**Source file:**|[at.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/at.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|1985
 |**Manufacturer:**|Bondwell Holding
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=bw2.c)
+|**Source file:**|[bw2.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/bw2.c)
 
 ##Emulation info
 || Status |

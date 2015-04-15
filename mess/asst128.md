@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Schetmash
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=asst128.c)
+|**Source file:**|[asst128.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/asst128.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|1976
 |**Manufacturer:**|Wave Mate
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=jupiter.c)
+|**Source file:**|[jupiter.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/jupiter.c)
 
 ##Emulation info
 || Status |

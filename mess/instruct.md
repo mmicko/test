@@ -8,6 +8,8 @@
 |**Year:**|1978
 |**Manufacturer:**|Signetics
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=instruct.c)
+|**Source file:**|[instruct.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/instruct.c)
 
 ##Emulation info
 || Status |

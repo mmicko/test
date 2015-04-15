@@ -8,6 +8,8 @@
 |**Year:**|2005
 |**Manufacturer:**|LeapFrog
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=leapster.c)
+|**Source file:**|[leapster.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/leapster.c)
 
 ##Emulation info
 || Status |

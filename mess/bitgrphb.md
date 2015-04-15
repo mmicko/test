@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|BBN
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=bitgraph.c)
+|**Source file:**|[bitgraph.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/bitgraph.c)
 
 ##Emulation info
 || Status |

@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Schleicher
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=mes.c)
+|**Source file:**|[mes.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/mes.c)
 
 ##Emulation info
 || Status |
