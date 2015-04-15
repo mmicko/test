@@ -1,0 +1,25 @@
+#AlphaSmart 2000
+
+##Info
+
+||Info|
+|-----|-----|
+|**Setname:**|asma2k
+|**Year:**|1997
+|**Manufacturer:**|Intelligent Peripheral Devices
+|**Status:**|preliminary
+
+##Emulation info
+|| Status |
+|-----|-----|
+|Overall emulation:|preliminary
+|Color emulation:|good
+|Sound emulation:|preliminary
+|Graphics emulation:|good
+|Savestates:|unsupported
+
+##Tech info
+
+##Romset info
+
+<!--- START OF EDITED COMMENT DO NOT TOUCH TEXT ABOVE-->

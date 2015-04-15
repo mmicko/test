@@ -1,0 +1,25 @@
+#Alto-II
+
+##Info
+
+||Info|
+|-----|-----|
+|**Setname:**|alto2
+|**Year:**|1977
+|**Manufacturer:**|Xerox
+|**Status:**|preliminary
+
+##Emulation info
+|| Status |
+|-----|-----|
+|Overall emulation:|good
+|Color emulation:|good
+|Sound emulation:|preliminary
+|Graphics emulation:|good
+|Savestates:|unsupported
+
+##Tech info
+
+##Romset info
+
+<!--- START OF EDITED COMMENT DO NOT TOUCH TEXT ABOVE-->

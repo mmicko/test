@@ -1,0 +1,25 @@
+#UT-88 mini
+
+##Info
+
+||Info|
+|-----|-----|
+|**Setname:**|ut88mini
+|**Year:**|1989
+|**Manufacturer:**|<unknown>
+|**Status:**|good
+
+##Emulation info
+|| Status |
+|-----|-----|
+|Overall emulation:|good
+|Color emulation:|good
+|Sound emulation:|good
+|Graphics emulation:|good
+|Savestates:|unsupported
+
+##Tech info
+
+##Romset info
+
+<!--- START OF EDITED COMMENT DO NOT TOUCH TEXT ABOVE-->

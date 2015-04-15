@@ -1,0 +1,25 @@
+#TK-80BS
+
+##Info
+
+||Info|
+|-----|-----|
+|**Setname:**|tk80bs
+|**Year:**|1980
+|**Manufacturer:**|Nippon Electronic Company
+|**Status:**|preliminary
+
+##Emulation info
+|| Status |
+|-----|-----|
+|Overall emulation:|preliminary
+|Color emulation:|good
+|Sound emulation:|good
+|Graphics emulation:|good
+|Savestates:|unsupported
+
+##Tech info
+
+##Romset info
+
+<!--- START OF EDITED COMMENT DO NOT TOUCH TEXT ABOVE-->

@@ -1,0 +1,25 @@
+#Orion 128
+
+##Info
+
+||Info|
+|-----|-----|
+|**Setname:**|orion128
+|**Year:**|1990
+|**Manufacturer:**|<unknown>
+|**Status:**|good
+
+##Emulation info
+|| Status |
+|-----|-----|
+|Overall emulation:|good
+|Color emulation:|good
+|Sound emulation:|good
+|Graphics emulation:|good
+|Savestates:|unsupported
+
+##Tech info
+
+##Romset info
+
+<!--- START OF EDITED COMMENT DO NOT TOUCH TEXT ABOVE-->

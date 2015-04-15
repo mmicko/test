@@ -1,0 +1,25 @@
+#Didaktik Kompakt
+
+##Info
+
+||Info|
+|-----|-----|
+|**Setname:**|didaktk
+|**Year:**|1992
+|**Manufacturer:**|Didaktik Skalica
+|**Status:**|good
+
+##Emulation info
+|| Status |
+|-----|-----|
+|Overall emulation:|good
+|Color emulation:|good
+|Sound emulation:|good
+|Graphics emulation:|good
+|Savestates:|unsupported
+
+##Tech info
+
+##Romset info
+
+<!--- START OF EDITED COMMENT DO NOT TOUCH TEXT ABOVE-->
