@@ -51,6 +51,11 @@ cartridge ("cartslot")|	cartridge|	cart|	bin, rom|
 |Software lists||
 |-----|-----|
 |vc4000|original
+
+##Romset info
+
+This system uses no ROMs (data is contained in the optional media)
+
 <!--- START OF EDITED COMMENT DO NOT TOUCH TEXT ABOVE-->
 
 
