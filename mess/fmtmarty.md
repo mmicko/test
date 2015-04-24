@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fmtmarty
-|**Clones:**|[carmarty](carmarty.md)
-||[fmtmarty2](fmtmarty2.md)
+|**Clones:**|[FM-Towns Car Marty](carmarty.md)
+||[FM-Towns Marty 2](fmtmarty2.md)
 |**Year:**|1993
 |**Manufacturer:**|Fujitsu
 |**Status:**|preliminary

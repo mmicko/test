@@ -5,11 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|canonv20
-|**Clones:**|[canonv10](canonv10.md)
-||[canonv20e](canonv20e.md)
-||[canonv20f](canonv20f.md)
-||[canonv20g](canonv20g.md)
-||[canonv20s](canonv20s.md)
+|**Clones:**|[V-10 (MSX1)](canonv10.md)
+||[V-20E (MSX1)](canonv20e.md)
+||[V-20F (MSX1)](canonv20f.md)
+||[V-20G (MSX1)](canonv20g.md)
+||[V-20S (MSX1)](canonv20s.md)
 |**Year:**|1983
 |**Manufacturer:**|Canon
 |**Status:**|good

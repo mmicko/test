@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|korvet
-|**Clones:**|[bk8t](bk8t.md)
-||[kontur](kontur.md)
-||[neiva](neiva.md)
+|**Clones:**|[BK-8T](bk8t.md)
+||[PK8020 Kontur](kontur.md)
+||[PK8020 Neiva](neiva.md)
 |**Year:**|1987
 |**Manufacturer:**|<unknown>
 |**Status:**|good

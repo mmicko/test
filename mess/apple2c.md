@@ -5,14 +5,14 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2c
-|**Clones:**|[apple2c0](apple2c0.md)
-||[apple2c3](apple2c3.md)
-||[apple2c4](apple2c4.md)
-||[apple2cp](apple2cp.md)
-||[las128e2](las128e2.md)
-||[las128ex](las128ex.md)
-||[laser128](laser128.md)
-||[tk3000](tk3000.md)
+|**Clones:**|[Apple //c (UniDisk 3.5)](apple2c0.md)
+||[Apple //c (Original Memory Expansion)](apple2c3.md)
+||[Apple //c (rev 4)](apple2c4.md)
+||[Apple //c Plus](apple2cp.md)
+||[Laser 128ex2 (version 6.1)](las128e2.md)
+||[Laser 128ex (version 4.5)](las128ex.md)
+||[Laser 128 (version 4.2)](laser128.md)
+||[TK3000//e](tk3000.md)
 |**Year:**|1984
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

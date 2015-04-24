@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|snmath
-|**Clones:**|[snmathp](snmathp.md)
+|**Clones:**|[Speak & Math (US, 1980 version/prototype)](snmathp.md)
 |**Year:**|1986
 |**Manufacturer:**|Texas Instruments
 |**Status:**|imperfect

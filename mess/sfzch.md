@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sfzch
-|**Clones:**|[sfach](sfach.md)
-||[sfzbch](sfzbch.md)
+|**Clones:**|[Street Fighter Alpha: Warriors' Dreams (CPS Changer, Publicity USA 950727)](sfach.md)
+||[Street Fighter Zero (CPS Changer, Brazil 950727)](sfzbch.md)
 |**Year:**|1995
 |**Manufacturer:**|Capcom
 |**Status:**|good

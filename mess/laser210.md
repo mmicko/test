@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laser210
-|**Clones:**|[vz200](vz200.md)
+|**Clones:**|[VZ-200 (Oceania)](vz200.md)
 |**Year:**|1984
 |**Manufacturer:**|Video Technology
 |**Status:**|good

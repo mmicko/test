@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|einstein
-|**Clones:**|[einstei2](einstei2.md)
+|**Clones:**|[Einstein TC-01 + 80 column device](einstei2.md)
 |**Year:**|1984
 |**Manufacturer:**|Tatung
 |**Status:**|good

@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hb55p
-|**Clones:**|[hb55](hb55.md)
-||[hb55d](hb55d.md)
+|**Clones:**|[HB-55 (MSX1)](hb55.md)
+||[HB-55D (Germany) (MSX1)](hb55d.md)
 |**Year:**|1983
 |**Manufacturer:**|Sony
 |**Status:**|good

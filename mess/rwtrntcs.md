@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|rwtrntcs
-|**Clones:**|[telngtcs](telngtcs.md)
+|**Clones:**|[Teleng Television Computer System](telngtcs.md)
 |**Year:**|1979
 |**Manufacturer:**|Rowtron
 |**Status:**|imperfect

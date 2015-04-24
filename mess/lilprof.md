@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lilprof
-|**Clones:**|[lilprof78](lilprof78.md)
+|**Clones:**|[Little Professor (1978 version)](lilprof78.md)
 |**Year:**|1976
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good

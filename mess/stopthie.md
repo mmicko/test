@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|stopthie
-|**Clones:**|[stopthiep](stopthiep.md)
+|**Clones:**|[Stop Thief (Electronic Crime Scanner) (prototype)](stopthiep.md)
 |**Year:**|1979
 |**Manufacturer:**|Parker Brothers
 |**Status:**|good

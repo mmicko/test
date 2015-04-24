@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|eps
-|**Clones:**|[eps16p](eps16p.md)
+|**Clones:**|[EPS-16 Plus](eps16p.md)
 |**Year:**|1988
 |**Manufacturer:**|Ensoniq
 |**Status:**|preliminary

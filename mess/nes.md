@@ -5,14 +5,14 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nes
-|**Clones:**|[dendy](dendy.md)
-||[drpcjr](drpcjr.md)
-||[famicom](famicom.md)
-||[famitwin](famitwin.md)
-||[fds](fds.md)
-||[gchinatv](gchinatv.md)
-||[m82](m82.md)
-||[nespal](nespal.md)
+|**Clones:**|[Dendy Classic](dendy.md)
+||[Doctor PC Jr](drpcjr.md)
+||[Famicom (NTSC)](famicom.md)
+||[Famicom Twin](famitwin.md)
+||[Famicom (w/ Disk System add-on)](fds.md)
+||[Golden China TV Game](gchinatv.md)
+||[M82 Display Unit](m82.md)
+||[Nintendo Entertainment System (PAL)](nespal.md)
 |**Year:**|1985
 |**Manufacturer:**|Nintendo
 |**Status:**|imperfect

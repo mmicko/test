@@ -5,18 +5,18 @@
 ||Info|
 |-----|-----|
 |**Setname:**|van16
-|**Clones:**|[alm16](alm16.md)
-||[alm32](alm32.md)
-||[berlinp](berlinp.md)
-||[bpl32](bpl32.md)
-||[gen32](gen32.md)
-||[gen32_41](gen32_41.md)
-||[gen32_oc](gen32_oc.md)
-||[lond020](lond020.md)
-||[lond030](lond030.md)
-||[lyon16](lyon16.md)
-||[lyon32](lyon32.md)
-||[van32](van32.md)
+|**Clones:**|[Mephisto Almeria 68000](alm16.md)
+||[Mephisto Alimera 68020](alm32.md)
+||[Mephisto Berlin Pro 68020](berlinp.md)
+||[Mephisto Berlin Pro London Upgrade V5.00](bpl32.md)
+||[Mephisto Genius030 V4.00](gen32.md)
+||[Mephisto Genius030 V4.01](gen32_41.md)
+||[Mephisto Genius030 V4.01OC](gen32_oc.md)
+||[Mephisto London 68020 32 Bit](lond020.md)
+||[Mephisto Genius030 London Upgrade V5.00](lond030.md)
+||[Mephisto Lyon 68000](lyon16.md)
+||[Mephisto Lyon 68020](lyon32.md)
+||[Mephisto Vancouver 68020](van32.md)
 |**Year:**|1991
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

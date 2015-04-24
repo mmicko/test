@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|polgar
-|**Clones:**|[milano](milano.md)
+|**Clones:**|[Mephisto Milano Schachcomputer](milano.md)
 |**Year:**|1986
 |**Manufacturer:**|Hegener & Glaser
 |**Status:**|good

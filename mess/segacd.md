@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|segacd
-|**Clones:**|[megacd](megacd.md)
-||[megacda](megacda.md)
-||[megacdj](megacdj.md)
+|**Clones:**|[Mega-CD (Europe, PAL)](megacd.md)
+||[Mega-CD (Asia, PAL)](megacda.md)
+||[Mega-CD (Japan, NTSC)](megacdj.md)
 |**Year:**|1992
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

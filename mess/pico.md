@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pico
-|**Clones:**|[picoj](picoj.md)
-||[picou](picou.md)
+|**Clones:**|[Pico (Japan, NTSC)](picoj.md)
+||[Pico (USA, NTSC)](picou.md)
 |**Year:**|1994
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

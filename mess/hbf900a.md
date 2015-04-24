@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf900a
-|**Clones:**|[hbf900](hbf900.md)
+|**Clones:**|[HB-F900 / 1st released version (Japan) (MSX2)](hbf900.md)
 |**Year:**|1986
 |**Manufacturer:**|Sony
 |**Status:**|good

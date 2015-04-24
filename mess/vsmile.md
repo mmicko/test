@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vsmile
-|**Clones:**|[vsmilef](vsmilef.md)
+|**Clones:**|[V-Smile (France)](vsmilef.md)
 |**Year:**|2005
 |**Manufacturer:**|V-Tech
 |**Status:**|preliminary

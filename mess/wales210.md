@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|wales210
-|**Clones:**|[dator3k](dator3k.md)
-||[drwrt100](drwrt100.md)
-||[drwrt200](drwrt200.md)
-||[drwrt400](drwrt400.md)
-||[drwrt450](drwrt450.md)
-||[es210_es](es210_es.md)
+|**Clones:**|[Dator 3000](dator3k.md)
+||[DreamWriter T100](drwrt100.md)
+||[DreamWriter T200](drwrt200.md)
+||[DreamWriter T400](drwrt400.md)
+||[DreamWriter 450](drwrt450.md)
+||[ES-210 (Spain)](es210_es.md)
 |**Year:**|199?
 |**Manufacturer:**|Walther
 |**Status:**|preliminary

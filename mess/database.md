@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|database
-|**Clones:**|[vmdtbase](vmdtbase.md)
+|**Clones:**|[Videomaster Database Games-Computer](vmdtbase.md)
 |**Year:**|1979
 |**Manufacturer:**|Voltmace
 |**Status:**|imperfect

@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pasopia7
-|**Clones:**|[pasopia7lcd](pasopia7lcd.md)
+|**Clones:**|[Pasopia 7 (LCD)](pasopia7lcd.md)
 |**Year:**|1983
 |**Manufacturer:**|Toshiba
 |**Status:**|preliminary

@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|glasgow
-|**Clones:**|[dallas](dallas.md)
+|**Clones:**|[Mephisto Dallas](dallas.md)
 |**Year:**|1984
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

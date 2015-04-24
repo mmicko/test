@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fmtowns
-|**Clones:**|[fmtownsa](fmtownsa.md)
-||[fmtownsftv](fmtownsftv.md)
-||[fmtownshr](fmtownshr.md)
-||[fmtownsmx](fmtownsmx.md)
-||[fmtownssj](fmtownssj.md)
-||[fmtownsux](fmtownsux.md)
+|**Clones:**|[FM-Towns (alternate)](fmtownsa.md)
+||[FM-Towns II FreshTV](fmtownsftv.md)
+||[FM-Towns II HR](fmtownshr.md)
+||[FM-Towns II MX](fmtownsmx.md)
+||[FM-Towns II SJ](fmtownssj.md)
+||[FM-Towns II UX](fmtownsux.md)
 |**Year:**|1989
 |**Manufacturer:**|Fujitsu
 |**Status:**|preliminary

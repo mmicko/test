@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vip
-|**Clones:**|[vp111](vp111.md)
+|**Clones:**|[Cosmac VIP (VP-111)](vp111.md)
 |**Year:**|1977
 |**Manufacturer:**|RCA
 |**Status:**|imperfect

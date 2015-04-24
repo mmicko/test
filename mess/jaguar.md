@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|jaguar
-|**Clones:**|[jaguarcd](jaguarcd.md)
+|**Clones:**|[Jaguar CD](jaguarcd.md)
 |**Year:**|1993
 |**Manufacturer:**|Atari
 |**Status:**|preliminary

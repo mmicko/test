@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|basic52
-|**Clones:**|[basic31](basic31.md)
+|**Clones:**|[MCS BASIC 31](basic31.md)
 |**Year:**|1985
 |**Manufacturer:**|Intel
 |**Status:**|good

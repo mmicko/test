@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ut88mini
-|**Clones:**|[ut88](ut88.md)
+|**Clones:**|[UT-88](ut88.md)
 |**Year:**|1989
 |**Manufacturer:**|<unknown>
 |**Status:**|good

@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ormatu
-|**Clones:**|[intervsn](intervsn.md)
-||[sheenhvc](sheenhvc.md)
+|**Clones:**|[Intervision 2001](intervsn.md)
+||[Sheen Home Video Centre 2001](sheenhvc.md)
 |**Year:**|198?
 |**Manufacturer:**|Ormatu Electronics
 |**Status:**|imperfect

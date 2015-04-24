@@ -5,20 +5,20 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ste
-|**Clones:**|[megaste](megaste.md)
-||[megaste_de](megaste_de.md)
-||[megaste_es](megaste_es.md)
-||[megaste_fr](megaste_fr.md)
-||[megaste_it](megaste_it.md)
-||[megaste_se](megaste_se.md)
-||[megaste_uk](megaste_uk.md)
-||[ste_de](ste_de.md)
-||[ste_es](ste_es.md)
-||[ste_fr](ste_fr.md)
-||[ste_it](ste_it.md)
-||[ste_se](ste_se.md)
-||[ste_sg](ste_sg.md)
-||[ste_uk](ste_uk.md)
+|**Clones:**|[MEGA STE (USA)](megaste.md)
+||[MEGA STE (Germany)](megaste_de.md)
+||[MEGA STE (Spain)](megaste_es.md)
+||[MEGA STE (France)](megaste_fr.md)
+||[MEGA STE (Italy)](megaste_it.md)
+||[MEGA STE (Sweden)](megaste_se.md)
+||[MEGA STE (UK)](megaste_uk.md)
+||[STE (Germany)](ste_de.md)
+||[STE (Spain)](ste_es.md)
+||[STE (France)](ste_fr.md)
+||[STE (Italy)](ste_it.md)
+||[STE (Sweden)](ste_se.md)
+||[STE (Switzerland)](ste_sg.md)
+||[STE (UK)](ste_uk.md)
 |**Year:**|1989
 |**Manufacturer:**|Atari
 |**Status:**|preliminary

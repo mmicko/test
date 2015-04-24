@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|avigo
-|**Clones:**|[avigo_de](avigo_de.md)
-||[avigo_es](avigo_es.md)
-||[avigo_fr](avigo_fr.md)
-||[avigo_it](avigo_it.md)
+|**Clones:**|[TI Avigo 10 PDA (German)](avigo_de.md)
+||[TI Avigo 10 PDA (Spanish)](avigo_es.md)
+||[TI Avigo 10 PDA (French)](avigo_fr.md)
+||[TI Avigo 10 PDA (Italian)](avigo_it.md)
 |**Year:**|1997
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good

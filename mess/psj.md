@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|psj
-|**Clones:**|[psa](psa.md)
-||[pse](pse.md)
-||[psu](psu.md)
+|**Clones:**|[Sony PlayStation (Asia-Pacific)](psa.md)
+||[Sony PlayStation (Europe)](pse.md)
+||[Sony PlayStation (USA)](psu.md)
 |**Year:**|1994
 |**Manufacturer:**|Sony Computer Entertainment Inc
 |**Status:**|preliminary

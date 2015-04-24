@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|jtc
-|**Clones:**|[jtces23](jtces23.md)
-||[jtces40](jtces40.md)
-||[jtces88](jtces88.md)
+|**Clones:**|[CompJU+TEr (ES 2.3)](jtces23.md)
+||[CompJU+TEr (ES 4.0)](jtces40.md)
+||[CompJU+TEr (EMR-ES 1988)](jtces88.md)
 |**Year:**|1987
 |**Manufacturer:**|Jugend+Technik
 |**Status:**|preliminary

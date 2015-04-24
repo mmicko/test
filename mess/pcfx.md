@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pcfx
-|**Clones:**|[pcfxga](pcfxga.md)
+|**Clones:**|[PC-FX/GA (PC ISA Card)](pcfxga.md)
 |**Year:**|1994
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|preliminary

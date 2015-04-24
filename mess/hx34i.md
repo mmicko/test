@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hx34i
-|**Clones:**|[hx34](hx34.md)
+|**Clones:**|[HX-34 (MSX2)](hx34.md)
 |**Year:**|1985
 |**Manufacturer:**|Toshiba
 |**Status:**|good

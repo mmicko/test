@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|gjrstar
-|**Clones:**|[gjrstar2](gjrstar2.md)
+|**Clones:**|[Genius Junior Redstar 2 (Germany)](gjrstar2.md)
 |**Year:**|1996
 |**Manufacturer:**|VTech
 |**Status:**|preliminary

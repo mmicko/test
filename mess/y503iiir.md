@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|y503iiir
-|**Clones:**|[y503iiire](y503iiire.md)
+|**Clones:**|[YIS-503 III R (Estonian) (MSX2)](y503iiire.md)
 |**Year:**|198?
 |**Manufacturer:**|Yamaha
 |**Status:**|preliminary

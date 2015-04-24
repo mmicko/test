@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|crvision
-|**Clones:**|[crvisio2](crvisio2.md)
-||[crvisioj](crvisioj.md)
-||[fnvision](fnvision.md)
-||[rameses](rameses.md)
-||[vz2000](vz2000.md)
-||[wizzard](wizzard.md)
+|**Clones:**|[CreatiVision MK-II (Europe)](crvisio2.md)
+||[CreatiVision (Japan)](crvisioj.md)
+||[FunVision](fnvision.md)
+||[Rameses (Oceania)](rameses.md)
+||[VZ 2000 (Oceania)](vz2000.md)
+||[Wizzard (Oceania)](wizzard.md)
 |**Year:**|1982
 |**Manufacturer:**|Video Technology
 |**Status:**|good

@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macpb140
-|**Clones:**|[macpb145](macpb145.md)
-||[macpb145b](macpb145b.md)
-||[macpb170](macpb170.md)
-||[macqd700](macqd700.md)
+|**Clones:**|[Macintosh PowerBook 145](macpb145.md)
+||[Macintosh PowerBook 145B](macpb145b.md)
+||[Macintosh PowerBook 170](macpb170.md)
+||[Macintosh Quadra 700](macqd700.md)
 |**Year:**|1991
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

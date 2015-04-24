@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cgenie
-|**Clones:**|[cgenienz](cgenienz.md)
+|**Clones:**|[Colour Genie EG2000 (New Zealand)](cgenienz.md)
 |**Year:**|1982
 |**Manufacturer:**|EACA Computers Ltd
 |**Status:**|good

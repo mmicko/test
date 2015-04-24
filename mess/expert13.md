@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|expert13
-|**Clones:**|[expert10](expert10.md)
-||[expert11](expert11.md)
+|**Clones:**|[Expert 1.0 (Brazil) (MSX1)](expert10.md)
+||[Expert 1.1 (Brazil) (MSX1)](expert11.md)
 |**Year:**|1984
 |**Manufacturer:**|Gradiente
 |**Status:**|good

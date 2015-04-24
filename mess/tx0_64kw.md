@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tx0_64kw
-|**Clones:**|[tx0_8kw](tx0_8kw.md)
+|**Clones:**|[TX-0 upgraded system (8 kWords of RAM)](tx0_8kw.md)
 |**Year:**|1956
 |**Manufacturer:**|MIT
 |**Status:**|preliminary

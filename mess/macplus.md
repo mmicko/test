@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macplus
-|**Clones:**|[mac512ke](mac512ke.md)
-||[unitron](unitron.md)
+|**Clones:**|[Macintosh 512ke](mac512ke.md)
+||[Mac 512](unitron.md)
 |**Year:**|1986
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

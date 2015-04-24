@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|astrocde
-|**Clones:**|[astrocdl](astrocdl.md)
-||[astrocdw](astrocdw.md)
+|**Clones:**|[Bally Home Library Computer](astrocdl.md)
+||[Bally Computer System](astrocdw.md)
 |**Year:**|1978
 |**Manufacturer:**|Bally Manufacturing
 |**Status:**|good

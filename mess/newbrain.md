@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|newbrain
-|**Clones:**|[newbraina](newbraina.md)
-||[newbraineim](newbraineim.md)
-||[newbrainmd](newbrainmd.md)
+|**Clones:**|[NewBrain A](newbraina.md)
+||[NewBrain AD with Expansion Interface](newbraineim.md)
+||[NewBrain MD](newbrainmd.md)
 |**Year:**|1981
 |**Manufacturer:**|Grundy Business Systems Ltd
 |**Status:**|preliminary

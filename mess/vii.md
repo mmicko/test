@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vii
-|**Clones:**|[batmantv](batmantv.md)
-||[walle](walle.md)
+|**Clones:**|[The Batman](batmantv.md)
+||[Wall-E](walle.md)
 |**Year:**|2007
 |**Manufacturer:**|Jungle Soft / KenSingTon / Chintendo / Siatronics
 |**Status:**|preliminary

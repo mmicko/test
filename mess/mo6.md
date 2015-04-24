@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mo6
-|**Clones:**|[pro128](pro128.md)
+|**Clones:**|[Prodest PC 128](pro128.md)
 |**Year:**|1986
 |**Manufacturer:**|Thomson
 |**Status:**|good

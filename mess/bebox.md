@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bebox
-|**Clones:**|[bebox2](bebox2.md)
+|**Clones:**|[BeBox Dual603-133](bebox2.md)
 |**Year:**|1995
 |**Manufacturer:**|Be Inc
 |**Status:**|preliminary

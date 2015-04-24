@@ -5,11 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|super80
-|**Clones:**|[super80d](super80d.md)
-||[super80e](super80e.md)
-||[super80m](super80m.md)
-||[super80r](super80r.md)
-||[super80v](super80v.md)
+|**Clones:**|[Super-80 (V2.2)](super80d.md)
+||[Super-80 (El Graphix 4)](super80e.md)
+||[Super-80 (with colour)](super80m.md)
+||[Super-80 (with VDUEB)](super80r.md)
+||[Super-80 (with enhanced VDUEB)](super80v.md)
 |**Year:**|1981
 |**Manufacturer:**|Dick Smith Electronics
 |**Status:**|good

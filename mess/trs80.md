@@ -5,18 +5,18 @@
 ||Info|
 |-----|-----|
 |**Setname:**|trs80
-|**Clones:**|[ht108064](ht108064.md)
-||[ht1080z](ht1080z.md)
-||[ht1080z2](ht1080z2.md)
-||[lnw80](lnw80.md)
-||[meritum](meritum.md)
-||[meritum_net](meritum_net.md)
-||[radionic](radionic.md)
-||[sys80](sys80.md)
-||[trs80l2](trs80l2.md)
-||[trs80m3](trs80m3.md)
-||[trs80m4](trs80m4.md)
-||[trs80m4p](trs80m4p.md)
+|**Clones:**|[HT-1080Z/64](ht108064.md)
+||[HT-1080Z Series I](ht1080z.md)
+||[HT-1080Z Series II](ht1080z2.md)
+||[LNW-80](lnw80.md)
+||[Meritum I (Model 2)](meritum.md)
+||[Meritum I (Model 2) (network)](meritum_net.md)
+||[Radionic](radionic.md)
+||[System-80](sys80.md)
+||[TRS-80 Model I (Level II Basic)](trs80l2.md)
+||[TRS-80 Model III](trs80m3.md)
+||[TRS-80 Model 4](trs80m4.md)
+||[TRS-80 Model 4P](trs80m4p.md)
 |**Year:**|1977
 |**Manufacturer:**|Tandy Radio Shack
 |**Status:**|good

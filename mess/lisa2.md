@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lisa2
-|**Clones:**|[lisa210](lisa210.md)
-||[macxl](macxl.md)
+|**Clones:**|[Lisa2/10](lisa210.md)
+||[Macintosh XL](macxl.md)
 |**Year:**|1984
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

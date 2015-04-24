@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|attache
-|**Clones:**|[attachef](attachef.md)
+|**Clones:**|[Attache (boot rev F)](attachef.md)
 |**Year:**|1982
 |**Manufacturer:**|Otrona
 |**Status:**|preliminary

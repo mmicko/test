@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laser350
-|**Clones:**|[laser500](laser500.md)
-||[laser700](laser700.md)
+|**Clones:**|[Laser 500](laser500.md)
+||[Laser 700](laser700.md)
 |**Year:**|1984?
 |**Manufacturer:**|Video Technology
 |**Status:**|good

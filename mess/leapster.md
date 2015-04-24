@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|leapster
-|**Clones:**|[leapstertv](leapstertv.md)
+|**Clones:**|[Leapster TV (Germany)](leapstertv.md)
 |**Year:**|2003
 |**Manufacturer:**|LeapFrog
 |**Status:**|preliminary

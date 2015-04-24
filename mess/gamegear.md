@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|gamegear
-|**Clones:**|[gamegeaj](gamegeaj.md)
+|**Clones:**|[Game Gear (Japan)](gamegeaj.md)
 |**Year:**|1990
 |**Manufacturer:**|Sega
 |**Status:**|good

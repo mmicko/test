@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hotbi13p
-|**Clones:**|[hotbi13b](hotbi13b.md)
-||[hotbit11](hotbit11.md)
-||[hotbit12](hotbit12.md)
+|**Clones:**|[HB-8000 Hotbit 1.3b (MSX1)](hotbi13b.md)
+||[HB-8000 Hotbit 1.1 (MSX1)](hotbit11.md)
+||[HB-8000 Hotbit 1.2 (MSX1)](hotbit12.md)
 |**Year:**|1985
 |**Manufacturer:**|Sharp / Epcom
 |**Status:**|good

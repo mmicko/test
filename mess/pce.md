@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pce
-|**Clones:**|[sgx](sgx.md)
-||[tg16](tg16.md)
+|**Clones:**|[SuperGrafx](sgx.md)
+||[TurboGrafx 16](tg16.md)
 |**Year:**|1987
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|imperfect

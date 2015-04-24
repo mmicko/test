@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|svision
-|**Clones:**|[svisionn](svisionn.md)
-||[svisionp](svisionp.md)
-||[svisions](svisions.md)
-||[tvlinkp](tvlinkp.md)
+|**Clones:**|[Super Vision (NTSC TV Link Colored)](svisionn.md)
+||[Super Vision (PAL TV Link Colored)](svisionp.md)
+||[Super Vision (PeT Communication Simulation)](svisions.md)
+||[TV Link PAL](tvlinkp.md)
 |**Year:**|1992
 |**Manufacturer:**|Watara
 |**Status:**|good

@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mac128k
-|**Clones:**|[mac512k](mac512k.md)
+|**Clones:**|[Macintosh 512k](mac512k.md)
 |**Year:**|1984
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

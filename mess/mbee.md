@@ -5,17 +5,17 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mbee
-|**Clones:**|[mbee128](mbee128.md)
-||[mbee128p](mbee128p.md)
-||[mbee256](mbee256.md)
-||[mbee56](mbee56.md)
-||[mbeeic](mbeeic.md)
-||[mbeepc](mbeepc.md)
-||[mbeepc85](mbeepc85.md)
-||[mbeepc85b](mbeepc85b.md)
-||[mbeepc85s](mbeepc85s.md)
-||[mbeeppc](mbeeppc.md)
-||[mbeett](mbeett.md)
+|**Clones:**|[Microbee 128k Standard](mbee128.md)
+||[Microbee 128k Premium](mbee128p.md)
+||[Microbee 256TC](mbee256.md)
+||[Microbee 56k](mbee56.md)
+||[Microbee 32 IC](mbeeic.md)
+||[Microbee Personal Communicator](mbeepc.md)
+||[Microbee PC85](mbeepc85.md)
+||[Microbee PC85 (New version)](mbeepc85b.md)
+||[Microbee PC85 (Swedish)](mbeepc85s.md)
+||[Microbee Premium PC85](mbeeppc.md)
+||[Microbee Teleterm](mbeett.md)
 |**Year:**|1982
 |**Manufacturer:**|Applied Technology
 |**Status:**|good

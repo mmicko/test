@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ondrat
-|**Clones:**|[ondrav](ondrav.md)
+|**Clones:**|[Ondra ViLi](ondrav.md)
 |**Year:**|1989
 |**Manufacturer:**|Tesla
 |**Status:**|good

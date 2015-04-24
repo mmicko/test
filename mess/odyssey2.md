@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|odyssey2
-|**Clones:**|[g7400](g7400.md)
-||[jopac](jopac.md)
-||[odyssey3](odyssey3.md)
-||[videopac](videopac.md)
+|**Clones:**|[Videopac Plus G7400](g7400.md)
+||[Jopac JO7400](jopac.md)
+||[Odyssey 3 Command Center (prototype)](odyssey3.md)
+||[Videopac G7000/C52](videopac.md)
 |**Year:**|1978
 |**Manufacturer:**|Magnavox
 |**Status:**|good

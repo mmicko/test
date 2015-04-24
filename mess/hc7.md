@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hc7
-|**Clones:**|[hc5](hc5.md)
-||[hc6](hc6.md)
+|**Clones:**|[HC-5 (MSX1)](hc5.md)
+||[HC-6 (MSX1)](hc6.md)
 |**Year:**|198?
 |**Manufacturer:**|Victor
 |**Status:**|good

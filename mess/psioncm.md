@@ -5,11 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|psioncm
-|**Clones:**|[psionla](psionla.md)
-||[psionlam](psionlam.md)
-||[psionp200](psionp200.md)
-||[psionp350](psionp350.md)
-||[psionxp](psionxp.md)
+|**Clones:**|[Organiser II LA](psionla.md)
+||[Organiser II LAM](psionlam.md)
+||[Organiser II P200](psionp200.md)
+||[Organiser II P350](psionp350.md)
+||[Organiser II XP](psionxp.md)
 |**Year:**|1986
 |**Manufacturer:**|Psion
 |**Status:**|imperfect

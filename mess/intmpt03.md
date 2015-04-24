@@ -5,16 +5,16 @@
 ||Info|
 |-----|-----|
 |**Setname:**|intmpt03
-|**Clones:**|[dynavisn](dynavisn.md)
-||[ekusera](ekusera.md)
-||[itmcmtp3](itmcmtp3.md)
-||[poppympt](poppympt.md)
-||[prestmpt](prestmpt.md)
-||[rowtrn2k](rowtrn2k.md)
-||[soundic](soundic.md)
-||[tbbympt3](tbbympt3.md)
-||[tempestm](tempestm.md)
-||[tryomvgc](tryomvgc.md)
+|**Clones:**|[Dynavision](dynavisn.md)
+||[Ekusera](ekusera.md)
+||[ITMC MPT-03](itmcmtp3.md)
+||[Poppy MPT-03 Tele Computer Spiel](poppympt.md)
+||[Prestige Video Computer Game MPT-03](prestmpt.md)
+||[Rowtron 2000](rowtrn2k.md)
+||[Soundic MPT-03](soundic.md)
+||[Tobby MPT-03](tbbympt3.md)
+||[Tempest MPT-03](tempestm.md)
+||[Tryom Video Game Center](tryomvgc.md)
 |**Year:**|198?
 |**Manufacturer:**|Intelligent Game
 |**Status:**|imperfect

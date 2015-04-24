@@ -5,19 +5,19 @@
 ||Info|
 |-----|-----|
 |**Setname:**|st
-|**Clones:**|[megast](megast.md)
-||[megast_de](megast_de.md)
-||[megast_fr](megast_fr.md)
-||[megast_se](megast_se.md)
-||[megast_sg](megast_sg.md)
-||[megast_uk](megast_uk.md)
-||[st_de](st_de.md)
-||[st_es](st_es.md)
-||[st_fr](st_fr.md)
-||[st_nl](st_nl.md)
-||[st_se](st_se.md)
-||[st_sg](st_sg.md)
-||[st_uk](st_uk.md)
+|**Clones:**|[MEGA ST (USA)](megast.md)
+||[MEGA ST (Germany)](megast_de.md)
+||[MEGA ST (France)](megast_fr.md)
+||[MEGA ST (Sweden)](megast_se.md)
+||[MEGA ST (Switzerland)](megast_sg.md)
+||[MEGA ST (UK)](megast_uk.md)
+||[ST (Germany)](st_de.md)
+||[ST (Spain)](st_es.md)
+||[ST (France)](st_fr.md)
+||[ST (Netherlands)](st_nl.md)
+||[ST (Sweden)](st_se.md)
+||[ST (Switzerland)](st_sg.md)
+||[ST (UK)](st_uk.md)
 |**Year:**|1985
 |**Manufacturer:**|Atari
 |**Status:**|preliminary

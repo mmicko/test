@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|segacd2
-|**Clones:**|[aiwamcd](aiwamcd.md)
-||[megacd2](megacd2.md)
-||[megacd2j](megacd2j.md)
+|**Clones:**|[Mega-CD CSD-G1M (Japan, NTSC)](aiwamcd.md)
+||[Mega-CD 2 (Europe, PAL)](megacd2.md)
+||[Mega-CD 2 (Japan, NTSC)](megacd2j.md)
 |**Year:**|1993
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

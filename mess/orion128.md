@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|orion128
-|**Clones:**|[orionide](orionide.md)
-||[orionidm](orionidm.md)
-||[orionms](orionms.md)
-||[orionpro](orionpro.md)
-||[orionz80](orionz80.md)
-||[orionzms](orionzms.md)
+|**Clones:**|[Orion 128 + Z80 Card II + IDE](orionide.md)
+||[Orion 128 + Z80 Card II + IDE (MS7007)](orionidm.md)
+||[Orion 128 (MS7007)](orionms.md)
+||[Orion Pro](orionpro.md)
+||[Orion 128 + Z80 Card II](orionz80.md)
+||[Orion 128 + Z80 Card II (MS7007)](orionzms.md)
 |**Year:**|1990
 |**Manufacturer:**|<unknown>
 |**Status:**|good

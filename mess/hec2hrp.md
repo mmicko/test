@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hec2hrp
-|**Clones:**|[hec2hr](hec2hr.md)
-||[hec2hrx](hec2hrx.md)
-||[hec2mdhrx](hec2mdhrx.md)
-||[hec2mx40](hec2mx40.md)
-||[hec2mx80](hec2mx80.md)
-||[victor](victor.md)
+|**Clones:**|[Hector 2HR](hec2hr.md)
+||[Hector HRX + Disc2](hec2hrx.md)
+||[Hector HRX + mini Disc](hec2mdhrx.md)
+||[Hector MX 40c + Disc2](hec2mx40.md)
+||[Hector MX 80c + Disc2](hec2mx80.md)
+||[Victor](victor.md)
 |**Year:**|1983
 |**Manufacturer:**|Micronique
 |**Status:**|imperfect

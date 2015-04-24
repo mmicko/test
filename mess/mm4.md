@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mm4
-|**Clones:**|[mm2](mm2.md)
-||[mm4tk](mm4tk.md)
-||[mm5](mm5.md)
-||[mm50](mm50.md)
-||[mm5tk](mm5tk.md)
-||[rebel5](rebel5.md)
+|**Clones:**|[Mephisto MM2 Schachcomputer](mm2.md)
+||[Mephisto 4 Schachcomputer Turbo Kit + HG440](mm4tk.md)
+||[Mephisto 5.1 Schachcomputer](mm5.md)
+||[Mephisto 5.0 Schachcomputer](mm50.md)
+||[Mephisto 5.1 Schachcomputer Turbo Kit + HG550](mm5tk.md)
+||[Mephisto Rebell 5,0 Schachcomputer](rebel5.md)
 |**Year:**|1987
 |**Manufacturer:**|Hegener & Glaser
 |**Status:**|good

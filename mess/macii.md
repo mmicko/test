@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macii
-|**Clones:**|[maciihmu](maciihmu.md)
+|**Clones:**|[Macintosh II (w/o 68851 MMU)](maciihmu.md)
 |**Year:**|1987
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

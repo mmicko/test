@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|glcolor
-|**Clones:**|[glscolor](glscolor.md)
+|**Clones:**|[Genius Leader Super Color (Germany)](glscolor.md)
 |**Year:**|1994
 |**Manufacturer:**|VTech
 |**Status:**|preliminary

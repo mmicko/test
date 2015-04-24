@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|llc1
-|**Clones:**|[llc2](llc2.md)
+|**Clones:**|[LLC-2](llc2.md)
 |**Year:**|1984
 |**Manufacturer:**|SCCH
 |**Status:**|preliminary

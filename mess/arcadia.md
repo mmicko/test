@@ -5,17 +5,17 @@
 ||Info|
 |-----|-----|
 |**Setname:**|arcadia
-|**Clones:**|[advsnha](advsnha.md)
-||[bndarc](bndarc.md)
-||[hanihac](hanihac.md)
-||[hmg2650](hmg2650.md)
-||[ixl2000](ixl2000.md)
-||[leonardo](leonardo.md)
-||[lvision](lvision.md)
-||[tccosmos](tccosmos.md)
-||[telefevr](telefevr.md)
-||[tunixha](tunixha.md)
-||[tvg2000](tvg2000.md)
+|**Clones:**|[Advision Home Arcade](advsnha.md)
+||[Arcadia](bndarc.md)
+||[Hanimex Home Arcade Centre](hanihac.md)
+||[HMG-2650](hmg2650.md)
+||[Intercord XL 2000 System](ixl2000.md)
+||[Leonardo](leonardo.md)
+||[Leisure-Vision](lvision.md)
+||[Tele-Computer Cosmos](tccosmos.md)
+||[Tele-Fever](telefevr.md)
+||[Tunix Home Arcade](tunixha.md)
+||[Schmid TVG 2000](tvg2000.md)
 |**Year:**|1982
 |**Manufacturer:**|Emerson
 |**Status:**|imperfect

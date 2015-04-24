@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laser310
-|**Clones:**|[laser310h](laser310h.md)
-||[vz300](vz300.md)
+|**Clones:**|[Laser 310 (SHRG)](laser310h.md)
+||[VZ-300 (Oceania)](vz300.md)
 |**Year:**|1984
 |**Manufacturer:**|Video Technology
 |**Status:**|good

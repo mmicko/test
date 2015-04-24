@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbg900p
-|**Clones:**|[hbg900ap](hbg900ap.md)
+|**Clones:**|[HB-G900AP (MSX2)](hbg900ap.md)
 |**Year:**|1986
 |**Manufacturer:**|Sony
 |**Status:**|good

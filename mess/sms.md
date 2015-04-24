@@ -5,15 +5,15 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sms
-|**Clones:**|[sg1000m3](sg1000m3.md)
-||[sms1](sms1.md)
-||[sms1kr](sms1kr.md)
-||[sms1krfm](sms1krfm.md)
-||[sms1pal](sms1pal.md)
-||[smsj](smsj.md)
-||[smskr](smskr.md)
-||[smspal](smspal.md)
-||[smssdisp](smssdisp.md)
+|**Clones:**|[SG-1000 Mark III](sg1000m3.md)
+||[Master System I](sms1.md)
+||[Gam*Boy I (Korea)](sms1kr.md)
+||[Gam*Boy I - FM (Korea)](sms1krfm.md)
+||[Master System I (PAL)](sms1pal.md)
+||[Master System (Japan)](smsj.md)
+||[Gam*Boy II (Korea)](smskr.md)
+||[Master System II (PAL)](smspal.md)
+||[Master System Store Display Unit](smssdisp.md)
 |**Year:**|1990
 |**Manufacturer:**|Sega
 |**Status:**|good

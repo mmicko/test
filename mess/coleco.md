@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|coleco
-|**Clones:**|[colecop](colecop.md)
-||[svi603](svi603.md)
+|**Clones:**|[ColecoVision (PAL)](colecop.md)
+||[SVI-603 Coleco Game Adapter](svi603.md)
 |**Year:**|1982
 |**Manufacturer:**|Coleco
 |**Status:**|good

@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mpf1
-|**Clones:**|[mpf1b](mpf1b.md)
-||[mpf1p](mpf1p.md)
+|**Clones:**|[Micro Professor 1B](mpf1b.md)
+||[Micro Professor 1 Plus](mpf1p.md)
 |**Year:**|1979
 |**Manufacturer:**|Multitech
 |**Status:**|good

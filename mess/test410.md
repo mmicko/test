@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|test410
-|**Clones:**|[test420](test420.md)
+|**Clones:**|[T420 test suite](test420.md)
 |**Year:**|2008
 |**Manufacturer:**|T400 uController project
 |**Status:**|good

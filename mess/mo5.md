@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mo5
-|**Clones:**|[mo5e](mo5e.md)
+|**Clones:**|[MO5E](mo5e.md)
 |**Year:**|1984
 |**Manufacturer:**|Thomson
 |**Status:**|good

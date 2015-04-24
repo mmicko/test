@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laser200
-|**Clones:**|[fellow](fellow.md)
-||[tx8000](tx8000.md)
-||[vz200de](vz200de.md)
+|**Clones:**|[Fellow (Finland)](fellow.md)
+||[TX-8000 (UK)](tx8000.md)
+||[VZ-200 (Germany & Netherlands)](vz200de.md)
 |**Year:**|1983
 |**Manufacturer:**|Video Technology
 |**Status:**|good

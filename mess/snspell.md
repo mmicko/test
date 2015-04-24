@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|snspell
-|**Clones:**|[ladictee](ladictee.md)
-||[snspella](snspella.md)
-||[snspellb](snspellb.md)
-||[snspelljp](snspelljp.md)
-||[snspelluk](snspelluk.md)
-||[snspelluka](snspelluka.md)
+|**Clones:**|[La Dictee Magique (France)](ladictee.md)
+||[Speak & Spell (US, 1979 version)](snspella.md)
+||[Speak & Spell (US, 1980 version)](snspellb.md)
+||[Speak & Spell (Japan)](snspelljp.md)
+||[Speak & Spell (UK, 1978 version)](snspelluk.md)
+||[Speak & Spell (UK, 1981 version)](snspelluka.md)
 |**Year:**|1978
 |**Manufacturer:**|Texas Instruments
 |**Status:**|imperfect

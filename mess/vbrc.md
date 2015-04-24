@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vbrc
-|**Clones:**|[bridgec3](bridgec3.md)
+|**Clones:**|[Bridge Challenger 3 (model 7014)](bridgec3.md)
 |**Year:**|1979
 |**Manufacturer:**|Fidelity Electronics
 |**Status:**|preliminary

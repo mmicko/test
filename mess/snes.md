@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|snes
-|**Clones:**|[snespal](snespal.md)
+|**Clones:**|[Super Nintendo Entertainment System (PAL)](snespal.md)
 |**Year:**|1989
 |**Manufacturer:**|Nintendo
 |**Status:**|imperfect

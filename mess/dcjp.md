@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dcjp
-|**Clones:**|[dc](dc.md)
-||[dcdev](dcdev.md)
-||[dceu](dceu.md)
-||[dcprt](dcprt.md)
+|**Clones:**|[Dreamcast (USA, NTSC)](dc.md)
+||[HKT-0120 Sega Dreamcast Development Box](dcdev.md)
+||[Dreamcast (Europe, PAL)](dceu.md)
+||[Katana Set 5 Prototype](dcprt.md)
 |**Year:**|1998
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

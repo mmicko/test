@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|maciivx
-|**Clones:**|[maciivi](maciivi.md)
+|**Clones:**|[Macintosh IIvi](maciivi.md)
 |**Year:**|1993
 |**Manufacturer:**|Apple Computer
 |**Status:**|imperfect

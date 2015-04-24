@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|phc70fd2
-|**Clones:**|[phc70fd](phc70fd.md)
+|**Clones:**|[WAVY PHC-70FD (Japan) (MSX2+)](phc70fd.md)
 |**Year:**|1988
 |**Manufacturer:**|Sanyo
 |**Status:**|good

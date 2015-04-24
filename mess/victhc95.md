@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|victhc95
-|**Clones:**|[victhc90](victhc90.md)
-||[victhc95a](victhc95a.md)
+|**Clones:**|[HC-90 (MSX2)](victhc90.md)
+||[HC-95A (MSX2)](victhc95a.md)
 |**Year:**|1986
 |**Manufacturer:**|Victor
 |**Status:**|preliminary

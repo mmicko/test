@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|plldium
-|**Clones:**|[mratlus](mratlus.md)
-||[polyvcg](polyvcg.md)
-||[trakcvg](trakcvg.md)
+|**Clones:**|[Mr. Altus Tele Brain](mratlus.md)
+||[Polybrain Video Computer Game](polyvcg.md)
+||[Trakton Computer Video Game](trakcvg.md)
 |**Year:**|198?
 |**Manufacturer:**|Neckermann
 |**Status:**|preliminary

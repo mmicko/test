@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cpc51
-|**Clones:**|[cpc50a](cpc50a.md)
-||[cpc50b](cpc50b.md)
+|**Clones:**|[Zemmix CPC-50A (Korea) (MSX1)](cpc50a.md)
+||[Zemmix CPC-50B (Korea) (MSX1)](cpc50b.md)
 |**Year:**|1986
 |**Manufacturer:**|Daewoo
 |**Status:**|good

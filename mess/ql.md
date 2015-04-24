@@ -5,14 +5,14 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ql
-|**Clones:**|[ql_de](ql_de.md)
-||[ql_dk](ql_dk.md)
-||[ql_es](ql_es.md)
-||[ql_fr](ql_fr.md)
-||[ql_gr](ql_gr.md)
-||[ql_it](ql_it.md)
-||[ql_se](ql_se.md)
-||[ql_us](ql_us.md)
+|**Clones:**|[QL (Germany)](ql_de.md)
+||[QL (Denmark)](ql_dk.md)
+||[QL (Spain)](ql_es.md)
+||[QL (France)](ql_fr.md)
+||[QL (Greece)](ql_gr.md)
+||[QL (Italy)](ql_it.md)
+||[QL (Sweden)](ql_se.md)
+||[QL (USA)](ql_us.md)
 |**Year:**|1984
 |**Manufacturer:**|Sinclair Research Ltd
 |**Status:**|good

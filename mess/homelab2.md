@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|homelab2
-|**Clones:**|[brailab4](brailab4.md)
-||[braiplus](braiplus.md)
-||[homelab3](homelab3.md)
-||[homelab4](homelab4.md)
+|**Clones:**|[Brailab 4](brailab4.md)
+||[Brailab Plus](braiplus.md)
+||[Homelab 3](homelab3.md)
+||[Homelab 4](homelab4.md)
 |**Year:**|1982
 |**Manufacturer:**|Jozsef and Endre Lukacs
 |**Status:**|preliminary

@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|selz80
-|**Clones:**|[dagz80](dagz80.md)
+|**Clones:**|[DAG Z80 Trainer](dagz80.md)
 |**Year:**|1985
 |**Manufacturer:**|SEL
 |**Status:**|good

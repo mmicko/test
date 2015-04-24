@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hb10p
-|**Clones:**|[hb10](hb10.md)
+|**Clones:**|[HB-10 (MSX1)](hb10.md)
 |**Year:**|1985
 |**Manufacturer:**|Sony
 |**Status:**|good

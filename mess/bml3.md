@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bml3
-|**Clones:**|[bml3mk2](bml3mk2.md)
-||[bml3mk5](bml3mk5.md)
+|**Clones:**|[MB-6891 Basic Master Level 3 Mark 2](bml3mk2.md)
+||[MB-6892 Basic Master Level 3 Mark 5](bml3mk5.md)
 |**Year:**|1980
 |**Manufacturer:**|Hitachi
 |**Status:**|preliminary

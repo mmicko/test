@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|abc800c
-|**Clones:**|[abc800m](abc800m.md)
+|**Clones:**|[ABC 800 M/HR](abc800m.md)
 |**Year:**|1981
 |**Manufacturer:**|Luxor Datorer AB
 |**Status:**|good

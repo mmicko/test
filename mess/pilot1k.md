@@ -5,21 +5,21 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pilot1k
-|**Clones:**|[palmiii](palmiii.md)
-||[palmiiic](palmiiic.md)
-||[palmm100](palmm100.md)
-||[palmm130](palmm130.md)
-||[palmm505](palmm505.md)
-||[palmm515](palmm515.md)
-||[palmpers](palmpers.md)
-||[palmpro](palmpro.md)
-||[palmv](palmv.md)
-||[palmvx](palmvx.md)
-||[pilot5k](pilot5k.md)
-||[spt1500](spt1500.md)
-||[spt1700](spt1700.md)
-||[spt1740](spt1740.md)
-||[visor](visor.md)
+|**Clones:**|[Palm III](palmiii.md)
+||[Palm IIIc](palmiiic.md)
+||[Palm m100](palmm100.md)
+||[Palm m130](palmm130.md)
+||[Palm m505](palmm505.md)
+||[Palm m515](palmm515.md)
+||[Palm Pilot Personal](palmpers.md)
+||[Palm Pilot Pro](palmpro.md)
+||[Palm V](palmv.md)
+||[Palm Vx](palmvx.md)
+||[Pilot 5000](pilot5k.md)
+||[SPT 1500](spt1500.md)
+||[SPT 1700](spt1700.md)
+||[SPT 1740](spt1740.md)
+||[Visor Edge](visor.md)
 |**Year:**|1996
 |**Manufacturer:**|U.S. Robotics
 |**Status:**|preliminary

@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|psionlz
-|**Clones:**|[psionlz64](psionlz64.md)
-||[psionlz64s](psionlz64s.md)
-||[psionp464](psionp464.md)
+|**Clones:**|[Organiser II LZ64](psionlz64.md)
+||[Organiser II LZ64S](psionlz64s.md)
+||[Organiser II P464](psionp464.md)
 |**Year:**|1989
 |**Manufacturer:**|Psion
 |**Status:**|imperfect

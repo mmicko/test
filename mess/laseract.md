@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laseract
-|**Clones:**|[laseractj](laseractj.md)
+|**Clones:**|[LaserActive (Japan, NTSC)](laseractj.md)
 |**Year:**|1993
 |**Manufacturer:**|Pioneer
 |**Status:**|preliminary

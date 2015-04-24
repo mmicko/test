@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pipbug
-|**Clones:**|[binbug](binbug.md)
+|**Clones:**|[BINBUG 3.6](binbug.md)
 |**Year:**|1979
 |**Manufacturer:**|Signetics
 |**Status:**|good

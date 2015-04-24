@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf9p
-|**Clones:**|[hbf9pr](hbf9pr.md)
-||[hbf9s](hbf9s.md)
+|**Clones:**|[HB-F9P Russion (MSX2)](hbf9pr.md)
+||[HB-F9S (MSX2)](hbf9s.md)
 |**Year:**|1985
 |**Manufacturer:**|Sony
 |**Status:**|good

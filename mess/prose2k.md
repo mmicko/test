@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|prose2k
-|**Clones:**|[prose2ko](prose2ko.md)
+|**Clones:**|[Prose 2000/2020 v1.1](prose2ko.md)
 |**Year:**|1985
 |**Manufacturer:**|Telesensory Systems Inc/Speech Plus
 |**Status:**|preliminary

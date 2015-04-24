@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|saturn
-|**Clones:**|[hisaturn](hisaturn.md)
-||[saturneu](saturneu.md)
-||[saturnjp](saturnjp.md)
-||[vsaturn](vsaturn.md)
+|**Clones:**|[HiSaturn](hisaturn.md)
+||[Saturn (PAL)](saturneu.md)
+||[Saturn (Japan)](saturnjp.md)
+||[V-Saturn](vsaturn.md)
 |**Year:**|1994
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

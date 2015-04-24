@@ -5,11 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bbcm
-|**Clones:**|[bbcm512](bbcm512.md)
-||[bbcmaiv](bbcmaiv.md)
-||[bbcmarm](bbcmarm.md)
-||[bbcmet](bbcmet.md)
-||[bbcmt](bbcmt.md)
+|**Clones:**|[BBC Master 512](bbcm512.md)
+||[BBC Master AIV](bbcmaiv.md)
+||[ARM Evaluation System](bbcmarm.md)
+||[BBC Master ET](bbcmet.md)
+||[BBC Master Turbo](bbcmt.md)
 |**Year:**|1986
 |**Manufacturer:**|Acorn
 |**Status:**|good

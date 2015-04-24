@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sorcerer
-|**Clones:**|[sorcererd](sorcererd.md)
+|**Clones:**|[Sorcerer (with floppy disks)](sorcererd.md)
 |**Year:**|1979
 |**Manufacturer:**|Exidy Inc
 |**Status:**|good

@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|starwbc
-|**Clones:**|[starwbcp](starwbcp.md)
+|**Clones:**|[Star Wars - Electronic Battle Command (prototype)](starwbcp.md)
 |**Year:**|1979
 |**Manufacturer:**|Kenner
 |**Status:**|good

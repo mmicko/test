@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nshrz
-|**Clones:**|[vector1](vector1.md)
+|**Clones:**|[Vector 1+ (DD drive)](vector1.md)
 |**Year:**|1976
 |**Manufacturer:**|North Star Computers
 |**Status:**|preliminary

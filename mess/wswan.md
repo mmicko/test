@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|wswan
-|**Clones:**|[wscolor](wscolor.md)
+|**Clones:**|[WonderSwan Color](wscolor.md)
 |**Year:**|1999
 |**Manufacturer:**|Bandai
 |**Status:**|imperfect

@@ -5,11 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sfortea
-|**Clones:**|[sexpertb](sexpertb.md)
-||[sexpertc](sexpertc.md)
-||[sforteb](sforteb.md)
-||[sforteba](sforteba.md)
-||[sfortec](sfortec.md)
+|**Clones:**|[Novag Super Expert B Chess Computer](sexpertb.md)
+||[Novag Super Expert C Chess Computer](sexpertc.md)
+||[Novag Super Forte Chess Computer (version B)](sforteb.md)
+||[Novag Super Forte Chess Computer (version B, alt)](sforteba.md)
+||[Novag Super Forte Chess Computer (version C)](sfortec.md)
 |**Year:**|1987
 |**Manufacturer:**|Novag
 |**Status:**|preliminary

@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megapc
-|**Clones:**|[megapcpl](megapcpl.md)
-||[megapcpla](megapcpla.md)
+|**Clones:**|[MegaPC Plus](megapcpl.md)
+||[MegaPC Plus (WINBUS chipset)](megapcpla.md)
 |**Year:**|1993
 |**Manufacturer:**|Amstrad plc
 |**Status:**|preliminary

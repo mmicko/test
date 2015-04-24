@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|genesis
-|**Clones:**|[megadrij](megadrij.md)
-||[megadriv](megadriv.md)
+|**Clones:**|[Mega Drive (Japan, NTSC)](megadrij.md)
+||[Mega Drive (Europe, PAL)](megadriv.md)
 |**Year:**|1989
 |**Manufacturer:**|Sega
 |**Status:**|good

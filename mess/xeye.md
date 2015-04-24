@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|xeye
-|**Clones:**|[wmega](wmega.md)
-||[wmegam2](wmegam2.md)
+|**Clones:**|[Wondermega (Japan, NTSC)](wmega.md)
+||[Wondermega M2 (Japan, NTSC)](wmegam2.md)
 |**Year:**|1993
 |**Manufacturer:**|JVC
 |**Status:**|preliminary

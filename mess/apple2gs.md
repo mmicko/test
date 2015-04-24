@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2gs
-|**Clones:**|[apple2gsr0](apple2gsr0.md)
-||[apple2gsr0p](apple2gsr0p.md)
-||[apple2gsr0p2](apple2gsr0p2.md)
-||[apple2gsr1](apple2gsr1.md)
-||[apple2gsr3lp](apple2gsr3lp.md)
-||[apple2gsr3p](apple2gsr3p.md)
+|**Clones:**|[Apple IIgs (ROM00)](apple2gsr0.md)
+||[Apple IIgs (ROM00 prototype 6/19/1986)](apple2gsr0p.md)
+||[Apple IIgs (ROM00 prototype 3/10/1986)](apple2gsr0p2.md)
+||[Apple IIgs (ROM01)](apple2gsr1.md)
+||[Apple IIgs (ROM03 late prototype?)](apple2gsr3lp.md)
+||[Apple IIgs (ROM03 prototype)](apple2gsr3p.md)
 |**Year:**|1989
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

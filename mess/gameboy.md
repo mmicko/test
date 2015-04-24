@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|gameboy
-|**Clones:**|[gbpocket](gbpocket.md)
-||[supergb](supergb.md)
+|**Clones:**|[Game Boy Pocket](gbpocket.md)
+||[Super Game Boy](supergb.md)
 |**Year:**|1990
 |**Manufacturer:**|Nintendo
 |**Status:**|good

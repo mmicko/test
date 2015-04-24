@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pdp11ub
-|**Clones:**|[pdp11qb](pdp11qb.md)
-||[pdp11ub2](pdp11ub2.md)
-||[sms1000](sms1000.md)
+|**Clones:**|[PDP-11 [Q-BUS] (M7195 - MXV11)](pdp11qb.md)
+||[PDP-11 [Unibus](M9312)](pdp11ub2.md)
+||[SMS-1000](sms1000.md)
 |**Year:**|????
 |**Manufacturer:**|Digital Equipment Corporation
 |**Status:**|preliminary

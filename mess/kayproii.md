@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|kayproii
-|**Clones:**|[kaypro4](kaypro4.md)
-||[kaypro4p88](kaypro4p88.md)
-||[omni2](omni2.md)
+|**Clones:**|[Kaypro 4 - 4/83](kaypro4.md)
+||[Kaypro 4 plus88 - 4/83](kaypro4p88.md)
+||[Omni II Logic Analyzer](omni2.md)
 |**Year:**|1982
 |**Manufacturer:**|Non Linear Systems
 |**Status:**|good

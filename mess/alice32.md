@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|alice32
-|**Clones:**|[alice90](alice90.md)
+|**Clones:**|[Alice 90](alice90.md)
 |**Year:**|1984
 |**Manufacturer:**|Matra & Hachette
 |**Status:**|imperfect

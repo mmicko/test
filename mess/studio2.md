@@ -5,13 +5,13 @@
 ||Info|
 |-----|-----|
 |**Setname:**|studio2
-|**Clones:**|[apollo80](apollo80.md)
-||[cm1200](cm1200.md)
-||[mpt02](mpt02.md)
-||[mpt02h](mpt02h.md)
-||[mtc9016](mtc9016.md)
-||[shmc1200](shmc1200.md)
-||[visicom](visicom.md)
+|**Clones:**|[Apollo 80 (Germany)](apollo80.md)
+||[M-1200 (?)](cm1200.md)
+||[Victory MPT-02 Home TV Programmer (Austria)](mpt02.md)
+||[MPT-02 Jeu TV Programmable (France)](mpt02h.md)
+||[9016 Telespiel Computer (Germany)](mtc9016.md)
+||[M1200 Micro Computer (Australia)](shmc1200.md)
+||[Visicom COM-100 (Japan)](visicom.md)
 |**Year:**|1977
 |**Manufacturer:**|RCA
 |**Status:**|imperfect

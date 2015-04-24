@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macpb160
-|**Clones:**|[macpb180](macpb180.md)
-||[macpb180c](macpb180c.md)
+|**Clones:**|[Macintosh PowerBook 180](macpb180.md)
+||[Macintosh PowerBook 180c](macpb180c.md)
 |**Year:**|1992
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

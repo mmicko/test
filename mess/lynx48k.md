@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lynx48k
-|**Clones:**|[lynx128k](lynx128k.md)
-||[lynx96k](lynx96k.md)
+|**Clones:**|[Lynx 128k](lynx128k.md)
+||[Lynx 96k](lynx96k.md)
 |**Year:**|1983
 |**Manufacturer:**|Camputers
 |**Status:**|preliminary

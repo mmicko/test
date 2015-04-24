@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bbcb
-|**Clones:**|[bbca](bbca.md)
-||[bbcb_de](bbcb_de.md)
-||[bbcb_us](bbcb_us.md)
+|**Clones:**|[BBC Micro Model A](bbca.md)
+||[BBC Micro Model B (German)](bbcb_de.md)
+||[Acorn Proton (US)](bbcb_us.md)
 |**Year:**|1981
 |**Manufacturer:**|Acorn
 |**Status:**|good

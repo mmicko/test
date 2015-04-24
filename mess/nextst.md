@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nextst
-|**Clones:**|[nextct](nextct.md)
-||[nextctc](nextctc.md)
-||[nextstc](nextstc.md)
+|**Clones:**|[NeXT Cube turbo](nextct.md)
+||[NeXT Cube turbo color](nextctc.md)
+||[NeXTstation turbo color](nextstc.md)
 |**Year:**|1990
 |**Manufacturer:**|Next Software Inc
 |**Status:**|preliminary

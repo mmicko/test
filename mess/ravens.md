@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ravens
-|**Clones:**|[ravens2](ravens2.md)
+|**Clones:**|[Ravensburger Selbstbaucomputer V2.0](ravens2.md)
 |**Year:**|1984
 |**Manufacturer:**|Joseph Glagla and Dieter Feiler
 |**Status:**|good

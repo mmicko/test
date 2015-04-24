@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|okean240
-|**Clones:**|[okean240a](okean240a.md)
-||[okean240t](okean240t.md)
+|**Clones:**|[Ocean-240 with fdd](okean240a.md)
+||[Ocean-240 Test Rom](okean240t.md)
 |**Year:**|1986
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

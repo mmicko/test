@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cpu09
-|**Clones:**|[ivg09](ivg09.md)
+|**Clones:**|[CPU09 with IVG09 and IFD09](ivg09.md)
 |**Year:**|1982
 |**Manufacturer:**|C. Tavernier
 |**Status:**|preliminary

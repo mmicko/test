@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mac2fdhd
-|**Clones:**|[maciicx](maciicx.md)
-||[maciix](maciix.md)
-||[macse30](macse30.md)
+|**Clones:**|[Macintosh IIcx](maciicx.md)
+||[Macintosh IIx](maciix.md)
+||[Macintosh SE/30](macse30.md)
 |**Year:**|1988
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

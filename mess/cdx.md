@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cdx
-|**Clones:**|[multmega](multmega.md)
+|**Clones:**|[Multi-Mega (Europe, PAL)](multmega.md)
 |**Year:**|1994
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

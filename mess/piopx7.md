@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|piopx7
-|**Clones:**|[piopx7uk](piopx7uk.md)
-||[piopxv60](piopxv60.md)
+|**Clones:**|[PX-07UK Palcom (MSX1)](piopx7uk.md)
+||[PX-V60 (MSX1)](piopxv60.md)
 |**Year:**|1985
 |**Manufacturer:**|Pioneer
 |**Status:**|good

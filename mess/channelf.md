@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|channelf
-|**Clones:**|[luxorves](luxorves.md)
-||[sabavdpl](sabavdpl.md)
+|**Clones:**|[Luxor Video Entertainment System](luxorves.md)
+||[SABA Videoplay](sabavdpl.md)
 |**Year:**|1976
 |**Manufacturer:**|Fairchild
 |**Status:**|good

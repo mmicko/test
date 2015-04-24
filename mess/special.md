@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|special
-|**Clones:**|[erik](erik.md)
-||[lik](lik.md)
-||[pioner](pioner.md)
-||[specialm](specialm.md)
-||[specialp](specialp.md)
-||[specimx](specimx.md)
+|**Clones:**|[Erik](erik.md)
+||[Lik](lik.md)
+||[Pioner](pioner.md)
+||[Specialist M](specialm.md)
+||[Specialist + hires graph](specialp.md)
+||[Specialist MX](specimx.md)
 |**Year:**|1985
 |**Manufacturer:**|<unknown>
 |**Status:**|good

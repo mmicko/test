@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|neocdz
-|**Clones:**|[neocd](neocd.md)
-||[neocdzj](neocdzj.md)
+|**Clones:**|[Neo-Geo CD](neocd.md)
+||[Neo-Geo CDZ (Japan)](neocdzj.md)
 |**Year:**|1996
 |**Manufacturer:**|SNK
 |**Status:**|good

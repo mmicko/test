@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|amsterd
-|**Clones:**|[dallas16](dallas16.md)
-||[dallas32](dallas32.md)
-||[roma](roma.md)
-||[roma32](roma32.md)
+|**Clones:**|[Mephisto Dallas 16 Bit](dallas16.md)
+||[Mephisto Dallas 32 Bit](dallas32.md)
+||[Mephisto Roma](roma.md)
+||[Mephisto Roma 32 Bit](roma32.md)
 |**Year:**|1984
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

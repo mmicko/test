@@ -5,12 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|primoa32
-|**Clones:**|[primoa48](primoa48.md)
-||[primoa64](primoa64.md)
-||[primob32](primob32.md)
-||[primob48](primob48.md)
-||[primob64](primob64.md)
-||[primoc64](primoc64.md)
+|**Clones:**|[Primo A-48](primoa48.md)
+||[Primo A-64](primoa64.md)
+||[Primo B-32](primob32.md)
+||[Primo B-48](primob48.md)
+||[Primo B-64](primob64.md)
+||[Primo C-64](primoc64.md)
 |**Year:**|1984
 |**Manufacturer:**|Microkey
 |**Status:**|good

@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|scv
-|**Clones:**|[scv_pal](scv_pal.md)
+|**Clones:**|[Super Cassette Vision (PAL)](scv_pal.md)
 |**Year:**|1984
 |**Manufacturer:**|Epoch
 |**Status:**|imperfect

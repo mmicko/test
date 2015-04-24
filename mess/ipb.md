@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ipb
-|**Clones:**|[ipc](ipc.md)
+|**Clones:**|[iPC](ipc.md)
 |**Year:**|19??
 |**Manufacturer:**|Intel
 |**Status:**|preliminary

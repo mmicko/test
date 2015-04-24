@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pegasus
-|**Clones:**|[pegasusm](pegasusm.md)
+|**Clones:**|[Aamber Pegasus with RAM expansion unit](pegasusm.md)
 |**Year:**|1981
 |**Manufacturer:**|Technosys
 |**Status:**|good

@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hb75p
-|**Clones:**|[hb75d](hb75d.md)
+|**Clones:**|[HB-75D (Germany) (MSX1)](hb75d.md)
 |**Year:**|1983
 |**Manufacturer:**|Sony
 |**Status:**|good

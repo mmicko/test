@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pecom32
-|**Clones:**|[pecom64](pecom64.md)
+|**Clones:**|[Pecom 64](pecom64.md)
 |**Year:**|1986
 |**Manufacturer:**|Ei Nis
 |**Status:**|good

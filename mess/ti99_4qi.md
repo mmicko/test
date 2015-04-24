@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ti99_4qi
-|**Clones:**|[ti99_4qe](ti99_4qe.md)
+|**Clones:**|[TI-99/4QI Home Computer (Europe)](ti99_4qe.md)
 |**Year:**|1983
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good

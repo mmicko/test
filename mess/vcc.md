@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vcc
-|**Clones:**|[uvc](uvc.md)
+|**Clones:**|[Advanced Talking Chess Challenger (model UVC)](uvc.md)
 |**Year:**|1979
 |**Manufacturer:**|Fidelity Electronics
 |**Status:**|preliminary

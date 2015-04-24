@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cybikov1
-|**Clones:**|[cybikov2](cybikov2.md)
-||[cybikoxt](cybikoxt.md)
+|**Clones:**|[Cybiko Classic (V2)](cybikov2.md)
+||[Cybiko Xtreme](cybikoxt.md)
 |**Year:**|2000
 |**Manufacturer:**|Cybiko Inc
 |**Status:**|imperfect

@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fm7
-|**Clones:**|[fm7740sx](fm7740sx.md)
-||[fm77av](fm77av.md)
-||[fmnew7](fmnew7.md)
+|**Clones:**|[FM-77AV40SX](fm7740sx.md)
+||[FM-77AV](fm77av.md)
+||[FM-NEW7](fmnew7.md)
 |**Year:**|1982
 |**Manufacturer:**|Fujitsu
 |**Status:**|good

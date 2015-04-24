@@ -5,10 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|channlf2
-|**Clones:**|[ingtelma](ingtelma.md)
-||[itttelma](itttelma.md)
-||[luxorvec](luxorvec.md)
-||[sabavpl2](sabavpl2.md)
+|**Clones:**|[Ingelen Tele-Match Processor](ingtelma.md)
+||[ITT Tele-Match Processor](itttelma.md)
+||[Luxor Video Entertainment Computer](luxorvec.md)
+||[SABA Videoplay 2](sabavpl2.md)
 |**Year:**|1978
 |**Manufacturer:**|Fairchild
 |**Status:**|good

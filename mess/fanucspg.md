@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fanucspg
-|**Clones:**|[fanucspgm](fanucspgm.md)
+|**Clones:**|[System P Model G (monochrome)](fanucspgm.md)
 |**Year:**|1983
 |**Manufacturer:**|Fanuc
 |**Status:**|preliminary

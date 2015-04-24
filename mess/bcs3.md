@@ -5,9 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bcs3
-|**Clones:**|[bcs3a](bcs3a.md)
-||[bcs3b](bcs3b.md)
-||[bcs3c](bcs3c.md)
+|**Clones:**|[BCS 3 rev 3.1 29-column](bcs3a.md)
+||[BCS 3 rev 3.1 40-column](bcs3b.md)
+||[BCS 3 rev 3.3](bcs3c.md)
 |**Year:**|1984
 |**Manufacturer:**|Eckhard Schiller
 |**Status:**|preliminary

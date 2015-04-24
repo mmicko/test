@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ngp
-|**Clones:**|[ngpc](ngpc.md)
+|**Clones:**|[NeoGeo Pocket Color](ngpc.md)
 |**Year:**|1998
 |**Manufacturer:**|SNK
 |**Status:**|good

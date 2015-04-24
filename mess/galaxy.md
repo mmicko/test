@@ -5,7 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|galaxy
-|**Clones:**|[galaxyp](galaxyp.md)
+|**Clones:**|[Galaksija plus](galaxyp.md)
 |**Year:**|1983
 |**Manufacturer:**|Elektronika inzenjering
 |**Status:**|good

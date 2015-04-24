@@ -5,8 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|socrates
-|**Clones:**|[profweis](profweis.md)
-||[socratfc](socratfc.md)
+|**Clones:**|[Professor Weiss-Alles](profweis.md)
+||[Socrates SAITOUT](socratfc.md)
 |**Year:**|1988
 |**Manufacturer:**|Video Technology
 |**Status:**|preliminary
