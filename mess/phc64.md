@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|phc64
+|**Parent:**|[ep64](ep64.md)
 |**Year:**|1985
 |**Manufacturer:**|Hegener & Glaser
 |**Status:**|imperfect

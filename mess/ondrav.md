@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ondrav
+|**Parent:**|[ondrat](ondrat.md)
 |**Year:**|1989
 |**Manufacturer:**|ViLi
 |**Status:**|good

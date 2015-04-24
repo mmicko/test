@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|gen32
+|**Parent:**|[van16](van16.md)
 |**Year:**|1993
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

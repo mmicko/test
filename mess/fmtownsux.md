@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fmtownsux
+|**Parent:**|[fmtowns](fmtowns.md)
 |**Year:**|1991
 |**Manufacturer:**|Fujitsu
 |**Status:**|preliminary

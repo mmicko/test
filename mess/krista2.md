@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|krista2
+|**Parent:**|[vector06](vector06.md)
 |**Year:**|1987
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

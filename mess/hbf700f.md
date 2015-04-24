@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf700f
+|**Parent:**|[hbf700p](hbf700p.md)
 |**Year:**|1985
 |**Manufacturer:**|Sony
 |**Status:**|good

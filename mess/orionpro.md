@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|orionpro
+|**Parent:**|[orion128](orion128.md)
 |**Year:**|1994
 |**Manufacturer:**|<unknown>
 |**Status:**|good

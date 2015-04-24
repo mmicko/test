@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|llc2
+|**Parent:**|[llc1](llc1.md)
 |**Year:**|1984
 |**Manufacturer:**|SCCH
 |**Status:**|good

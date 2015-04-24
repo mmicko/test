@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hec2mx80
+|**Parent:**|[hec2hrp](hec2hrp.md)
 |**Year:**|1985
 |**Manufacturer:**|Micronique
 |**Status:**|imperfect

@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Digital Equipment Corporation
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=rainbow.c)
+|**Source file:**|[rainbow.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/rainbow.c)
 
 ##Emulation info
 || Status |

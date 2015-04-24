@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tk80bs
+|**Parent:**|[tk80](tk80.md)
 |**Year:**|1980
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=tk80bs.c)
+|**Source file:**|[tk80bs.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/tk80bs.c)
 
 ##Emulation info
 || Status |

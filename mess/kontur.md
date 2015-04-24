@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|kontur
+|**Parent:**|[korvet](korvet.md)
 |**Year:**|1987
 |**Manufacturer:**|<unknown>
 |**Status:**|good

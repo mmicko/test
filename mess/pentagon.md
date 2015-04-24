@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pentagon
+|**Parent:**|[spec128](spec128.md)
 |**Year:**|1989
 |**Manufacturer:**|<unknown>
 |**Status:**|good

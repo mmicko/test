@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macqd700
+|**Parent:**|[macpb140](macpb140.md)
 |**Year:**|1991
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

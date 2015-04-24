@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hx22i
+|**Parent:**|[hx22](hx22.md)
 |**Year:**|1984
 |**Manufacturer:**|Toshiba
 |**Status:**|good

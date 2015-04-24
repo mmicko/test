@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dgama88
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1988
 |**Manufacturer:**|Didaktik Skalica
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|binbug
+|**Parent:**|[pipbug](pipbug.md)
 |**Year:**|1980
 |**Manufacturer:**|MicroByte
 |**Status:**|good

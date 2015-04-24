@@ -8,6 +8,8 @@
 |**Year:**|1977
 |**Manufacturer:**|VideoBrain Computer Company
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=vidbrain.c)
+|**Source file:**|[vidbrain.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/vidbrain.c)
 
 ##Emulation info
 || Status |

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|aiwamcd
+|**Parent:**|[segacd2](segacd2.md)
 |**Year:**|1994
 |**Manufacturer:**|AIWA
 |**Status:**|preliminary

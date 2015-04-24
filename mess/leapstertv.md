@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|leapstertv
+|**Parent:**|[leapster](leapster.md)
 |**Year:**|2005
 |**Manufacturer:**|LeapFrog
 |**Status:**|preliminary

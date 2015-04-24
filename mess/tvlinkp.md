@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tvlinkp
+|**Parent:**|[svision](svision.md)
 |**Year:**|199?
 |**Manufacturer:**|Watara
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=svision.c)
+|**Source file:**|[svision.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/svision.c)
 
 ##Emulation info
 || Status |

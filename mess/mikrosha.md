@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mikrosha
+|**Parent:**|[radio86](radio86.md)
 |**Year:**|1987
 |**Manufacturer:**|Lianozovo Electromechanical Factory
 |**Status:**|good

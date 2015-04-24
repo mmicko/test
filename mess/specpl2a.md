@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|specpl2a
+|**Parent:**|[spec128](spec128.md)
 |**Year:**|1987
 |**Manufacturer:**|Amstrad plc
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=specpls3.c)
+|**Source file:**|[specpls3.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/specpls3.c)
 
 ##Emulation info
 || Status |

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bcs3a
+|**Parent:**|[bcs3](bcs3.md)
 |**Year:**|1986
 |**Manufacturer:**|Eckhard Schiller
 |**Status:**|preliminary

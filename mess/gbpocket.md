@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|gbpocket
+|**Parent:**|[gameboy](gameboy.md)
 |**Year:**|1996
 |**Manufacturer:**|Nintendo
 |**Status:**|good

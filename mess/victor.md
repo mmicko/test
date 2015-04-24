@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|victor
+|**Parent:**|[hec2hrp](hec2hrp.md)
 |**Year:**|1980
 |**Manufacturer:**|Micronique
 |**Status:**|imperfect
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=hec2hrp.c)
+|**Source file:**|[hec2hrp.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/hec2hrp.c)
 
 ##Emulation info
 || Status |

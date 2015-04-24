@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hp48gp
+|**Parent:**|[hp48gx](hp48gx.md)
 |**Year:**|1998
 |**Manufacturer:**|Hewlett Packard
 |**Status:**|good

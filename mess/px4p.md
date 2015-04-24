@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|px4p
+|**Parent:**|[px4](px4.md)
 |**Year:**|1985
 |**Manufacturer:**|Epson
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=px4.c)
+|**Source file:**|[px4.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/px4.c)
 
 ##Emulation info
 || Status |

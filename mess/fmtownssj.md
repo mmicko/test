@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fmtownssj
+|**Parent:**|[fmtowns](fmtowns.md)
 |**Year:**|19??
 |**Manufacturer:**|Fujitsu
 |**Status:**|preliminary

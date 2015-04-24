@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mac512k
+|**Parent:**|[mac128k](mac128k.md)
 |**Year:**|1984
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

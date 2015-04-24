@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|meritum_net
+|**Parent:**|[trs80](trs80.md)
 |**Year:**|1985
 |**Manufacturer:**|Mera-Elzab
 |**Status:**|good

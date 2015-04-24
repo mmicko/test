@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mbee256
+|**Parent:**|[mbee](mbee.md)
 |**Year:**|1987
 |**Manufacturer:**|Applied Technology
 |**Status:**|preliminary

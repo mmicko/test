@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laser310h
+|**Parent:**|[laser310](laser310.md)
 |**Year:**|1984
 |**Manufacturer:**|Video Technology
 |**Status:**|good

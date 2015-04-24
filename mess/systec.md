@@ -8,6 +8,8 @@
 |**Year:**|19??
 |**Manufacturer:**|Systec
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=systec.c)
+|**Source file:**|[systec.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/systec.c)
 
 ##Emulation info
 || Status |

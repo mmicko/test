@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|avigo_fr
+|**Parent:**|[avigo](avigo.md)
 |**Year:**|1997
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good

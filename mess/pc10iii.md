@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pc10iii
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1987
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary

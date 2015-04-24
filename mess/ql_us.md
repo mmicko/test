@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ql_us
+|**Parent:**|[ql](ql.md)
 |**Year:**|1985
 |**Manufacturer:**|Sinclair Research Ltd
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=ql.c)
+|**Source file:**|[ql.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/ql.c)
 
 ##Emulation info
 || Status |

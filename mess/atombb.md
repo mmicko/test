@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|atombb
+|**Parent:**|[atom](atom.md)
 |**Year:**|1979
 |**Manufacturer:**|Acorn
 |**Status:**|good

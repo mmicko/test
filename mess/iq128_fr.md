@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|iq128_fr
+|**Parent:**|[iq128](iq128.md)
 |**Year:**|1997
 |**Manufacturer:**|Video Technology
 |**Status:**|preliminary

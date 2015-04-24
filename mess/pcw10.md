@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pcw10
+|**Parent:**|[pcw8256](pcw8256.md)
 |**Year:**|1993
 |**Manufacturer:**|Amstrad plc
 |**Status:**|preliminary

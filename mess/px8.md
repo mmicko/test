@@ -8,6 +8,8 @@
 |**Year:**|1984
 |**Manufacturer:**|Epson
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=px8.c)
+|**Source file:**|[px8.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/px8.c)
 
 ##Emulation info
 || Status |

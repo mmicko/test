@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|kccomp
+|**Parent:**|[cpc464](cpc464.md)
 |**Year:**|1989
 |**Manufacturer:**|VEB Mikroelektronik
 |**Status:**|good

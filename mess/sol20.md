@@ -8,6 +8,8 @@
 |**Year:**|1976
 |**Manufacturer:**|Processor Technology Corporation
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=ptcsol.c)
+|**Source file:**|[ptcsol.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/ptcsol.c)
 
 ##Emulation info
 || Status |

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|a800pal
+|**Parent:**|[a800](a800.md)
 |**Year:**|1979
 |**Manufacturer:**|Atari
 |**Status:**|good

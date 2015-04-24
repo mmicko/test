@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sun_s20
+|**Parent:**|[sun4_300](sun4_300.md)
 |**Year:**|198?
 |**Manufacturer:**|Sun Microsystems
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=sun4.c)
+|**Source file:**|[sun4.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/sun4.c)
 
 ##Emulation info
 || Status |

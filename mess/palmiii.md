@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|palmiii
+|**Parent:**|[pilot1k](pilot1k.md)
 |**Year:**|1998
 |**Manufacturer:**|3Com
 |**Status:**|preliminary

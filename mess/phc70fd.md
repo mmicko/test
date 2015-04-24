@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|phc70fd
+|**Parent:**|[phc70fd2](phc70fd2.md)
 |**Year:**|1988
 |**Manufacturer:**|Sanyo
 |**Status:**|good

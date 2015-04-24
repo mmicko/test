@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vector1
+|**Parent:**|[nshrz](nshrz.md)
 |**Year:**|1979
 |**Manufacturer:**|Vector Graphic
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=horizon.c)
+|**Source file:**|[horizon.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/horizon.c)
 
 ##Emulation info
 || Status |

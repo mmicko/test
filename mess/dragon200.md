@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dragon200
+|**Parent:**|[coco](coco.md)
 |**Year:**|1983
 |**Manufacturer:**|Dragon Data Ltd
 |**Status:**|good

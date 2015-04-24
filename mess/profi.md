@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|profi
+|**Parent:**|[spec128](spec128.md)
 |**Year:**|1991
 |**Manufacturer:**|Kondor and Kramis
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=scorpion.c)
+|**Source file:**|[scorpion.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/scorpion.c)
 
 ##Emulation info
 || Status |

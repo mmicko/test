@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bndarc
+|**Parent:**|[arcadia](arcadia.md)
 |**Year:**|1982
 |**Manufacturer:**|Bandai
 |**Status:**|imperfect

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ngpc
+|**Parent:**|[ngp](ngp.md)
 |**Year:**|1999
 |**Manufacturer:**|SNK
 |**Status:**|good

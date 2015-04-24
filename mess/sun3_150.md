@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Sun Microsystems
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=sun3.c)
+|**Source file:**|[sun3.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/sun3.c)
 
 ##Emulation info
 || Status |

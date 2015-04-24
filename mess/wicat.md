@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Millennium Systems
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=wicat.c)
+|**Source file:**|[wicat.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/wicat.c)
 
 ##Emulation info
 || Status |

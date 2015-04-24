@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|c64c_se
+|**Parent:**|[c64](c64.md)
 |**Year:**|1986
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good

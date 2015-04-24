@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megacd2
+|**Parent:**|[segacd2](segacd2.md)
 |**Year:**|1993
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

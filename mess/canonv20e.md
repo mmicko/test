@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|canonv20e
+|**Parent:**|[canonv20](canonv20.md)
 |**Year:**|1983
 |**Manufacturer:**|Canon
 |**Status:**|good

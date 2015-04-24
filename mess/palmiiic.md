@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|palmiiic
+|**Parent:**|[pilot1k](pilot1k.md)
 |**Year:**|1998
 |**Manufacturer:**|Palm Inc
 |**Status:**|preliminary

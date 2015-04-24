@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ivelultr
+|**Parent:**|[apple2](apple2.md)
 |**Year:**|1984
 |**Manufacturer:**|Ivasim
 |**Status:**|good

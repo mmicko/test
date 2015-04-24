@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|palmpers
+|**Parent:**|[pilot1k](pilot1k.md)
 |**Year:**|1997
 |**Manufacturer:**|U.S. Robotics
 |**Status:**|preliminary

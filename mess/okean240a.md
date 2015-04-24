@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|okean240a
+|**Parent:**|[okean240](okean240.md)
 |**Year:**|1986
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

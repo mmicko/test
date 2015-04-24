@@ -8,6 +8,8 @@
 |**Year:**|1981
 |**Manufacturer:**|Small Systems Engineering
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=softbox.c)
+|**Source file:**|[softbox.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/softbox.c)
 
 ##Emulation info
 || Status |

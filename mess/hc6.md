@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hc6
+|**Parent:**|[hc7](hc7.md)
 |**Year:**|198?
 |**Manufacturer:**|Victor
 |**Status:**|good

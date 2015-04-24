@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tvc64pru
+|**Parent:**|[tvc64](tvc64.md)
 |**Year:**|1985
 |**Manufacturer:**|Videoton
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=tvc.c)
+|**Source file:**|[tvc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/tvc.c)
 
 ##Emulation info
 || Status |

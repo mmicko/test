@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megast_se
+|**Parent:**|[st](st.md)
 |**Year:**|1987
 |**Manufacturer:**|Atari
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf9pr
+|**Parent:**|[hbf9p](hbf9p.md)
 |**Year:**|19??
 |**Manufacturer:**|Sony
 |**Status:**|preliminary

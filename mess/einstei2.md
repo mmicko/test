@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|einstei2
+|**Parent:**|[einstein](einstein.md)
 |**Year:**|1984
 |**Manufacturer:**|Tatung
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|galaxyp
+|**Parent:**|[galaxy](galaxy.md)
 |**Year:**|1985
 |**Manufacturer:**|Elektronika inzenjering
 |**Status:**|good

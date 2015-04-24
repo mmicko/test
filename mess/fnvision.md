@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fnvision
+|**Parent:**|[crvision](crvision.md)
 |**Year:**|1982
 |**Manufacturer:**|Video Technology
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|intvkbd
+|**Parent:**|[intv](intv.md)
 |**Year:**|1981
 |**Manufacturer:**|Mattel
 |**Status:**|preliminary

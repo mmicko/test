@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dcprt
+|**Parent:**|[dcjp](dcjp.md)
 |**Year:**|1998
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

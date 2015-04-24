@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hb55d
+|**Parent:**|[hb55p](hb55p.md)
 |**Year:**|1983
 |**Manufacturer:**|Sony
 |**Status:**|good

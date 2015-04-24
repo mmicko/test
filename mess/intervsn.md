@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|intervsn
+|**Parent:**|[ormatu](ormatu.md)
 |**Year:**|198?
 |**Manufacturer:**|Intervision
 |**Status:**|imperfect

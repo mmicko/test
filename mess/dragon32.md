@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dragon32
+|**Parent:**|[coco](coco.md)
 |**Year:**|1982
 |**Manufacturer:**|Dragon Data Ltd
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laser500
+|**Parent:**|[laser350](laser350.md)
 |**Year:**|1984?
 |**Manufacturer:**|Video Technology
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|jtces40
+|**Parent:**|[jtc](jtc.md)
 |**Year:**|1990
 |**Manufacturer:**|Jugend+Technik
 |**Status:**|preliminary

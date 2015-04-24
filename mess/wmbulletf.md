@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|wmbulletf
+|**Parent:**|[wmbullet](wmbullet.md)
 |**Year:**|1984
 |**Manufacturer:**|Wave Mate
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=bullet.c)
+|**Source file:**|[bullet.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/bullet.c)
 
 ##Emulation info
 || Status |

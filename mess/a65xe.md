@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|a65xe
+|**Parent:**|[a800xl](a800xl.md)
 |**Year:**|1986
 |**Manufacturer:**|Atari
 |**Status:**|imperfect

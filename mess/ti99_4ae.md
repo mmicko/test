@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ti99_4ae
+|**Parent:**|[ti99_4a](ti99_4a.md)
 |**Year:**|1981
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=ti99_4x.c)
+|**Source file:**|[ti99_4x.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/ti99_4x.c)
 
 ##Emulation info
 || Status |

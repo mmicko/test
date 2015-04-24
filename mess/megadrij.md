@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megadrij
+|**Parent:**|[genesis](genesis.md)
 |**Year:**|1988
 |**Manufacturer:**|Sega
 |**Status:**|good

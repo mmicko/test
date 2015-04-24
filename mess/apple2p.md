@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2p
+|**Parent:**|[apple2](apple2.md)
 |**Year:**|1979
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

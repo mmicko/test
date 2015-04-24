@@ -8,6 +8,8 @@
 |**Year:**|1979
 |**Manufacturer:**|Intel
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=sdk86.c)
+|**Source file:**|[sdk86.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/sdk86.c)
 
 ##Emulation info
 || Status |

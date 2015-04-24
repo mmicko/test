@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macpb180c
+|**Parent:**|[macpb160](macpb160.md)
 |**Year:**|1992
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

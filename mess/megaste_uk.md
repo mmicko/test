@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megaste_uk
+|**Parent:**|[ste](ste.md)
 |**Year:**|1991
 |**Manufacturer:**|Atari
 |**Status:**|preliminary

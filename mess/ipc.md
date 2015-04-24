@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ipc
+|**Parent:**|[ipb](ipb.md)
 |**Year:**|19??
 |**Manufacturer:**|Intel
 |**Status:**|preliminary

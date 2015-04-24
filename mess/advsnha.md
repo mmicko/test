@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|advsnha
+|**Parent:**|[arcadia](arcadia.md)
 |**Year:**|1983
 |**Manufacturer:**|Advision
 |**Status:**|imperfect

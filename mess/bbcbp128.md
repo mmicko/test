@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bbcbp128
+|**Parent:**|[bbcbp](bbcbp.md)
 |**Year:**|1985
 |**Manufacturer:**|Acorn
 |**Status:**|good

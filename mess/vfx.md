@@ -8,6 +8,8 @@
 |**Year:**|1989
 |**Manufacturer:**|Ensoniq
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=esq5505.c)
+|**Source file:**|[esq5505.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/esq5505.c)
 
 ##Emulation info
 || Status |

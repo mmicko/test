@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|olivm15
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|198?
 |**Manufacturer:**|Olivetti
 |**Status:**|preliminary

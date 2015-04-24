@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|gamegeaj
+|**Parent:**|[gamegear](gamegear.md)
 |**Year:**|1990
 |**Manufacturer:**|Sega
 |**Status:**|good

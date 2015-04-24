@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fmtmarty2
+|**Parent:**|[fmtmarty](fmtmarty.md)
 |**Year:**|1993
 |**Manufacturer:**|Fujitsu
 |**Status:**|preliminary

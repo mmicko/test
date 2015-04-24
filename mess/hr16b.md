@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hr16b
+|**Parent:**|[hr16](hr16.md)
 |**Year:**|1989
 |**Manufacturer:**|Alesis
 |**Status:**|preliminary

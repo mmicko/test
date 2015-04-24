@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tiki100
+|**Parent:**|[kontiki](kontiki.md)
 |**Year:**|1984
 |**Manufacturer:**|Tiki Data A/S
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=tiki100.c)
+|**Source file:**|[tiki100.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/tiki100.c)
 
 ##Emulation info
 || Status |

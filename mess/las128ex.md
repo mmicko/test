@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|las128ex
+|**Parent:**|[apple2c](apple2c.md)
 |**Year:**|1988
 |**Manufacturer:**|Video Technology
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|orionzms
+|**Parent:**|[orion128](orion128.md)
 |**Year:**|1990
 |**Manufacturer:**|<unknown>
 |**Status:**|good

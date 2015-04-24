@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|canonv30f
+|**Parent:**|[canonv30](canonv30.md)
 |**Year:**|1985
 |**Manufacturer:**|Canon
 |**Status:**|good

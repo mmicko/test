@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|m5p
+|**Parent:**|[m5](m5.md)
 |**Year:**|1983
 |**Manufacturer:**|Sord
 |**Status:**|good

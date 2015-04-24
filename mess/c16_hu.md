@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|c16_hu
+|**Parent:**|[c264](c264.md)
 |**Year:**|1984
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good

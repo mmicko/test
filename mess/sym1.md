@@ -8,6 +8,8 @@
 |**Year:**|1978
 |**Manufacturer:**|Synertek Systems Corp.
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=sym1.c)
+|**Source file:**|[sym1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/sym1.c)
 
 ##Emulation info
 || Status |

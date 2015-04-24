@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hobby
+|**Parent:**|[vesta](vesta.md)
 |**Year:**|1987
 |**Manufacturer:**|BP EVM
 |**Status:**|good

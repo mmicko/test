@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apollo80
+|**Parent:**|[studio2](studio2.md)
 |**Year:**|1978
 |**Manufacturer:**|Academy
 |**Status:**|good

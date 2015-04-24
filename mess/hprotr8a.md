@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hprotr8a
+|**Parent:**|[hprot1](hprot1.md)
 |**Year:**|2006
 |**Manufacturer:**|HENRY
 |**Status:**|preliminary

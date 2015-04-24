@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|comx35n
+|**Parent:**|[comx35p](comx35p.md)
 |**Year:**|1983
 |**Manufacturer:**|Comx World Operations Ltd
 |**Status:**|imperfect

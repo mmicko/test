@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pet64
+|**Parent:**|[c64](c64.md)
 |**Year:**|1983
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary

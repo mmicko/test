@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|jopac
+|**Parent:**|[odyssey2](odyssey2.md)
 |**Year:**|1983
 |**Manufacturer:**|Brandt
 |**Status:**|imperfect

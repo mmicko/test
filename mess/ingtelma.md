@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ingtelma
+|**Parent:**|[channlf2](channlf2.md)
 |**Year:**|1978
 |**Manufacturer:**|Ingelen
 |**Status:**|good

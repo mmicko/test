@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|luxorves
+|**Parent:**|[channelf](channelf.md)
 |**Year:**|197?
 |**Manufacturer:**|Luxor
 |**Status:**|good

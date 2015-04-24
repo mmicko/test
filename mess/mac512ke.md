@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mac512ke
+|**Parent:**|[macplus](macplus.md)
 |**Year:**|1986
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

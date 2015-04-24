@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|poisk2
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1991
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cmdpc30
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1988
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary

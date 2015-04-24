@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ibmpcjx
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1985
 |**Manufacturer:**|International Business Machines
 |**Status:**|preliminary

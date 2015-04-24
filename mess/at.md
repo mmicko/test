@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|at
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1987
 |**Manufacturer:**|<generic>
 |**Status:**|preliminary

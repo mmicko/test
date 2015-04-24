@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|itmcmtp3
+|**Parent:**|[intmpt03](intmpt03.md)
 |**Year:**|198?
 |**Manufacturer:**|ITMC
 |**Status:**|imperfect

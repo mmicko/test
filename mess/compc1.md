@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|compc1
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1984
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bestzx
+|**Parent:**|[spec128](spec128.md)
 |**Year:**|19??
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

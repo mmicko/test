@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hp48s
+|**Parent:**|[hp48sx](hp48sx.md)
 |**Year:**|1991
 |**Manufacturer:**|Hewlett Packard
 |**Status:**|good

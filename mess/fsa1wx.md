@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fsa1wx
+|**Parent:**|[fsa1wxa](fsa1wxa.md)
 |**Year:**|1988
 |**Manufacturer:**|Panasonic / Matsushita
 |**Status:**|good

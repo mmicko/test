@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cpc50b
+|**Parent:**|[cpc51](cpc51.md)
 |**Year:**|1983
 |**Manufacturer:**|Daewoo
 |**Status:**|good

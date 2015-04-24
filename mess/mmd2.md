@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mmd2
+|**Parent:**|[mmd1](mmd1.md)
 |**Year:**|1976
 |**Manufacturer:**|E&L Instruments Inc
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megadriv
+|**Parent:**|[genesis](genesis.md)
 |**Year:**|1990
 |**Manufacturer:**|Sega
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|intvecs
+|**Parent:**|[intv](intv.md)
 |**Year:**|1983
 |**Manufacturer:**|Mattel
 |**Status:**|good

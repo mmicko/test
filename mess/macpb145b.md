@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macpb145b
+|**Parent:**|[macpb140](macpb140.md)
 |**Year:**|1992
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

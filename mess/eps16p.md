@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|eps16p
+|**Parent:**|[eps](eps.md)
 |**Year:**|1990
 |**Manufacturer:**|Ensoniq
 |**Status:**|preliminary

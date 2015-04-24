@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ssam88s
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1989
 |**Manufacturer:**|Samsung
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pc.c)
+|**Source file:**|[pc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pc.c)
 
 ##Emulation info
 || Status |

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cpacmanr1
+|**Parent:**|[cpacman](cpacman.md)
 |**Year:**|1981
 |**Manufacturer:**|Coleco
 |**Status:**|good

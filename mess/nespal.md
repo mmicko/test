@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nespal
+|**Parent:**|[nes](nes.md)
 |**Year:**|1987
 |**Manufacturer:**|Nintendo
 |**Status:**|imperfect

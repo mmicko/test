@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mmf9000_se
+|**Parent:**|[pet8032](pet8032.md)
 |**Year:**|1981
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary

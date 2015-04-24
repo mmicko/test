@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mpc200sp
+|**Parent:**|[mpc200](mpc200.md)
 |**Year:**|1983
 |**Manufacturer:**|Sanyo
 |**Status:**|good

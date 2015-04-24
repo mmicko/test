@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|europc
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1988
 |**Manufacturer:**|Schneider Rdf. AG
 |**Status:**|preliminary

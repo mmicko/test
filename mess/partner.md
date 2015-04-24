@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|partner
+|**Parent:**|[radio86](radio86.md)
 |**Year:**|1987
 |**Manufacturer:**|SAM SKB VM
 |**Status:**|preliminary

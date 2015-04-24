@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|multmega
+|**Parent:**|[cdx](cdx.md)
 |**Year:**|1994
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

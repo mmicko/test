@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apvxft
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1989
 |**Manufacturer:**|Apricot
 |**Status:**|preliminary

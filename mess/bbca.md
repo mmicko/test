@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bbca
+|**Parent:**|[bbcb](bbcb.md)
 |**Year:**|1981
 |**Manufacturer:**|Acorn
 |**Status:**|good

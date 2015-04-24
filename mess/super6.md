@@ -8,6 +8,8 @@
 |**Year:**|1983
 |**Manufacturer:**|Advanced Digital Corporation
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=super6.c)
+|**Source file:**|[super6.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/super6.c)
 
 ##Emulation info
 || Status |

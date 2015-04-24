@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pyl601a
+|**Parent:**|[pyl601](pyl601.md)
 |**Year:**|1989
 |**Manufacturer:**|Mikroelektronika
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pyl601.c)
+|**Source file:**|[pyl601.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pyl601.c)
 
 ##Emulation info
 || Status |

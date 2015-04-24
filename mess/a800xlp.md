@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|a800xlp
+|**Parent:**|[a800xl](a800xl.md)
 |**Year:**|1983
 |**Manufacturer:**|Atari
 |**Status:**|imperfect

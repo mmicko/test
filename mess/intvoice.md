@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|intvoice
+|**Parent:**|[intv](intv.md)
 |**Year:**|1982
 |**Manufacturer:**|Mattel
 |**Status:**|good

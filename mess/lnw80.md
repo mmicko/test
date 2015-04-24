@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lnw80
+|**Parent:**|[trs80](trs80.md)
 |**Year:**|1981
 |**Manufacturer:**|LNW Research
 |**Status:**|good

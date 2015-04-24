@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|luxorvec
+|**Parent:**|[channlf2](channlf2.md)
 |**Year:**|197?
 |**Manufacturer:**|Luxor
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|al520ex
+|**Parent:**|[cpc464](cpc464.md)
 |**Year:**|1993
 |**Manufacturer:**|Patisonic
 |**Status:**|imperfect

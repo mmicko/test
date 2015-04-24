@@ -8,6 +8,8 @@
 |**Year:**|1994
 |**Manufacturer:**|Sega
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=saturn.c)
+|**Source file:**|[saturn.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/saturn.c)
 
 ##Emulation info
 || Status |

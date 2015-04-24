@@ -8,6 +8,8 @@
 |**Year:**|198?
 |**Manufacturer:**|Callan Data Systems
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=unistar.c)
+|**Source file:**|[unistar.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/unistar.c)
 
 ##Emulation info
 || Status |

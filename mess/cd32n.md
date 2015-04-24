@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cd32n
+|**Parent:**|[cd32](cd32.md)
 |**Year:**|1993
 |**Manufacturer:**|Commodore
 |**Status:**|preliminary

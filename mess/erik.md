@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|erik
+|**Parent:**|[special](special.md)
 |**Year:**|1994
 |**Manufacturer:**|<unknown>
 |**Status:**|good

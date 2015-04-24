@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tk90x
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1985
 |**Manufacturer:**|Micro Digital
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=spectrum.c)
+|**Source file:**|[spectrum.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/spectrum.c)
 
 ##Emulation info
 || Status |

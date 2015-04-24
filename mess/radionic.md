@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|radionic
+|**Parent:**|[trs80](trs80.md)
 |**Year:**|1983
 |**Manufacturer:**|Komtek
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=trs80.c)
+|**Source file:**|[trs80.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/trs80.c)
 
 ##Emulation info
 || Status |

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lzcolor64
+|**Parent:**|[coco](coco.md)
 |**Year:**|1984
 |**Manufacturer:**|Digiponto
 |**Status:**|good

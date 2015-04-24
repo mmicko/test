@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nascom2
+|**Parent:**|[nascom1](nascom1.md)
 |**Year:**|1979
 |**Manufacturer:**|Nascom Microcomputers
 |**Status:**|preliminary

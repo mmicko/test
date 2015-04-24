@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|coco3h
+|**Parent:**|[coco](coco.md)
 |**Year:**|19??
 |**Manufacturer:**|Tandy Radio Shack
 |**Status:**|good

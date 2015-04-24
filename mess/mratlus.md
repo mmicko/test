@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mratlus
+|**Parent:**|[plldium](plldium.md)
 |**Year:**|1983
 |**Manufacturer:**|H.G.S.
 |**Status:**|preliminary

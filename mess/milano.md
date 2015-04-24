@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|milano
+|**Parent:**|[polgar](polgar.md)
 |**Year:**|1989
 |**Manufacturer:**|Hegener & Glaser
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cx7m
+|**Parent:**|[cx7m128](cx7m128.md)
 |**Year:**|1986
 |**Manufacturer:**|Yamaha
 |**Status:**|good

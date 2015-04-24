@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Sun Microsystems
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=sun1.c)
+|**Source file:**|[sun1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/sun1.c)
 
 ##Emulation info
 || Status |

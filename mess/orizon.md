@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|orizon
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|199?
 |**Manufacturer:**|<unknown>
 |**Status:**|good

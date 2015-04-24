@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bigbord2
+|**Parent:**|[bigboard](bigboard.md)
 |**Year:**|1982
 |**Manufacturer:**|Digital Research Computers
 |**Status:**|preliminary

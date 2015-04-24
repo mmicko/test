@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dceu
+|**Parent:**|[dcjp](dcjp.md)
 |**Year:**|1999
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|famitwin
+|**Parent:**|[nes](nes.md)
 |**Year:**|1986
 |**Manufacturer:**|Sharp
 |**Status:**|imperfect

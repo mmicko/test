@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pcfxga
+|**Parent:**|[pcfx](pcfx.md)
 |**Year:**|199?
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|preliminary

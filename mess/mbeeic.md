@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mbeeic
+|**Parent:**|[mbee](mbee.md)
 |**Year:**|1982
 |**Manufacturer:**|Applied Technology
 |**Status:**|good

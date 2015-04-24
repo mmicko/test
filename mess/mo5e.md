@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mo5e
+|**Parent:**|[mo5](mo5.md)
 |**Year:**|1986
 |**Manufacturer:**|Thomson
 |**Status:**|good

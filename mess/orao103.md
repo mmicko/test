@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|orao103
+|**Parent:**|[orao](orao.md)
 |**Year:**|1985
 |**Manufacturer:**|PEL Varazdin
 |**Status:**|good

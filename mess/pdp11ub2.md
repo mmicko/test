@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pdp11ub2
+|**Parent:**|[pdp11ub](pdp11ub.md)
 |**Year:**|????
 |**Manufacturer:**|Digital Equipment Corporation
 |**Status:**|preliminary

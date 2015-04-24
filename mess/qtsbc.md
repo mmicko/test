@@ -8,6 +8,8 @@
 |**Year:**|19??
 |**Manufacturer:**|Computer Systems Inc.
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=qtsbc.c)
+|**Source file:**|[qtsbc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/qtsbc.c)
 
 ##Emulation info
 || Status |

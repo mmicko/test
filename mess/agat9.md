@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|agat9
+|**Parent:**|[apple2](apple2.md)
 |**Year:**|1984
 |**Manufacturer:**|Agat
 |**Status:**|preliminary

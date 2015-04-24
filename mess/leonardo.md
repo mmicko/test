@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|leonardo
+|**Parent:**|[arcadia](arcadia.md)
 |**Year:**|1982
 |**Manufacturer:**|GiG Electronics
 |**Status:**|imperfect

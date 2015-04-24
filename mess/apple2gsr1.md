@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2gsr1
+|**Parent:**|[apple2gs](apple2gs.md)
 |**Year:**|1987
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

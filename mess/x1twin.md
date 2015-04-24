@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|x1twin
+|**Parent:**|[x1](x1.md)
 |**Year:**|1986
 |**Manufacturer:**|Sharp
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=x1twin.c)
+|**Source file:**|[x1twin.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/x1twin.c)
 
 ##Emulation info
 || Status |

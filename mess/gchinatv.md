@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|gchinatv
+|**Parent:**|[nes](nes.md)
 |**Year:**|198?
 |**Manufacturer:**|Golden China
 |**Status:**|imperfect

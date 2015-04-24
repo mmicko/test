@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|c128dcr
+|**Parent:**|[c128](c128.md)
 |**Year:**|1987
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good

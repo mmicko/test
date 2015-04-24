@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hotbit12
+|**Parent:**|[hotbi13p](hotbi13p.md)
 |**Year:**|1985
 |**Manufacturer:**|Sharp / Epcom
 |**Status:**|good

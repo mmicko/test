@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dgnalpha
+|**Parent:**|[coco](coco.md)
 |**Year:**|1984
 |**Manufacturer:**|Dragon Data Ltd
 |**Status:**|good

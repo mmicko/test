@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mprof3
+|**Parent:**|[apple2e](apple2e.md)
 |**Year:**|1983
 |**Manufacturer:**|Multitech
 |**Status:**|preliminary

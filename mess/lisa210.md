@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lisa210
+|**Parent:**|[lisa2](lisa2.md)
 |**Year:**|1984
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

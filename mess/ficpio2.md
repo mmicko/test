@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ficpio2
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1995
 |**Manufacturer:**|FIC
 |**Status:**|preliminary

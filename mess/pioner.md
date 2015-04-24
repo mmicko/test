@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pioner
+|**Parent:**|[special](special.md)
 |**Year:**|1985
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

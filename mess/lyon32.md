@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lyon32
+|**Parent:**|[van16](van16.md)
 |**Year:**|1990
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

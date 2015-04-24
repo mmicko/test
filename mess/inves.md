@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|inves
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1986
 |**Manufacturer:**|Investronica
 |**Status:**|good

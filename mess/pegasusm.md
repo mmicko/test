@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pegasusm
+|**Parent:**|[pegasus](pegasus.md)
 |**Year:**|1981
 |**Manufacturer:**|Technosys
 |**Status:**|good

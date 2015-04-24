@@ -8,6 +8,8 @@
 |**Year:**|1981
 |**Manufacturer:**|Pulsar
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=pulsar.c)
+|**Source file:**|[pulsar.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/pulsar.c)
 
 ##Emulation info
 || Status |

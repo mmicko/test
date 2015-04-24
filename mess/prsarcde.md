@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|prsarcde
+|**Parent:**|[czz50](czz50.md)
 |**Year:**|1988
 |**Manufacturer:**|Telegames
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=coleco.c)
+|**Source file:**|[coleco.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/coleco.c)
 
 ##Emulation info
 || Status |

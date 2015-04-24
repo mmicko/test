@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|f1e
+|**Parent:**|[f1](f1.md)
 |**Year:**|1984
 |**Manufacturer:**|ACT
 |**Status:**|preliminary

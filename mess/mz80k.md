@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mz80k
+|**Parent:**|[mz80kj](mz80kj.md)
 |**Year:**|1979
 |**Manufacturer:**|Sharp
 |**Status:**|good

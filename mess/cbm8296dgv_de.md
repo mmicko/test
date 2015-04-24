@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cbm8296dgv_de
+|**Parent:**|[cbm8296](cbm8296.md)
 |**Year:**|1984
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good

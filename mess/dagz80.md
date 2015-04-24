@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dagz80
+|**Parent:**|[selz80](selz80.md)
 |**Year:**|1988
 |**Manufacturer:**|DAG
 |**Status:**|good

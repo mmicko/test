@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|compani1
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1990
 |**Manufacturer:**|<unknown>
 |**Status:**|good

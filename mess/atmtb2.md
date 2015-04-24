@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|atmtb2
+|**Parent:**|[spec128](spec128.md)
 |**Year:**|1993
 |**Manufacturer:**|MicroART
 |**Status:**|preliminary

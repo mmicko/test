@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|kaypro4p88
+|**Parent:**|[kayproii](kayproii.md)
 |**Year:**|1983
 |**Manufacturer:**|Non Linear Systems
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|magic6
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1993
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

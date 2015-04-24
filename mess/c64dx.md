@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|c64dx
+|**Parent:**|[c65](c65.md)
 |**Year:**|1991
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary

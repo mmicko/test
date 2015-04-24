@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|iskr1030m
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1989
 |**Manufacturer:**|Schetmash
 |**Status:**|preliminary

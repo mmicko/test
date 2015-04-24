@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megapcpla
+|**Parent:**|[megapc](megapc.md)
 |**Year:**|199?
 |**Manufacturer:**|Amstrad plc
 |**Status:**|preliminary

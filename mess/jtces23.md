@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|jtces23
+|**Parent:**|[jtc](jtc.md)
 |**Year:**|1989
 |**Manufacturer:**|Jugend+Technik
 |**Status:**|preliminary

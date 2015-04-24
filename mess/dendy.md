@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dendy
+|**Parent:**|[nes](nes.md)
 |**Year:**|1992
 |**Manufacturer:**|Steepler
 |**Status:**|imperfect

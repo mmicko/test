@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lilprof78
+|**Parent:**|[lilprof](lilprof.md)
 |**Year:**|1978
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good

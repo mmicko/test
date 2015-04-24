@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fmnew7
+|**Parent:**|[fm7](fm7.md)
 |**Year:**|1984
 |**Manufacturer:**|Fujitsu
 |**Status:**|good

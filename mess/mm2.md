@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mm2
+|**Parent:**|[mm4](mm4.md)
 |**Year:**|1984
 |**Manufacturer:**|Hegener & Glaser
 |**Status:**|good

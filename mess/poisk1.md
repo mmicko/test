@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|poisk1
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1989
 |**Manufacturer:**|Electronmash
 |**Status:**|good

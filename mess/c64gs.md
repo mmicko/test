@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|c64gs
+|**Parent:**|[c64](c64.md)
 |**Year:**|1990
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good

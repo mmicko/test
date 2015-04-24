@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nano
+|**Parent:**|[tmc2000](tmc2000.md)
 |**Year:**|1980
 |**Manufacturer:**|OSCOM Oy
 |**Status:**|preliminary

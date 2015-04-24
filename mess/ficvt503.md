@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ficvt503
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1997
 |**Manufacturer:**|FIC
 |**Status:**|preliminary

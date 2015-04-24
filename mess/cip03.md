@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cip03
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1988
 |**Manufacturer:**|Electronica
 |**Status:**|good

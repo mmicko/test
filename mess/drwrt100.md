@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|drwrt100
+|**Parent:**|[wales210](wales210.md)
 |**Year:**|199?
 |**Manufacturer:**|NTS
 |**Status:**|preliminary

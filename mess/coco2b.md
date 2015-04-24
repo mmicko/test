@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|coco2b
+|**Parent:**|[coco](coco.md)
 |**Year:**|1985?
 |**Manufacturer:**|Tandy Radio Shack
 |**Status:**|good

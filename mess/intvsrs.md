@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|intvsrs
+|**Parent:**|[intv](intv.md)
 |**Year:**|1981
 |**Manufacturer:**|Sears
 |**Status:**|good

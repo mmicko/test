@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|maciivi
+|**Parent:**|[maciivx](maciivx.md)
 |**Year:**|1993
 |**Manufacturer:**|Apple Computer
 |**Status:**|imperfect

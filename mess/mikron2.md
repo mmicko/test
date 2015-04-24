@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mikron2
+|**Parent:**|[radio86](radio86.md)
 |**Year:**|1986
 |**Manufacturer:**|<unknown>
 |**Status:**|good

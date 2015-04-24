@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|victhc95a
+|**Parent:**|[victhc95](victhc95.md)
 |**Year:**|1986
 |**Manufacturer:**|Victor
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=msx.c)
+|**Source file:**|[msx.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/msx.c)
 
 ##Emulation info
 || Status |

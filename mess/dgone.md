@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dgone
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|1984
 |**Manufacturer:**|Data General
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megacda
+|**Parent:**|[segacd](segacd.md)
 |**Year:**|1991
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

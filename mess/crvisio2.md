@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|crvisio2
+|**Parent:**|[crvision](crvision.md)
 |**Year:**|1983
 |**Manufacturer:**|Video Technology
 |**Status:**|good

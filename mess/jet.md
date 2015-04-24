@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|jet
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1990
 |**Manufacturer:**|Electromagnetica
 |**Status:**|good

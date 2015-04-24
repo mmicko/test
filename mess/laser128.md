@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laser128
+|**Parent:**|[apple2c](apple2c.md)
 |**Year:**|1987
 |**Manufacturer:**|Video Technology
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bx256hp
+|**Parent:**|[b128hp](b128hp.md)
 |**Year:**|1983
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary

@@ -8,6 +8,8 @@
 |**Year:**|1985
 |**Manufacturer:**|Silicon Graphics Inc
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=sgi_ip2.c)
+|**Source file:**|[sgi_ip2.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/sgi_ip2.c)
 
 ##Emulation info
 || Status |

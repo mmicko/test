@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hprot2r6
+|**Parent:**|[hprot1](hprot1.md)
 |**Year:**|2003
 |**Manufacturer:**|HENRY
 |**Status:**|preliminary

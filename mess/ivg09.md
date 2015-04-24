@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ivg09
+|**Parent:**|[cpu09](cpu09.md)
 |**Year:**|1983
 |**Manufacturer:**|C. Tavernier
 |**Status:**|preliminary

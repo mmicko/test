@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dator3k
+|**Parent:**|[wales210](wales210.md)
 |**Year:**|199?
 |**Manufacturer:**|Dator
 |**Status:**|preliminary

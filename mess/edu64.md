@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|edu64
+|**Parent:**|[c64](c64.md)
 |**Year:**|1983
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|preliminary

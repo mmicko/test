@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|es210_es
+|**Parent:**|[wales210](wales210.md)
 |**Year:**|199?
 |**Manufacturer:**|Nakajima
 |**Status:**|preliminary

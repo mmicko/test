@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|homelab3
+|**Parent:**|[homelab2](homelab2.md)
 |**Year:**|1983
 |**Manufacturer:**|Jozsef and Endre Lukacs
 |**Status:**|preliminary

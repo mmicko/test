@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pc88va2
+|**Parent:**|[pc88va](pc88va.md)
 |**Year:**|1988
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|preliminary

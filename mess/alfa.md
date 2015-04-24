@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|alfa
+|**Parent:**|[pmd851](pmd851.md)
 |**Year:**|1986
 |**Manufacturer:**|Didaktik Skalica
 |**Status:**|good

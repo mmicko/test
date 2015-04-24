@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fds
+|**Parent:**|[nes](nes.md)
 |**Year:**|1983
 |**Manufacturer:**|Nintendo
 |**Status:**|imperfect

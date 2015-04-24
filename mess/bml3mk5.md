@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bml3mk5
+|**Parent:**|[bml3](bml3.md)
 |**Year:**|1983
 |**Manufacturer:**|Hitachi
 |**Status:**|preliminary

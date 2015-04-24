@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dallas
+|**Parent:**|[glasgow](glasgow.md)
 |**Year:**|1984
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

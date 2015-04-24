@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mistrum
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1988
 |**Manufacturer:**|Amaterske RADIO
 |**Status:**|good

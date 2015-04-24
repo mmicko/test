@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|drpcjr
+|**Parent:**|[nes](nes.md)
 |**Year:**|1996
 |**Manufacturer:**|Bung
 |**Status:**|imperfect

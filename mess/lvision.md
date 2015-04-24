@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lvision
+|**Parent:**|[arcadia](arcadia.md)
 |**Year:**|1982
 |**Manufacturer:**|Leisure-Dynamics
 |**Status:**|imperfect

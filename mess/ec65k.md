@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ec65k
+|**Parent:**|[ec65](ec65.md)
 |**Year:**|1985
 |**Manufacturer:**|Elektor Electronics
 |**Status:**|preliminary

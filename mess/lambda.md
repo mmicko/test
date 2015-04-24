@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lambda
+|**Parent:**|[zx81](zx81.md)
 |**Year:**|1982
 |**Manufacturer:**|Lambda Electronics Ltd
 |**Status:**|good

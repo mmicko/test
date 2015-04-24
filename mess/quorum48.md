@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|quorum48
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1993
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=spectrum.c)
+|**Source file:**|[spectrum.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/spectrum.c)
 
 ##Emulation info
 || Status |

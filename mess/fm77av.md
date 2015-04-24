@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fm77av
+|**Parent:**|[fm7](fm7.md)
 |**Year:**|1985
 |**Manufacturer:**|Fujitsu
 |**Status:**|imperfect

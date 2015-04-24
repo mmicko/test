@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|falcon40
+|**Parent:**|[falcon30](falcon30.md)
 |**Year:**|1992
 |**Manufacturer:**|Atari
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cx5m2
+|**Parent:**|[cx5m128](cx5m128.md)
 |**Year:**|1984
 |**Manufacturer:**|Yamaha
 |**Status:**|good

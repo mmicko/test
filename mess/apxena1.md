@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apxena1
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1993
 |**Manufacturer:**|Apricot
 |**Status:**|preliminary

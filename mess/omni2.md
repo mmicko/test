@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|omni2
+|**Parent:**|[kayproii](kayproii.md)
 |**Year:**|198?
 |**Manufacturer:**|Non Linear Systems
 |**Status:**|good

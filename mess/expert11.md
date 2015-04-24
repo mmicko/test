@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|expert11
+|**Parent:**|[expert13](expert13.md)
 |**Year:**|1984
 |**Manufacturer:**|Gradiente
 |**Status:**|good

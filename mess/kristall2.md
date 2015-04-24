@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|kristall2
+|**Parent:**|[mikro80](mikro80.md)
 |**Year:**|1987
 |**Manufacturer:**|<unknown>
 |**Status:**|good

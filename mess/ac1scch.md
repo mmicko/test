@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ac1scch
+|**Parent:**|[ac1](ac1.md)
 |**Year:**|1984
 |**Manufacturer:**|Frank Heyder
 |**Status:**|good

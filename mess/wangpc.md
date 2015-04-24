@@ -8,6 +8,8 @@
 |**Year:**|1985
 |**Manufacturer:**|Wang Laboratories
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=wangpc.c)
+|**Source file:**|[wangpc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/wangpc.c)
 
 ##Emulation info
 || Status |

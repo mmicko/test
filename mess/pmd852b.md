@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pmd852b
+|**Parent:**|[pmd851](pmd851.md)
 |**Year:**|1985
 |**Manufacturer:**|Tesla
 |**Status:**|good

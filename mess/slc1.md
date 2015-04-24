@@ -8,6 +8,8 @@
 |**Year:**|1989
 |**Manufacturer:**|Dr. Dieter Scheuschner
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=slc1.c)
+|**Source file:**|[slc1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/slc1.c)
 
 ##Emulation info
 || Status |

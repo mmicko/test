@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|olypeopl
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|198?
 |**Manufacturer:**|Olympia
 |**Status:**|preliminary

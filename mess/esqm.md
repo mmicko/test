@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|esqm
+|**Parent:**|[esq1](esq1.md)
 |**Year:**|1986
 |**Manufacturer:**|Ensoniq
 |**Status:**|preliminary

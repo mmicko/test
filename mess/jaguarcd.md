@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|jaguarcd
+|**Parent:**|[jaguar](jaguar.md)
 |**Year:**|1995
 |**Manufacturer:**|Atari
 |**Status:**|preliminary

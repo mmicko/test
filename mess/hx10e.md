@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hx10e
+|**Parent:**|[hx10](hx10.md)
 |**Year:**|1984
 |**Manufacturer:**|Toshiba
 |**Status:**|good

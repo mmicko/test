@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|c1p
+|**Parent:**|[sb2m600b](sb2m600b.md)
 |**Year:**|1980
 |**Manufacturer:**|Ohio Scientific
 |**Status:**|preliminary

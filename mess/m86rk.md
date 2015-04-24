@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|m86rk
+|**Parent:**|[radio86](radio86.md)
 |**Year:**|1987
 |**Manufacturer:**|<unknown>
 |**Status:**|good

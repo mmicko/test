@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ringo470
+|**Parent:**|[zx81](zx81.md)
 |**Year:**|1983
 |**Manufacturer:**|Ritas do Brasil Ltda
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=zx.c)
+|**Source file:**|[zx.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/zx.c)
 
 ##Emulation info
 || Status |

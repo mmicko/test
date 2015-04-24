@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hec2mdhrx
+|**Parent:**|[hec2hrp](hec2hrp.md)
 |**Year:**|1985
 |**Manufacturer:**|Micronique
 |**Status:**|imperfect

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bebox2
+|**Parent:**|[bebox](bebox.md)
 |**Year:**|1996
 |**Manufacturer:**|Be Inc
 |**Status:**|preliminary

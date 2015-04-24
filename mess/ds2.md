@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ds2
+|**Parent:**|[rex6000](rex6000.md)
 |**Year:**|2000
 |**Manufacturer:**|Citizen
 |**Status:**|preliminary

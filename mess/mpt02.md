@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mpt02
+|**Parent:**|[studio2](studio2.md)
 |**Year:**|1978
 |**Manufacturer:**|Soundic
 |**Status:**|good

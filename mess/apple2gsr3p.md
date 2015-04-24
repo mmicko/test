@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2gsr3p
+|**Parent:**|[apple2gs](apple2gs.md)
 |**Year:**|198?
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

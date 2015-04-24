@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|wmega
+|**Parent:**|[xeye](xeye.md)
 |**Year:**|1992
 |**Manufacturer:**|Sega
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=megadriv.c)
+|**Source file:**|[megadriv.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/megadriv.c)
 
 ##Emulation info
 || Status |

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pc8801mk2mr
+|**Parent:**|[pc8801](pc8801.md)
 |**Year:**|1985
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hanihac
+|**Parent:**|[arcadia](arcadia.md)
 |**Year:**|1982
 |**Manufacturer:**|Hanimex
 |**Status:**|imperfect

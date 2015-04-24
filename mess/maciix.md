@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|maciix
+|**Parent:**|[mac2fdhd](mac2fdhd.md)
 |**Year:**|1988
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macxl
+|**Parent:**|[lisa2](lisa2.md)
 |**Year:**|1985
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

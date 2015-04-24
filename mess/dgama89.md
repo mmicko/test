@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dgama89
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1989
 |**Manufacturer:**|Didaktik Skalica
 |**Status:**|good

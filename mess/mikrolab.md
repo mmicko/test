@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mikrolab
+|**Parent:**|[tk80](tk80.md)
 |**Year:**|19??
 |**Manufacturer:**|<unknown>
 |**Status:**|good

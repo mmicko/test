@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2ep
+|**Parent:**|[apple2e](apple2e.md)
 |**Year:**|1987
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

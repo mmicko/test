@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|a400pal
+|**Parent:**|[a400](a400.md)
 |**Year:**|1979
 |**Manufacturer:**|Atari
 |**Status:**|good

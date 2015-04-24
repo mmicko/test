@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|abc800m
+|**Parent:**|[abc800c](abc800c.md)
 |**Year:**|1981
 |**Manufacturer:**|Luxor Datorer AB
 |**Status:**|good

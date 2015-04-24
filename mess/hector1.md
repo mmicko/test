@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hector1
+|**Parent:**|[interact](interact.md)
 |**Year:**|1983
 |**Manufacturer:**|Micronique
 |**Status:**|imperfect

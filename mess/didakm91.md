@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|didakm91
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1991
 |**Manufacturer:**|Didaktik Skalica
 |**Status:**|good

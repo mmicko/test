@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cbm620_hu
+|**Parent:**|[b500](b500.md)
 |**Year:**|1983
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good

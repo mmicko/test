@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ibmps1es
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1989
 |**Manufacturer:**|International Business Machines
 |**Status:**|preliminary

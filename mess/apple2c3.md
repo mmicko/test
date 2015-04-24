@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2c3
+|**Parent:**|[apple2c](apple2c.md)
 |**Year:**|1986
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

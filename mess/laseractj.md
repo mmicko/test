@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laseractj
+|**Parent:**|[laseract](laseract.md)
 |**Year:**|1993
 |**Manufacturer:**|Pioneer
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2jp
+|**Parent:**|[apple2](apple2.md)
 |**Year:**|1980
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

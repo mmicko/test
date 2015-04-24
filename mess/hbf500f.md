@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf500f
+|**Parent:**|[hbf500p](hbf500p.md)
 |**Year:**|198?
 |**Manufacturer:**|Sony
 |**Status:**|good

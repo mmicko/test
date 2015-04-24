@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apogee
+|**Parent:**|[radio86](radio86.md)
 |**Year:**|1989
 |**Manufacturer:**|Zavod BRA
 |**Status:**|good

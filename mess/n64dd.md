@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|n64dd
+|**Parent:**|[n64](n64.md)
 |**Year:**|1996
 |**Manufacturer:**|Nintendo
 |**Status:**|preliminary

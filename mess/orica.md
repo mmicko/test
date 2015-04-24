@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|orica
+|**Parent:**|[oric1](oric1.md)
 |**Year:**|1984
 |**Manufacturer:**|Tangerine
 |**Status:**|good

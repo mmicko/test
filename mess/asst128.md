@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|asst128
+|**Parent:**|[ibm5150](ibm5150.md)
 |**Year:**|198?
 |**Manufacturer:**|Schetmash
 |**Status:**|preliminary

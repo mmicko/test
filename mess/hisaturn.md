@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hisaturn
+|**Parent:**|[saturn](saturn.md)
 |**Year:**|1995
 |**Manufacturer:**|Hitachi
 |**Status:**|preliminary

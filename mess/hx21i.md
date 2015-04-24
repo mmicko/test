@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hx21i
+|**Parent:**|[hx21](hx21.md)
 |**Year:**|1984
 |**Manufacturer:**|Toshiba
 |**Status:**|good

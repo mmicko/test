@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cobra80
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1988
 |**Manufacturer:**|ITCI
 |**Status:**|preliminary

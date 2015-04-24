@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hb75d
+|**Parent:**|[hb75p](hb75p.md)
 |**Year:**|1983
 |**Manufacturer:**|Sony
 |**Status:**|good

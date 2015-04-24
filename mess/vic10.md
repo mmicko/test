@@ -8,6 +8,8 @@
 |**Year:**|1982
 |**Manufacturer:**|Commodore Business Machines
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=vic10.c)
+|**Source file:**|[vic10.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/vic10.c)
 
 ##Emulation info
 || Status |

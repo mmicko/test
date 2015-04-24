@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nectk85
+|**Parent:**|[tk80](tk80.md)
 |**Year:**|1980
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|good

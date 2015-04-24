@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|itttelma
+|**Parent:**|[channlf2](channlf2.md)
 |**Year:**|197?
 |**Manufacturer:**|ITT
 |**Status:**|good

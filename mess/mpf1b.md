@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mpf1b
+|**Parent:**|[mpf1](mpf1.md)
 |**Year:**|1979
 |**Manufacturer:**|Multitech
 |**Status:**|good

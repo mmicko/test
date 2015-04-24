@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|maciihmu
+|**Parent:**|[macii](macii.md)
 |**Year:**|1987
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

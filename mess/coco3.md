@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|coco3
+|**Parent:**|[coco](coco.md)
 |**Year:**|1986
 |**Manufacturer:**|Tandy Radio Shack
 |**Status:**|good

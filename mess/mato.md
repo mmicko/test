@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mato
+|**Parent:**|[pmd851](pmd851.md)
 |**Year:**|1985
 |**Manufacturer:**|Statny
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hx23f
+|**Parent:**|[hx23i](hx23i.md)
 |**Year:**|1986
 |**Manufacturer:**|Toshiba
 |**Status:**|good

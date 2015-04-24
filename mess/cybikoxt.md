@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cybikoxt
+|**Parent:**|[cybikov1](cybikov1.md)
 |**Year:**|2001
 |**Manufacturer:**|Cybiko Inc
 |**Status:**|imperfect

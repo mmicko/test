@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|braiplus
+|**Parent:**|[homelab2](homelab2.md)
 |**Year:**|1988
 |**Manufacturer:**|Jozsef and Endre Lukacs
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|alice
+|**Parent:**|[mc10](mc10.md)
 |**Year:**|1983
 |**Manufacturer:**|Matra & Hachette
 |**Status:**|good

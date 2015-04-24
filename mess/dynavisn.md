@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dynavisn
+|**Parent:**|[intmpt03](intmpt03.md)
 |**Year:**|1982
 |**Manufacturer:**|Yamagiwa
 |**Status:**|imperfect

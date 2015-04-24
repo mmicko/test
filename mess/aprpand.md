@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|aprpand
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1992
 |**Manufacturer:**|Apricot
 |**Status:**|preliminary

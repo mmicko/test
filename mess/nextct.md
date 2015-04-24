@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nextct
+|**Parent:**|[nextst](nextst.md)
 |**Year:**|????
 |**Manufacturer:**|Next Software Inc
 |**Status:**|preliminary

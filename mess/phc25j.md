@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|phc25j
+|**Parent:**|[phc25](phc25.md)
 |**Year:**|1983
 |**Manufacturer:**|Sanyo
 |**Status:**|preliminary

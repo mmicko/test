@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|basic31
+|**Parent:**|[basic52](basic52.md)
 |**Year:**|1985
 |**Manufacturer:**|Intel
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|atm
+|**Parent:**|[spec128](spec128.md)
 |**Year:**|1991
 |**Manufacturer:**|MicroART
 |**Status:**|preliminary

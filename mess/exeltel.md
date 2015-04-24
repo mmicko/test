@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|exeltel
+|**Parent:**|[exl100](exl100.md)
 |**Year:**|1986
 |**Manufacturer:**|Exelvision
 |**Status:**|preliminary

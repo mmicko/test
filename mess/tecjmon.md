@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tecjmon
+|**Parent:**|[tec1](tec1.md)
 |**Year:**|1984
 |**Manufacturer:**|Talking Electronics magazine
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=tec1.c)
+|**Source file:**|[tec1.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/tec1.c)
 
 ##Emulation info
 || Status |

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dallas32
+|**Parent:**|[amsterd](amsterd.md)
 |**Year:**|1984
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

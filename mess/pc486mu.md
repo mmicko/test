@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pc486mu
+|**Parent:**|[pc9821](pc9821.md)
 |**Year:**|1994
 |**Manufacturer:**|Epson
 |**Status:**|preliminary

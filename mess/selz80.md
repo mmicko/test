@@ -8,6 +8,8 @@
 |**Year:**|1985
 |**Manufacturer:**|SEL
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=selz80.c)
+|**Source file:**|[selz80.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/selz80.c)
 
 ##Emulation info
 || Status |

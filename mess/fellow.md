@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fellow
+|**Parent:**|[laser200](laser200.md)
 |**Year:**|1983
 |**Manufacturer:**|Salora
 |**Status:**|good

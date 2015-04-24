@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|piopx7uk
+|**Parent:**|[piopx7](piopx7.md)
 |**Year:**|1985
 |**Manufacturer:**|Pioneer
 |**Status:**|good

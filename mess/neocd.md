@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|neocd
+|**Parent:**|[neocdz](neocdz.md)
 |**Year:**|1994
 |**Manufacturer:**|SNK
 |**Status:**|preliminary

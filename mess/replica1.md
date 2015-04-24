@@ -8,6 +8,8 @@
 |**Year:**|2012
 |**Manufacturer:**|Makerbot
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=replicator.c)
+|**Source file:**|[replicator.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/replicator.c)
 
 ##Emulation info
 || Status |

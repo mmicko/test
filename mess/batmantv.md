@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|batmantv
+|**Parent:**|[vii](vii.md)
 |**Year:**|2004
 |**Manufacturer:**|JAKKS Pacific Inc / HotGen Ltd
 |**Status:**|preliminary

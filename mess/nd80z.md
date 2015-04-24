@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nd80z
+|**Parent:**|[tk80](tk80.md)
 |**Year:**|19??
 |**Manufacturer:**|Chunichi
 |**Status:**|good

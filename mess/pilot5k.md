@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pilot5k
+|**Parent:**|[pilot1k](pilot1k.md)
 |**Year:**|1996
 |**Manufacturer:**|U.S. Robotics
 |**Status:**|preliminary

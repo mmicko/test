@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|z80netf
+|**Parent:**|[z80ne](z80ne.md)
 |**Year:**|1980
 |**Manufacturer:**|Nuova Elettronica
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=z80ne.c)
+|**Source file:**|[z80ne.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/z80ne.c)
 
 ##Emulation info
 || Status |

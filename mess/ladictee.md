@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ladictee
+|**Parent:**|[snspell](snspell.md)
 |**Year:**|1980
 |**Manufacturer:**|Texas Instruments
 |**Status:**|preliminary

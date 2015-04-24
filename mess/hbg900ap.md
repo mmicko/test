@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbg900ap
+|**Parent:**|[hbg900p](hbg900p.md)
 |**Year:**|1986
 |**Manufacturer:**|Sony
 |**Status:**|good

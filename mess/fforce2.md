@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fforce2
+|**Parent:**|[1292apvs](1292apvs.md)
 |**Year:**|1979
 |**Manufacturer:**|Fountain
 |**Status:**|imperfect

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ct386sx
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1988
 |**Manufacturer:**|<generic>
 |**Status:**|preliminary

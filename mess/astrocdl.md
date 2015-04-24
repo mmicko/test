@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|astrocdl
+|**Parent:**|[astrocde](astrocde.md)
 |**Year:**|1977
 |**Manufacturer:**|Bally Manufacturing
 |**Status:**|good

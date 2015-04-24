@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dina
+|**Parent:**|[czz50](czz50.md)
 |**Year:**|1988
 |**Manufacturer:**|Telegames
 |**Status:**|good

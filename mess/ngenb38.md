@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ngenb38
+|**Parent:**|[ngen](ngen.md)
 |**Year:**|1991
 |**Manufacturer:**|Financial Products Corp.
 |**Status:**|preliminary

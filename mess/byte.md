@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|byte
+|**Parent:**|[spectrum](spectrum.md)
 |**Year:**|1990
 |**Manufacturer:**|<unknown>
 |**Status:**|good

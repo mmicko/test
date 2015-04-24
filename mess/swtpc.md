@@ -8,6 +8,8 @@
 |**Year:**|1975
 |**Manufacturer:**|Southwest Technical Products Corporation
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=swtpc.c)
+|**Source file:**|[swtpc.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/swtpc.c)
 
 ##Emulation info
 || Status |

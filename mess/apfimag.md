@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apfimag
+|**Parent:**|[apfm1000](apfm1000.md)
 |**Year:**|1979
 |**Manufacturer:**|APF Electronics Inc.
 |**Status:**|good

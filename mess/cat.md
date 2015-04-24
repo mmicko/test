@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cat
+|**Parent:**|[swyft](swyft.md)
 |**Year:**|1987
 |**Manufacturer:**|Canon
 |**Status:**|preliminary

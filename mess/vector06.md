@@ -8,6 +8,8 @@
 |**Year:**|1987
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=vector06.c)
+|**Source file:**|[vector06.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/vector06.c)
 
 ##Emulation info
 || Status |

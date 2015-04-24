@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lik
+|**Parent:**|[special](special.md)
 |**Year:**|1985
 |**Manufacturer:**|<unknown>
 |**Status:**|good

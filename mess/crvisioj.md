@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|crvisioj
+|**Parent:**|[crvision](crvision.md)
 |**Year:**|1982
 |**Manufacturer:**|Cheryco
 |**Status:**|good

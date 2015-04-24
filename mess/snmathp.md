@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|snmathp
+|**Parent:**|[snmath](snmath.md)
 |**Year:**|1980
 |**Manufacturer:**|Texas Instruments
 |**Status:**|preliminary
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=tispeak.c)
+|**Source file:**|[tispeak.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/tispeak.c)
 
 ##Emulation info
 || Status |

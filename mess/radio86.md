@@ -8,6 +8,8 @@
 |**Year:**|1986
 |**Manufacturer:**|<unknown>
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=radio86.c)
+|**Source file:**|[radio86.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/radio86.c)
 
 ##Emulation info
 || Status |

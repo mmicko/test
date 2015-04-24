@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bbcmt
+|**Parent:**|[bbcm](bbcm.md)
 |**Year:**|1986
 |**Manufacturer:**|Acorn
 |**Status:**|preliminary

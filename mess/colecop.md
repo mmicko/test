@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|colecop
+|**Parent:**|[coleco](coleco.md)
 |**Year:**|1983
 |**Manufacturer:**|Coleco
 |**Status:**|good

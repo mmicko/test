@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|md3
+|**Parent:**|[md2](md2.md)
 |**Year:**|1982
 |**Manufacturer:**|Morrow Designs
 |**Status:**|preliminary

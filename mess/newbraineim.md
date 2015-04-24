@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|newbraineim
+|**Parent:**|[newbrain](newbrain.md)
 |**Year:**|1981
 |**Manufacturer:**|Grundy Business Systems Ltd
 |**Status:**|preliminary

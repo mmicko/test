@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf9s
+|**Parent:**|[hbf9p](hbf9p.md)
 |**Year:**|1985
 |**Manufacturer:**|Sony
 |**Status:**|good

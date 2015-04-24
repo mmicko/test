@@ -5,9 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|radio99
+|**Parent:**|[mikro80](mikro80.md)
 |**Year:**|1993
 |**Manufacturer:**|<unknown>
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=mikro80.c)
+|**Source file:**|[mikro80.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/mikro80.c)
 
 ##Emulation info
 || Status |

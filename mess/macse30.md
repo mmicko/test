@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macse30
+|**Parent:**|[mac2fdhd](mac2fdhd.md)
 |**Year:**|1989
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

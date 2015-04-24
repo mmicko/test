@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lynx96k
+|**Parent:**|[lynx48k](lynx48k.md)
 |**Year:**|1983
 |**Manufacturer:**|Camputers
 |**Status:**|preliminary

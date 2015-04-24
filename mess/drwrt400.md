@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|drwrt400
+|**Parent:**|[wales210](wales210.md)
 |**Year:**|1996
 |**Manufacturer:**|NTS
 |**Status:**|preliminary

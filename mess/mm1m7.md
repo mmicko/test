@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mm1m7
+|**Parent:**|[mm1m6](mm1m6.md)
 |**Year:**|1981
 |**Manufacturer:**|Nokia Data
 |**Status:**|good

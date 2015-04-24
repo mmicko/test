@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|berlinp
+|**Parent:**|[van16](van16.md)
 |**Year:**|1994
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

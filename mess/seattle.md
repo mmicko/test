@@ -8,6 +8,8 @@
 |**Year:**|1986
 |**Manufacturer:**|Seattle Computer
 |**Status:**|good
+|**Bug reports:**|[MAMETesters](http://mametesters.org/view_all_set.php?type=1&temporary=y&search=seattle.c)
+|**Source file:**|[seattle.c](https://github.com/mamedev/mame/blob/master/src/mess/drivers/seattle.c)
 
 ##Emulation info
 || Status |

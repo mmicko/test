@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|picou
+|**Parent:**|[pico](pico.md)
 |**Year:**|1994
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

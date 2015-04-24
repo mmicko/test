@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ftsserv
+|**Parent:**|[ibm5170](ibm5170.md)
 |**Year:**|1991
 |**Manufacturer:**|Apricot
 |**Status:**|preliminary

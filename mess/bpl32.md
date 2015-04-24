@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bpl32
+|**Parent:**|[van16](van16.md)
 |**Year:**|1996
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

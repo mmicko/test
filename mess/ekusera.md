@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ekusera
+|**Parent:**|[intmpt03](intmpt03.md)
 |**Year:**|1982
 |**Manufacturer:**|P.I.C
 |**Status:**|imperfect
