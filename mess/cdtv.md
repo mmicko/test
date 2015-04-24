@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cdtv
+|**Clones:**|[cdtvn](cdtvn.md)
 |**Year:**|1990
 |**Manufacturer:**|Commodore
 |**Status:**|preliminary

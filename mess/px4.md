@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|px4
+|**Clones:**|[px4p](px4p.md)
 |**Year:**|1985
 |**Manufacturer:**|Epson
 |**Status:**|good

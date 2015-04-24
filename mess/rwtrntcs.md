@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|rwtrntcs
+|**Clones:**|[telngtcs](telngtcs.md)
 |**Year:**|1979
 |**Manufacturer:**|Rowtron
 |**Status:**|imperfect

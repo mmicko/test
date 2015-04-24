@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2e
+|**Clones:**|[apple2ee](apple2ee.md)
+||[apple2eeuk](apple2eeuk.md)
+||[apple2ep](apple2ep.md)
+||[apple2euk](apple2euk.md)
+||[mprof3](mprof3.md)
+||[prav8c](prav8c.md)
 |**Year:**|1983
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

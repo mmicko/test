@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|laseract
+|**Clones:**|[laseractj](laseractj.md)
 |**Year:**|1993
 |**Manufacturer:**|Pioneer
 |**Status:**|preliminary

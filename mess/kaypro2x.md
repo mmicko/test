@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|kaypro2x
+|**Clones:**|[kaypro4a](kaypro4a.md)
 |**Year:**|1984
 |**Manufacturer:**|Non Linear Systems
 |**Status:**|preliminary

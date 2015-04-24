@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|krvnjvtv
+|**Clones:**|[oc2000](oc2000.md)
 |**Year:**|1979
 |**Manufacturer:**|SOE
 |**Status:**|imperfect

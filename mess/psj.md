@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|psj
+|**Clones:**|[psa](psa.md)
+||[pse](pse.md)
+||[psu](psu.md)
 |**Year:**|1994
 |**Manufacturer:**|Sony Computer Entertainment Inc
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nascom1
+|**Clones:**|[nascom2](nascom2.md)
 |**Year:**|1978
 |**Manufacturer:**|Nascom Microcomputers
 |**Status:**|preliminary

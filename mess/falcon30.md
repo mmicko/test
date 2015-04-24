@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|falcon30
+|**Clones:**|[falcon40](falcon40.md)
 |**Year:**|1992
 |**Manufacturer:**|Atari
 |**Status:**|preliminary

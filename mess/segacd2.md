@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|segacd2
+|**Clones:**|[aiwamcd](aiwamcd.md)
+||[megacd2](megacd2.md)
+||[megacd2j](megacd2j.md)
 |**Year:**|1993
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

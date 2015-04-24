@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hc7
+|**Clones:**|[hc5](hc5.md)
+||[hc6](hc6.md)
 |**Year:**|198?
 |**Manufacturer:**|Victor
 |**Status:**|good

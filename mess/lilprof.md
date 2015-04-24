@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|lilprof
+|**Clones:**|[lilprof78](lilprof78.md)
 |**Year:**|1976
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good

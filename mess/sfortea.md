@@ -5,6 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sfortea
+|**Clones:**|[sexpertb](sexpertb.md)
+||[sexpertc](sexpertc.md)
+||[sforteb](sforteb.md)
+||[sforteba](sforteba.md)
+||[sfortec](sfortec.md)
 |**Year:**|1987
 |**Manufacturer:**|Novag
 |**Status:**|preliminary

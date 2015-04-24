@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|snspell
+|**Clones:**|[ladictee](ladictee.md)
+||[snspella](snspella.md)
+||[snspellb](snspellb.md)
+||[snspelljp](snspelljp.md)
+||[snspelluk](snspelluk.md)
+||[snspelluka](snspelluka.md)
 |**Year:**|1978
 |**Manufacturer:**|Texas Instruments
 |**Status:**|imperfect

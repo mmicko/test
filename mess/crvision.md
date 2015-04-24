@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|crvision
+|**Clones:**|[crvisio2](crvisio2.md)
+||[crvisioj](crvisioj.md)
+||[fnvision](fnvision.md)
+||[rameses](rameses.md)
+||[vz2000](vz2000.md)
+||[wizzard](wizzard.md)
 |**Year:**|1982
 |**Manufacturer:**|Video Technology
 |**Status:**|good

@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|neocdz
+|**Clones:**|[neocd](neocd.md)
+||[neocdzj](neocdzj.md)
 |**Year:**|1996
 |**Manufacturer:**|SNK
 |**Status:**|good

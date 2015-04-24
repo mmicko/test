@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2gs
+|**Clones:**|[apple2gsr0](apple2gsr0.md)
+||[apple2gsr0p](apple2gsr0p.md)
+||[apple2gsr0p2](apple2gsr0p2.md)
+||[apple2gsr1](apple2gsr1.md)
+||[apple2gsr3lp](apple2gsr3lp.md)
+||[apple2gsr3p](apple2gsr3p.md)
 |**Year:**|1989
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

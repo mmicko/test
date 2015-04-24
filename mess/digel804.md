@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|digel804
+|**Clones:**|[ep804](ep804.md)
 |**Year:**|1985
 |**Manufacturer:**|Digelec, Inc
 |**Status:**|preliminary

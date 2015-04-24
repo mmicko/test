@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ngen
+|**Clones:**|[386i](386i.md)
+||[ngenb38](ngenb38.md)
 |**Year:**|1983
 |**Manufacturer:**|Convergent Technologies
 |**Status:**|preliminary

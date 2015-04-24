@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|avigo
+|**Clones:**|[avigo_de](avigo_de.md)
+||[avigo_es](avigo_es.md)
+||[avigo_fr](avigo_fr.md)
+||[avigo_it](avigo_it.md)
 |**Year:**|1997
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good

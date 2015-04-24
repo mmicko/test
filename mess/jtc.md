@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|jtc
+|**Clones:**|[jtces23](jtces23.md)
+||[jtces40](jtces40.md)
+||[jtces88](jtces88.md)
 |**Year:**|1987
 |**Manufacturer:**|Jugend+Technik
 |**Status:**|preliminary

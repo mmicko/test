@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vector06
+|**Clones:**|[krista2](krista2.md)
+||[pk6128c](pk6128c.md)
+||[vec1200](vec1200.md)
 |**Year:**|1987
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bbcmc
+|**Clones:**|[bbcmc_ar](bbcmc_ar.md)
 |**Year:**|1986
 |**Manufacturer:**|Acorn
 |**Status:**|good

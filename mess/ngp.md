@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ngp
+|**Clones:**|[ngpc](ngpc.md)
 |**Year:**|1998
 |**Manufacturer:**|SNK
 |**Status:**|good

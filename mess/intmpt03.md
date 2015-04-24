@@ -5,6 +5,16 @@
 ||Info|
 |-----|-----|
 |**Setname:**|intmpt03
+|**Clones:**|[dynavisn](dynavisn.md)
+||[ekusera](ekusera.md)
+||[itmcmtp3](itmcmtp3.md)
+||[poppympt](poppympt.md)
+||[prestmpt](prestmpt.md)
+||[rowtrn2k](rowtrn2k.md)
+||[soundic](soundic.md)
+||[tbbympt3](tbbympt3.md)
+||[tempestm](tempestm.md)
+||[tryomvgc](tryomvgc.md)
 |**Year:**|198?
 |**Manufacturer:**|Intelligent Game
 |**Status:**|imperfect

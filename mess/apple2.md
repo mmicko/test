@@ -5,6 +5,16 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apple2
+|**Clones:**|[ace100](ace100.md)
+||[agat7](agat7.md)
+||[agat9](agat9.md)
+||[am64](am64.md)
+||[apple2jp](apple2jp.md)
+||[apple2p](apple2p.md)
+||[ivelultr](ivelultr.md)
+||[prav82](prav82.md)
+||[prav8m](prav8m.md)
+||[space84](space84.md)
 |**Year:**|1977
 |**Manufacturer:**|Apple Computer
 |**Status:**|good

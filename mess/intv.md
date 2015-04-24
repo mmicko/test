@@ -5,6 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|intv
+|**Clones:**|[intv2](intv2.md)
+||[intvecs](intvecs.md)
+||[intvkbd](intvkbd.md)
+||[intvoice](intvoice.md)
+||[intvsrs](intvsrs.md)
 |**Year:**|1979
 |**Manufacturer:**|Mattel
 |**Status:**|good

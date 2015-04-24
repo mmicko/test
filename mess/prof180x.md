@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|prof180x
+|**Clones:**|[prof181x](prof181x.md)
 |**Year:**|1986
 |**Manufacturer:**|Conitec Datensysteme
 |**Status:**|preliminary

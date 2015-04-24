@@ -5,6 +5,14 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nes
+|**Clones:**|[dendy](dendy.md)
+||[drpcjr](drpcjr.md)
+||[famicom](famicom.md)
+||[famitwin](famitwin.md)
+||[fds](fds.md)
+||[gchinatv](gchinatv.md)
+||[m82](m82.md)
+||[nespal](nespal.md)
 |**Year:**|1985
 |**Manufacturer:**|Nintendo
 |**Status:**|imperfect

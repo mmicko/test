@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|b2m
+|**Clones:**|[b2mrom](b2mrom.md)
 |**Year:**|1989
 |**Manufacturer:**|BNPO
 |**Status:**|good

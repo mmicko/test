@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sapi1
+|**Clones:**|[sapizps2](sapizps2.md)
+||[sapizps3](sapizps3.md)
+||[sapizps3a](sapizps3a.md)
+||[sapizps3b](sapizps3b.md)
 |**Year:**|1985
 |**Manufacturer:**|Tesla
 |**Status:**|good

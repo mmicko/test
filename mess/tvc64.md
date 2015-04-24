@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tvc64
+|**Clones:**|[tvc64p](tvc64p.md)
+||[tvc64pru](tvc64pru.md)
 |**Year:**|1985
 |**Manufacturer:**|Videoton
 |**Status:**|preliminary

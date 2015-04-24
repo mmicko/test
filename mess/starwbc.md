@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|starwbc
+|**Clones:**|[starwbcp](starwbcp.md)
 |**Year:**|1979
 |**Manufacturer:**|Kenner
 |**Status:**|good

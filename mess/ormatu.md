@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ormatu
+|**Clones:**|[intervsn](intervsn.md)
+||[sheenhvc](sheenhvc.md)
 |**Year:**|198?
 |**Manufacturer:**|Ormatu Electronics
 |**Status:**|imperfect

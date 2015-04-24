@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|megapc
+|**Clones:**|[megapcpl](megapcpl.md)
+||[megapcpla](megapcpla.md)
 |**Year:**|1993
 |**Manufacturer:**|Amstrad plc
 |**Status:**|preliminary

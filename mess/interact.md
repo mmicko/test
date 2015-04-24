@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|interact
+|**Clones:**|[hector1](hector1.md)
 |**Year:**|1979
 |**Manufacturer:**|Interact
 |**Status:**|imperfect

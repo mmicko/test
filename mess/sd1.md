@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sd1
+|**Clones:**|[sd132](sd132.md)
 |**Year:**|1990
 |**Manufacturer:**|Ensoniq
 |**Status:**|preliminary

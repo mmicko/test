@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|piopx7
+|**Clones:**|[piopx7uk](piopx7uk.md)
+||[piopxv60](piopxv60.md)
 |**Year:**|1985
 |**Manufacturer:**|Pioneer
 |**Status:**|good

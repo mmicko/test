@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|glcolor
+|**Clones:**|[glscolor](glscolor.md)
 |**Year:**|1994
 |**Manufacturer:**|VTech
 |**Status:**|preliminary

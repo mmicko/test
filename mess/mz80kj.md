@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mz80kj
+|**Clones:**|[mz80k](mz80k.md)
 |**Year:**|1979
 |**Manufacturer:**|Sharp
 |**Status:**|good

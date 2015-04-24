@@ -5,6 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bbcm
+|**Clones:**|[bbcm512](bbcm512.md)
+||[bbcmaiv](bbcmaiv.md)
+||[bbcmarm](bbcmarm.md)
+||[bbcmet](bbcmet.md)
+||[bbcmt](bbcmt.md)
 |**Year:**|1986
 |**Manufacturer:**|Acorn
 |**Status:**|good

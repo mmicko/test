@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|trs80m2
+|**Clones:**|[trs80m16](trs80m16.md)
 |**Year:**|1979
 |**Manufacturer:**|Tandy Radio Shack
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|compis
+|**Clones:**|[compis2](compis2.md)
 |**Year:**|1985
 |**Manufacturer:**|Telenova
 |**Status:**|preliminary

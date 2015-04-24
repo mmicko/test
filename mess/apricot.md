@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|apricot
+|**Clones:**|[apricotxi](apricotxi.md)
 |**Year:**|1983
 |**Manufacturer:**|ACT
 |**Status:**|preliminary

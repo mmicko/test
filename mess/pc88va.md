@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pc88va
+|**Clones:**|[pc88va2](pc88va2.md)
 |**Year:**|1987
 |**Manufacturer:**|Nippon Electronic Company
 |**Status:**|preliminary

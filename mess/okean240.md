@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|okean240
+|**Clones:**|[okean240a](okean240a.md)
+||[okean240t](okean240t.md)
 |**Year:**|1986
 |**Manufacturer:**|<unknown>
 |**Status:**|preliminary

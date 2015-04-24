@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sq1
+|**Clones:**|[sqrack](sqrack.md)
 |**Year:**|1990
 |**Manufacturer:**|Ensoniq
 |**Status:**|preliminary

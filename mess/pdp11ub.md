@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|pdp11ub
+|**Clones:**|[pdp11qb](pdp11qb.md)
+||[pdp11ub2](pdp11ub2.md)
+||[sms1000](sms1000.md)
 |**Year:**|????
 |**Manufacturer:**|Digital Equipment Corporation
 |**Status:**|preliminary

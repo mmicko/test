@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|orbituvi
+|**Clones:**|[vdmaster](vdmaster.md)
 |**Year:**|198?
 |**Manufacturer:**|Orbit Electronics
 |**Status:**|imperfect

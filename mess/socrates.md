@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|socrates
+|**Clones:**|[profweis](profweis.md)
+||[socratfc](socratfc.md)
 |**Year:**|1988
 |**Manufacturer:**|Video Technology
 |**Status:**|preliminary

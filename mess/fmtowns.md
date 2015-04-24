@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fmtowns
+|**Clones:**|[fmtownsa](fmtownsa.md)
+||[fmtownsftv](fmtownsftv.md)
+||[fmtownshr](fmtownshr.md)
+||[fmtownsmx](fmtownsmx.md)
+||[fmtownssj](fmtownssj.md)
+||[fmtownsux](fmtownsux.md)
 |**Year:**|1989
 |**Manufacturer:**|Fujitsu
 |**Status:**|preliminary

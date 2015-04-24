@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|dcjp
+|**Clones:**|[dc](dc.md)
+||[dcdev](dcdev.md)
+||[dceu](dceu.md)
+||[dcprt](dcprt.md)
 |**Year:**|1998
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

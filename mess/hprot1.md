@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hprot1
+|**Clones:**|[hprot2r6](hprot2r6.md)
+||[hprotr8a](hprotr8a.md)
 |**Year:**|2002
 |**Manufacturer:**|HENRY
 |**Status:**|preliminary

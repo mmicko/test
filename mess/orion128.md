@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|orion128
+|**Clones:**|[orionide](orionide.md)
+||[orionidm](orionidm.md)
+||[orionms](orionms.md)
+||[orionpro](orionpro.md)
+||[orionz80](orionz80.md)
+||[orionzms](orionzms.md)
 |**Year:**|1990
 |**Manufacturer:**|<unknown>
 |**Status:**|good

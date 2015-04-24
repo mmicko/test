@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|scv
+|**Clones:**|[scv_pal](scv_pal.md)
 |**Year:**|1984
 |**Manufacturer:**|Epoch
 |**Status:**|imperfect

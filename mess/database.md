@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|database
+|**Clones:**|[vmdtbase](vmdtbase.md)
 |**Year:**|1979
 |**Manufacturer:**|Voltmace
 |**Status:**|imperfect

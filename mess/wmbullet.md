@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|wmbullet
+|**Clones:**|[wmbulletf](wmbulletf.md)
 |**Year:**|1982
 |**Manufacturer:**|Wave Mate
 |**Status:**|preliminary

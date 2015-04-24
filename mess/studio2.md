@@ -5,6 +5,13 @@
 ||Info|
 |-----|-----|
 |**Setname:**|studio2
+|**Clones:**|[apollo80](apollo80.md)
+||[cm1200](cm1200.md)
+||[mpt02](mpt02.md)
+||[mpt02h](mpt02h.md)
+||[mtc9016](mtc9016.md)
+||[shmc1200](shmc1200.md)
+||[visicom](visicom.md)
 |**Year:**|1977
 |**Manufacturer:**|RCA
 |**Status:**|imperfect

@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cpc51
+|**Clones:**|[cpc50a](cpc50a.md)
+||[cpc50b](cpc50b.md)
 |**Year:**|1986
 |**Manufacturer:**|Daewoo
 |**Status:**|good

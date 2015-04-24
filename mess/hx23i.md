@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hx23i
+|**Clones:**|[hx23](hx23.md)
+||[hx23f](hx23f.md)
 |**Year:**|190?
 |**Manufacturer:**|Toshiba
 |**Status:**|good

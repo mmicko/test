@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nextst
+|**Clones:**|[nextct](nextct.md)
+||[nextctc](nextctc.md)
+||[nextstc](nextstc.md)
 |**Year:**|1990
 |**Manufacturer:**|Next Software Inc
 |**Status:**|preliminary

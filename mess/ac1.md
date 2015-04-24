@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ac1
+|**Clones:**|[ac1_32](ac1_32.md)
+||[ac1scch](ac1scch.md)
 |**Year:**|1984
 |**Manufacturer:**|Frank Heyder
 |**Status:**|good

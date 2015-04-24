@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|channlf2
+|**Clones:**|[ingtelma](ingtelma.md)
+||[itttelma](itttelma.md)
+||[luxorvec](luxorvec.md)
+||[sabavpl2](sabavpl2.md)
 |**Year:**|1978
 |**Manufacturer:**|Fairchild
 |**Status:**|good

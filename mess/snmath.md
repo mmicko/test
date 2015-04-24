@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|snmath
+|**Clones:**|[snmathp](snmathp.md)
 |**Year:**|1986
 |**Manufacturer:**|Texas Instruments
 |**Status:**|imperfect

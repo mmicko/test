@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|swtpc09
+|**Clones:**|[swtpc09d3](swtpc09d3.md)
+||[swtpc09i](swtpc09i.md)
+||[swtpc09u](swtpc09u.md)
 |**Year:**|1980
 |**Manufacturer:**|SWTPC
 |**Status:**|good

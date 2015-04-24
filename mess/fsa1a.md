@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fsa1a
+|**Clones:**|[fsa1](fsa1.md)
 |**Year:**|1986
 |**Manufacturer:**|Panasonic / Matsushita
 |**Status:**|good

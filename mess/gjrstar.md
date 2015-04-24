@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|gjrstar
+|**Clones:**|[gjrstar2](gjrstar2.md)
 |**Year:**|1996
 |**Manufacturer:**|VTech
 |**Status:**|preliminary

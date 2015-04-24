@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hp48gx
+|**Clones:**|[hp48g](hp48g.md)
+||[hp48gp](hp48gp.md)
 |**Year:**|1993
 |**Manufacturer:**|Hewlett Packard
 |**Status:**|good

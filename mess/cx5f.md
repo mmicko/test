@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cx5f
+|**Clones:**|[cx5f1](cx5f1.md)
 |**Year:**|1984
 |**Manufacturer:**|Yamaha
 |**Status:**|good

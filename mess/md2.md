@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|md2
+|**Clones:**|[md3](md3.md)
 |**Year:**|1982
 |**Manufacturer:**|Morrow Designs
 |**Status:**|preliminary

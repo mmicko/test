@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tec1
+|**Clones:**|[tecjmon](tecjmon.md)
 |**Year:**|1984
 |**Manufacturer:**|Talking Electronics magazine
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|canonv30
+|**Clones:**|[canonv30f](canonv30f.md)
 |**Year:**|1985
 |**Manufacturer:**|Canon
 |**Status:**|good

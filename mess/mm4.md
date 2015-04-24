@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mm4
+|**Clones:**|[mm2](mm2.md)
+||[mm4tk](mm4tk.md)
+||[mm5](mm5.md)
+||[mm50](mm50.md)
+||[mm5tk](mm5tk.md)
+||[rebel5](rebel5.md)
 |**Year:**|1987
 |**Manufacturer:**|Hegener & Glaser
 |**Status:**|good

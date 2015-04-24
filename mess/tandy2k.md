@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tandy2k
+|**Clones:**|[tandy2khd](tandy2khd.md)
 |**Year:**|1983
 |**Manufacturer:**|Tandy Radio Shack
 |**Status:**|preliminary

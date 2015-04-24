@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|segacd
+|**Clones:**|[megacd](megacd.md)
+||[megacda](megacda.md)
+||[megacdj](megacdj.md)
 |**Year:**|1992
 |**Manufacturer:**|Sega
 |**Status:**|preliminary

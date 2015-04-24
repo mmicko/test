@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|trsm100
+|**Clones:**|[tandy102](tandy102.md)
 |**Year:**|1983
 |**Manufacturer:**|Tandy Radio Shack
 |**Status:**|good

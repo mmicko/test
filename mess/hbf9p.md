@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf9p
+|**Clones:**|[hbf9pr](hbf9pr.md)
+||[hbf9s](hbf9s.md)
 |**Year:**|1985
 |**Manufacturer:**|Sony
 |**Status:**|good

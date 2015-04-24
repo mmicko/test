@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|galaxy
+|**Clones:**|[galaxyp](galaxyp.md)
 |**Year:**|1983
 |**Manufacturer:**|Elektronika inzenjering
 |**Status:**|good

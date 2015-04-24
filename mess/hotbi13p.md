@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hotbi13p
+|**Clones:**|[hotbi13b](hotbi13b.md)
+||[hotbit11](hotbit11.md)
+||[hotbit12](hotbit12.md)
 |**Year:**|1985
 |**Manufacturer:**|Sharp / Epcom
 |**Status:**|good

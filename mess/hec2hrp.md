@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hec2hrp
+|**Clones:**|[hec2hr](hec2hr.md)
+||[hec2hrx](hec2hrx.md)
+||[hec2mdhrx](hec2mdhrx.md)
+||[hec2mx40](hec2mx40.md)
+||[hec2mx80](hec2mx80.md)
+||[victor](victor.md)
 |**Year:**|1983
 |**Manufacturer:**|Micronique
 |**Status:**|imperfect

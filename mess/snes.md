@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|snes
+|**Clones:**|[snespal](snespal.md)
 |**Year:**|1989
 |**Manufacturer:**|Nintendo
 |**Status:**|imperfect

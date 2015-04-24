@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bigboard
+|**Clones:**|[bigbord2](bigbord2.md)
+||[mk82](mk82.md)
+||[x820](x820.md)
 |**Year:**|1980
 |**Manufacturer:**|Digital Research Computers
 |**Status:**|good

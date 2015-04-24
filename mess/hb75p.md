@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hb75p
+|**Clones:**|[hb75d](hb75d.md)
 |**Year:**|1983
 |**Manufacturer:**|Sony
 |**Status:**|good

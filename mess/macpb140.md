@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|macpb140
+|**Clones:**|[macpb145](macpb145.md)
+||[macpb145b](macpb145b.md)
+||[macpb170](macpb170.md)
+||[macqd700](macqd700.md)
 |**Year:**|1991
 |**Manufacturer:**|Apple Computer
 |**Status:**|preliminary

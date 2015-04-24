@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vesta
+|**Clones:**|[hobby](hobby.md)
+||[pk8002](pk8002.md)
 |**Year:**|1987
 |**Manufacturer:**|BP EVM
 |**Status:**|good

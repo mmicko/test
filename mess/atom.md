@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|atom
+|**Clones:**|[atombb](atombb.md)
+||[atomeb](atomeb.md)
 |**Year:**|1979
 |**Manufacturer:**|Acorn
 |**Status:**|good

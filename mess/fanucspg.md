@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fanucspg
+|**Clones:**|[fanucspgm](fanucspgm.md)
 |**Year:**|1983
 |**Manufacturer:**|Fanuc
 |**Status:**|preliminary

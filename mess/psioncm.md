@@ -5,6 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|psioncm
+|**Clones:**|[psionla](psionla.md)
+||[psionlam](psionlam.md)
+||[psionp200](psionp200.md)
+||[psionp350](psionp350.md)
+||[psionxp](psionxp.md)
 |**Year:**|1986
 |**Manufacturer:**|Psion
 |**Status:**|imperfect

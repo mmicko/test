@@ -5,6 +5,11 @@
 ||Info|
 |-----|-----|
 |**Setname:**|super80
+|**Clones:**|[super80d](super80d.md)
+||[super80e](super80e.md)
+||[super80m](super80m.md)
+||[super80r](super80r.md)
+||[super80v](super80v.md)
 |**Year:**|1981
 |**Manufacturer:**|Dick Smith Electronics
 |**Status:**|good

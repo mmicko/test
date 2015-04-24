@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|kontiki
+|**Clones:**|[tiki100](tiki100.md)
 |**Year:**|1984
 |**Manufacturer:**|Kontiki Data A/S
 |**Status:**|good

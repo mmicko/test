@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sorcerer
+|**Clones:**|[sorcererd](sorcererd.md)
 |**Year:**|1979
 |**Manufacturer:**|Exidy Inc
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|attache
+|**Clones:**|[attachef](attachef.md)
 |**Year:**|1982
 |**Manufacturer:**|Otrona
 |**Status:**|preliminary

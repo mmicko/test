@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|fmtmarty
+|**Clones:**|[carmarty](carmarty.md)
+||[fmtmarty2](fmtmarty2.md)
 |**Year:**|1993
 |**Manufacturer:**|Fujitsu
 |**Status:**|preliminary

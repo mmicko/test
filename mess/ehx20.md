@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ehx20
+|**Clones:**|[ehx20e](ehx20e.md)
 |**Year:**|1983
 |**Manufacturer:**|Epson
 |**Status:**|preliminary

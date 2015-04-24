@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|stopthie
+|**Clones:**|[stopthiep](stopthiep.md)
 |**Year:**|1979
 |**Manufacturer:**|Parker Brothers
 |**Status:**|good

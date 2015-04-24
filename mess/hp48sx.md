@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hp48sx
+|**Clones:**|[hp48s](hp48s.md)
 |**Year:**|1990
 |**Manufacturer:**|Hewlett Packard
 |**Status:**|good

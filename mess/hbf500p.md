@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf500p
+|**Clones:**|[hbf500](hbf500.md)
+||[hbf500f](hbf500f.md)
 |**Year:**|1985
 |**Manufacturer:**|Sony
 |**Status:**|good

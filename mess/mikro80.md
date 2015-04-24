@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mikro80
+|**Clones:**|[kristall2](kristall2.md)
+||[radio99](radio99.md)
 |**Year:**|1983
 |**Manufacturer:**|<unknown>
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|3do
+|**Clones:**|[3do_pal](3do_pal.md)
 |**Year:**|1991
 |**Manufacturer:**|The 3DO Company
 |**Status:**|preliminary

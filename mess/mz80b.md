@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mz80b
+|**Clones:**|[mz2000](mz2000.md)
+||[mz2200](mz2200.md)
 |**Year:**|1981
 |**Manufacturer:**|Sharp
 |**Status:**|preliminary

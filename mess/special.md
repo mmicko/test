@@ -5,6 +5,12 @@
 ||Info|
 |-----|-----|
 |**Setname:**|special
+|**Clones:**|[erik](erik.md)
+||[lik](lik.md)
+||[pioner](pioner.md)
+||[specialm](specialm.md)
+||[specialp](specialp.md)
+||[specimx](specimx.md)
 |**Year:**|1985
 |**Manufacturer:**|<unknown>
 |**Status:**|good

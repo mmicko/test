@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|to8
+|**Clones:**|[to8d](to8d.md)
 |**Year:**|1986
 |**Manufacturer:**|Thomson
 |**Status:**|good

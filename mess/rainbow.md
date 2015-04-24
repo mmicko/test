@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|rainbow
+|**Clones:**|[rainbow100a](rainbow100a.md)
+||[rainbow190](rainbow190.md)
 |**Year:**|1983
 |**Manufacturer:**|Digital Equipment Corporation
 |**Status:**|preliminary

@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|kayproii
+|**Clones:**|[kaypro4](kaypro4.md)
+||[kaypro4p88](kaypro4p88.md)
+||[omni2](omni2.md)
 |**Year:**|1982
 |**Manufacturer:**|Non Linear Systems
 |**Status:**|good

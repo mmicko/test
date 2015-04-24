@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|coleco
+|**Clones:**|[colecop](colecop.md)
+||[svi603](svi603.md)
 |**Year:**|1982
 |**Manufacturer:**|Coleco
 |**Status:**|good

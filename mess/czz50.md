@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|czz50
+|**Clones:**|[dina](dina.md)
+||[prsarcde](prsarcde.md)
 |**Year:**|1986
 |**Manufacturer:**|Bit Corporation
 |**Status:**|good

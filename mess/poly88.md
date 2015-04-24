@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|poly88
+|**Clones:**|[poly8813](poly8813.md)
 |**Year:**|1976
 |**Manufacturer:**|PolyMorphic Systems
 |**Status:**|good

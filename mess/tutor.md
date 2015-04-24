@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tutor
+|**Clones:**|[pyuuta](pyuuta.md)
+||[pyuutajr](pyuutajr.md)
 |**Year:**|1983?
 |**Manufacturer:**|Tomy
 |**Status:**|good

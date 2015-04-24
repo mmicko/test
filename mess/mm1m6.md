@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|mm1m6
+|**Clones:**|[mm1m7](mm1m7.md)
 |**Year:**|1981
 |**Manufacturer:**|Nokia Data
 |**Status:**|good

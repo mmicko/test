@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|sfzch
+|**Clones:**|[sfach](sfach.md)
+||[sfzbch](sfzbch.md)
 |**Year:**|1995
 |**Manufacturer:**|Capcom
 |**Status:**|good

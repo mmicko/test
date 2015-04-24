@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|odyssey2
+|**Clones:**|[g7400](g7400.md)
+||[jopac](jopac.md)
+||[odyssey3](odyssey3.md)
+||[videopac](videopac.md)
 |**Year:**|1978
 |**Manufacturer:**|Magnavox
 |**Status:**|good

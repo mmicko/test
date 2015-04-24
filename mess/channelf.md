@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|channelf
+|**Clones:**|[luxorves](luxorves.md)
+||[sabavdpl](sabavdpl.md)
 |**Year:**|1976
 |**Manufacturer:**|Fairchild
 |**Status:**|good

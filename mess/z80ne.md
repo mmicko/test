@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|z80ne
+|**Clones:**|[z80net](z80net.md)
+||[z80netb](z80netb.md)
+||[z80netf](z80netf.md)
 |**Year:**|1980
 |**Manufacturer:**|Nuova Elettronica
 |**Status:**|good

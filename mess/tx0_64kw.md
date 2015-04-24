@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|tx0_64kw
+|**Clones:**|[tx0_8kw](tx0_8kw.md)
 |**Year:**|1956
 |**Manufacturer:**|MIT
 |**Status:**|preliminary

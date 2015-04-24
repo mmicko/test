@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|oric1
+|**Clones:**|[orica](orica.md)
+||[prav8d](prav8d.md)
+||[prav8dd](prav8dd.md)
+||[telstrat](telstrat.md)
 |**Year:**|1983
 |**Manufacturer:**|Tangerine
 |**Status:**|good

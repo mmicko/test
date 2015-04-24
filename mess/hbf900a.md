@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf900a
+|**Clones:**|[hbf900](hbf900.md)
 |**Year:**|1986
 |**Manufacturer:**|Sony
 |**Status:**|good

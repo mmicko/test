@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|amsterd
+|**Clones:**|[dallas16](dallas16.md)
+||[dallas32](dallas32.md)
+||[roma](roma.md)
+||[roma32](roma32.md)
 |**Year:**|1984
 |**Manufacturer:**|Hegener & Glaser Muenchen
 |**Status:**|good

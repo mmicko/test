@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|plldium
+|**Clones:**|[mratlus](mratlus.md)
+||[polyvcg](polyvcg.md)
+||[trakcvg](trakcvg.md)
 |**Year:**|198?
 |**Manufacturer:**|Neckermann
 |**Status:**|preliminary

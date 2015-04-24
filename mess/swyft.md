@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|swyft
+|**Clones:**|[cat](cat.md)
 |**Year:**|1985
 |**Manufacturer:**|Information Applicance Inc
 |**Status:**|preliminary

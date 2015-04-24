@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|selz80
+|**Clones:**|[dagz80](dagz80.md)
 |**Year:**|1985
 |**Manufacturer:**|SEL
 |**Status:**|good

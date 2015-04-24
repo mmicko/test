@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|hbf700p
+|**Clones:**|[hbf700d](hbf700d.md)
+||[hbf700f](hbf700f.md)
+||[hbf700s](hbf700s.md)
 |**Year:**|1985
 |**Manufacturer:**|Sony
 |**Status:**|good

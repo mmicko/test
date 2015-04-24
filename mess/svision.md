@@ -5,6 +5,10 @@
 ||Info|
 |-----|-----|
 |**Setname:**|svision
+|**Clones:**|[svisionn](svisionn.md)
+||[svisionp](svisionp.md)
+||[svisions](svisions.md)
+||[tvlinkp](tvlinkp.md)
 |**Year:**|1992
 |**Manufacturer:**|Watara
 |**Status:**|good

@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vbrc
+|**Clones:**|[bridgec3](bridgec3.md)
 |**Year:**|1979
 |**Manufacturer:**|Fidelity Electronics
 |**Status:**|preliminary

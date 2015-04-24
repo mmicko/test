@@ -5,6 +5,17 @@
 ||Info|
 |-----|-----|
 |**Setname:**|arcadia
+|**Clones:**|[advsnha](advsnha.md)
+||[bndarc](bndarc.md)
+||[hanihac](hanihac.md)
+||[hmg2650](hmg2650.md)
+||[ixl2000](ixl2000.md)
+||[leonardo](leonardo.md)
+||[lvision](lvision.md)
+||[tccosmos](tccosmos.md)
+||[telefevr](telefevr.md)
+||[tunixha](tunixha.md)
+||[tvg2000](tvg2000.md)
 |**Year:**|1982
 |**Manufacturer:**|Emerson
 |**Status:**|imperfect

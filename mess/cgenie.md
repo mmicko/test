@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|cgenie
+|**Clones:**|[cgenienz](cgenienz.md)
 |**Year:**|1982
 |**Manufacturer:**|EACA Computers Ltd
 |**Status:**|good

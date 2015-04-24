@@ -5,6 +5,9 @@
 ||Info|
 |-----|-----|
 |**Setname:**|psionlz
+|**Clones:**|[psionlz64](psionlz64.md)
+||[psionlz64s](psionlz64s.md)
+||[psionp464](psionp464.md)
 |**Year:**|1989
 |**Manufacturer:**|Psion
 |**Status:**|imperfect

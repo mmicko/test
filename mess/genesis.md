@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|genesis
+|**Clones:**|[megadrij](megadrij.md)
+||[megadriv](megadriv.md)
 |**Year:**|1989
 |**Manufacturer:**|Sega
 |**Status:**|good

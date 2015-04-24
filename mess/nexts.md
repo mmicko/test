@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|nexts
+|**Clones:**|[nexts2](nexts2.md)
+||[nextsc](nextsc.md)
 |**Year:**|1990
 |**Manufacturer:**|Next Software Inc
 |**Status:**|preliminary

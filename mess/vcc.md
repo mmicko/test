@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|vcc
+|**Clones:**|[uvc](uvc.md)
 |**Year:**|1979
 |**Manufacturer:**|Fidelity Electronics
 |**Status:**|preliminary

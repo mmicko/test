@@ -5,6 +5,8 @@
 ||Info|
 |-----|-----|
 |**Setname:**|bml3
+|**Clones:**|[bml3mk2](bml3mk2.md)
+||[bml3mk5](bml3mk5.md)
 |**Year:**|1980
 |**Manufacturer:**|Hitachi
 |**Status:**|preliminary

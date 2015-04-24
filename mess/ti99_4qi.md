@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|ti99_4qi
+|**Clones:**|[ti99_4qe](ti99_4qe.md)
 |**Year:**|1983
 |**Manufacturer:**|Texas Instruments
 |**Status:**|good

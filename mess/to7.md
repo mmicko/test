@@ -5,6 +5,7 @@
 ||Info|
 |-----|-----|
 |**Setname:**|to7
+|**Clones:**|[t9000](t9000.md)
 |**Year:**|1982
 |**Manufacturer:**|Thomson
 |**Status:**|good
